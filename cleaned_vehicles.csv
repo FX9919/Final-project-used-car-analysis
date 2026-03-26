@@ -1,0 +1,943 @@
+id,region,price,year,manufacturer,model,condition,cylinders,fuel,odometer,title_status,transmission,VIN,drive,size,type,paint_color,state,lat,long,posting_date
+7222695916,prescott,6000.0,2013.0,,,,,,89687.5,,,,,,,,az,33.455361,-86.737847,
+7218891961,fayetteville,11900.0,2013.0,,,,,,89687.5,,,,,,,,ar,33.455361,-86.737847,
+7221797935,florida keys,21000.0,2013.0,,,,,,89687.5,,,,,,,,fl,33.455361,-86.737847,
+7222270760,worcester / central MA,1500.0,2013.0,,,,,,89687.5,,,,,,,,ma,33.455361,-86.737847,
+7210384030,greensboro,4900.0,2013.0,,,,,,89687.5,,,,,,,,nc,33.455361,-86.737847,
+7222379453,hudson valley,1600.0,2013.0,,,,,,89687.5,,,,,,,,ny,33.455361,-86.737847,
+7221952215,hudson valley,1000.0,2013.0,,,,,,89687.5,,,,,,,,ny,33.455361,-86.737847,
+7220195662,hudson valley,15995.0,2013.0,,,,,,89687.5,,,,,,,,ny,33.455361,-86.737847,
+7209064557,medford-ashland,5000.0,2013.0,,,,,,89687.5,,,,,,,,or,33.455361,-86.737847,
+7219485069,erie,3000.0,2013.0,,,,,,89687.5,,,,,,,,pa,33.455361,-86.737847,
+7223509794,bellingham,13995.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7222753076,bellingham,24999.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7222206015,bellingham,21850.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7220030122,bellingham,26850.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7218423006,bellingham,11999.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7216672204,bellingham,24999.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7215617048,bellingham,21850.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7213839225,bellingham,26850.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7208549803,bellingham,11999.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7213843538,skagit / island / SJI,24999.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7212631321,skagit / island / SJI,21850.0,2013.0,,,,,,89687.5,,,,,,,,wa,33.455361,-86.737847,
+7219973522,la crosse,500.0,2013.0,,,,,,89687.5,,,,,,,,wi,33.455361,-86.737847,
+7316814884,auburn,33590.0,2014.0,gmc,sierra 1500 crew cab slt,good,,gas,57923.0,clean,other,3GTP1VEC4EG551563,,,pickup,white,al,32.59,-85.48,2021-05-04 12:31:18-05:00
+7316814758,auburn,22590.0,2010.0,chevrolet,silverado 1500,good,,gas,71229.0,clean,other,1GCSCSE06AZ123805,,,pickup,blue,al,32.59,-85.48,2021-05-04 12:31:08-05:00
+7316814989,auburn,39590.0,2020.0,chevrolet,silverado 1500 crew,good,,gas,19160.0,clean,other,3GCPWCED5LG130317,,,pickup,red,al,32.59,-85.48,2021-05-04 12:31:25-05:00
+7316743432,auburn,30990.0,2017.0,toyota,tundra double cab sr,good,,gas,41124.0,clean,other,5TFRM5F17HX120972,,,pickup,red,al,32.59,-85.48,2021-05-04 10:41:31-05:00
+7316356412,auburn,15000.0,2013.0,ford,f-150 xlt,excellent,,gas,128000.0,clean,automatic,,rwd,full-size,truck,black,al,32.592,-85.5189,2021-05-03 14:02:03-05:00
+7316343444,auburn,27990.0,2012.0,gmc,sierra 2500 hd extended cab,good,,gas,68696.0,clean,other,1GT220CG8CZ231238,4wd,,pickup,black,al,32.59,-85.48,2021-05-03 13:41:25-05:00
+7316304717,auburn,34590.0,2016.0,chevrolet,silverado 1500 double,good,,gas,29499.0,clean,other,1GCVKREH6GZ228691,4wd,,pickup,silver,al,32.59,-85.48,2021-05-03 12:41:33-05:00
+7316285779,auburn,35000.0,2019.0,toyota,tacoma,excellent,,gas,43000.0,clean,automatic,,4wd,,truck,grey,al,32.6013,-85.443974,2021-05-03 12:12:59-05:00
+7316257769,auburn,29990.0,2016.0,chevrolet,colorado extended cab,good,,gas,17302.0,clean,other,1GCHTCE37G1186784,4wd,,pickup,red,al,32.59,-85.48,2021-05-03 11:31:14-05:00
+7316133914,auburn,38590.0,2011.0,chevrolet,corvette grand sport,good,,gas,30237.0,clean,other,1G1YR3DW3B5102190,rwd,,other,red,al,32.59,-85.48,2021-05-03 07:50:35-05:00
+7316130053,auburn,4500.0,1992.0,jeep,cherokee,excellent,,gas,192000.0,clean,automatic,,4wd,,,,al,32.6454,-85.3783,2021-05-03 07:38:05-05:00
+7315816316,auburn,32990.0,2017.0,jeep,wrangler unlimited sport,good,,gas,30041.0,clean,other,1C4BJWDG5HL705371,4wd,,other,silver,al,32.59,-85.48,2021-05-02 12:22:10-05:00
+7315770394,auburn,24590.0,2017.0,chevrolet,silverado 1500 regular,good,,gas,40784.0,clean,other,1GCNCNEH7HZ118773,,,pickup,white,al,32.59,-85.48,2021-05-02 10:51:08-05:00
+7315756348,auburn,30990.0,2016.0,chevrolet,colorado crew cab z71,good,,other,34940.0,clean,other,1GCGTDE32G1341288,4wd,,pickup,blue,al,32.59,-85.48,2021-05-02 10:21:33-05:00
+7315715960,auburn,27990.0,2014.0,toyota,tacoma access cab pickup,good,,other,17805.0,clean,other,5TFTX4CN3EX042751,,,pickup,red,al,32.59,-85.48,2021-05-02 08:44:35-05:00
+7315379459,auburn,37990.0,2016.0,chevrolet,camaro ss coupe 2d,good,,gas,9704.0,clean,other,1G1FF1R79G0140582,rwd,,coupe,red,al,32.59,-85.48,2021-05-01 12:21:51-05:00
+7315275975,auburn,33590.0,2014.0,toyota,tundra crewmax sr5 pickup,good,,other,55251.0,clean,other,5TFEY5F15EX169621,,,pickup,red,al,32.59,-85.48,2021-05-01 09:21:37-05:00
+7315275942,auburn,30990.0,2019.0,ford,ranger supercrew xl pickup,good,,other,1834.0,clean,other,1FTER4EH3KLA31326,,,pickup,black,al,32.59,-85.48,2021-05-01 09:21:34-05:00
+7315270785,auburn,27990.0,2018.0,nissan,frontier crew cab pro-4x,good,,gas,37332.0,clean,other,1N6AD0EV5JN745213,4wd,,pickup,silver,al,32.59,-85.48,2021-05-01 09:11:35-05:00
+7314910156,auburn,34590.0,2018.0,ford,f150 super cab xl pickup 4d,good,,gas,20856.0,clean,other,1FTEX1CBXJKD41626,,,pickup,white,al,32.59,-85.48,2021-04-30 12:51:31-05:00
+7314854462,auburn,30590.0,2016.0,toyota,tacoma double cab sr5,good,,other,30176.0,clean,other,3TMAZ5CN7GM019182,,,pickup,red,al,32.59,-85.48,2021-04-30 11:21:17-05:00
+7314811916,auburn,32990.0,2020.0,jeep,wrangler sport suv 2d,good,,gas,20581.0,clean,other,1C4GJXAN4LW180633,4wd,,SUV,silver,al,32.59,-85.48,2021-04-30 10:11:01-05:00
+7314811909,auburn,38990.0,2020.0,ford,f150 supercrew cab xlt,good,,gas,12231.0,clean,other,1FTEW1CP4LFB84170,,,pickup,,al,32.59,-85.48,2021-04-30 10:11:00-05:00
+7314584296,auburn,22590.0,2017.0,ram,1500 regular cab tradesman,good,,gas,39508.0,clean,other,3C6JR6DT3HG557601,,,pickup,white,al,32.59,-85.48,2021-04-29 18:11:08-05:00
+7314584315,auburn,31590.0,2020.0,mazda,mx-5 miata club,good,,gas,2195.0,clean,other,JM1NDAC74L0413665,rwd,,other,,al,32.59,-85.48,2021-04-29 18:11:10-05:00
+7314584322,auburn,27990.0,2020.0,ford,ranger supercab xl pickup,good,,gas,10688.0,clean,other,1FTER1EH1LLA36301,,,pickup,white,al,32.59,-85.48,2021-04-29 18:11:11-05:00
+7314584291,auburn,31590.0,2019.0,cadillac,xt4 sport suv 4d,good,,other,12102.0,clean,other,1GYFZER40KF121673,fwd,,hatchback,black,al,32.59,-85.48,2021-04-29 18:11:08-05:00
+7314560853,auburn,19900.0,2004.0,ford,f250 super duty,good,,diesel,88000.0,clean,automatic,,4wd,full-size,pickup,blue,al,32.5475,-85.4682,2021-04-29 17:19:18-05:00
+7313857831,auburn,16590.0,2016.0,jeep,renegade sport suv 4d,good,,gas,35835.0,clean,other,ZACCJBAW9GPC62449,4wd,,other,red,al,32.59,-85.48,2021-04-28 11:01:17-05:00
+7313857767,auburn,26990.0,2016.0,ford,f150 regular cab xl pickup,good,,gas,14230.0,clean,other,1FTMF1CP3GKD62143,,,pickup,black,al,32.59,-85.48,2021-04-28 11:01:11-05:00
+7313857701,auburn,25590.0,2015.0,gmc,sierra 1500 regular cab,good,,other,35290.0,clean,other,1GTN1TEH9FZ243281,,,pickup,white,al,32.59,-85.48,2021-04-28 11:01:06-05:00
+7313406529,auburn,14000.0,2012.0,honda,odyssey,excellent,,gas,95000.0,clean,automatic,,fwd,full-size,mini-van,silver,al,32.628739,-85.46182,2021-04-27 12:20:01-05:00
+7313387888,auburn,28590.0,2018.0,ram,1500 quad cab express pickup,good,,other,30047.0,clean,other,1C6RR6FG0JS259587,,,pickup,white,al,32.59,-85.48,2021-04-27 11:51:04-05:00
+7313387902,auburn,24590.0,2013.0,gmc,sierra 1500 extended cab slt,good,,other,80318.0,clean,other,1GTR1WE07DZ143724,,,pickup,,al,32.59,-85.48,2021-04-27 11:51:05-05:00
+7313337060,auburn,25990.0,2019.0,ram,1500 classic regular cab,good,,gas,12302.0,clean,other,3C6JR6DT3KG560649,,,pickup,white,al,32.59,-85.48,2021-04-27 10:31:18-05:00
+7313319521,auburn,34990.0,2018.0,ford,mustang gt premium,good,,gas,18650.0,clean,other,1FATP8FF5J5115190,rwd,,other,black,al,32.59,-85.48,2021-04-27 10:01:24-05:00
+7312858079,auburn,27990.0,2017.0,chevrolet,colorado extended cab,good,,gas,22120.0,clean,other,1GCHSCEA7H1203280,,,pickup,,al,32.59,-85.48,2021-04-26 11:30:49-05:00
+7312847466,auburn,22500.0,2001.0,ford,f450,good,,diesel,144700.0,clean,manual,,rwd,full-size,truck,white,al,32.6304,-85.4016,2021-04-26 11:15:36-05:00
+7312824400,auburn,32990.0,2019.0,chevrolet,silverado 1500 ld,good,,other,6897.0,clean,other,2GCVKNEC8K1187169,,,pickup,black,al,32.59,-85.48,2021-04-26 10:41:03-05:00
+7312799035,auburn,31990.0,2013.0,toyota,tundra double cab pickup,good,,gas,55068.0,clean,other,5TFUY5F19DX303623,4wd,,pickup,,al,32.59,-85.48,2021-04-26 10:01:19-05:00
+7312754093,auburn,29990.0,2014.0,chevrolet,silverado 1500 double,good,,gas,26129.0,clean,other,1GCVKREC7EZ196951,4wd,,pickup,brown,al,32.59,-85.48,2021-04-26 08:42:39-05:00
+7312342653,auburn,23990.0,2016.0,chevrolet,silverado 1500 regular,good,,gas,41568.0,clean,other,1GCNCNEH4GZ259783,,,pickup,white,al,32.59,-85.48,2021-04-25 10:41:14-05:00
+7312342811,auburn,22990.0,2012.0,toyota,tacoma access cab pickup,good,,gas,37725.0,clean,other,5TFTX4CN6CX015282,,,pickup,white,al,32.59,-85.48,2021-04-25 10:41:29-05:00
+7312337810,auburn,26990.0,2014.0,chevrolet,silverado 1500 crew,good,,gas,63129.0,clean,automatic,3GCPCREH5EG437908,,,pickup,black,al,32.59,-85.48,2021-04-25 10:31:15-05:00
+7312313815,auburn,33990.0,2017.0,jeep,wrangler unlimited sahara,good,,other,34152.0,clean,other,1C4HJWEG5HL696454,4wd,,SUV,white,al,32.59,-85.48,2021-04-25 09:41:09-05:00
+7312144944,auburn,15000.0,2017.0,dodge,charger rt 4dr sedan,excellent,,gas,90000.0,rebuilt,automatic,,rwd,mid-size,sedan,grey,al,32.8224,-85.7704,2021-04-24 18:39:59-05:00
+7311960895,auburn,26590.0,2020.0,honda,civic si coupe 2d,good,,gas,9954.0,clean,other,2HGFC3A51LH751302,fwd,,coupe,silver,al,32.59,-85.48,2021-04-24 12:50:58-05:00
+7311818339,auburn,18590.0,2018.0,honda,civic lx sedan 4d,good,,gas,28942.0,clean,other,19XFC2F59JE206832,fwd,,sedan,white,al,32.59,-85.48,2021-04-24 08:52:24-05:00
+7311818189,auburn,29590.0,2017.0,ford,expedition xlt sport,good,,gas,70760.0,clean,other,1FMJU1JT1HEA52352,4wd,,SUV,blue,al,32.59,-85.48,2021-04-24 08:52:07-05:00
+7311818157,auburn,21590.0,2018.0,honda,civic ex sedan 4d,good,,gas,7885.0,clean,other,2HGFC2F74JH589649,fwd,,sedan,,al,32.59,-85.48,2021-04-24 08:52:03-05:00
+7311409434,auburn,22590.0,2013.0,ford,f150 super cab xl pickup 4d,good,,other,14169.0,clean,other,1FTEX1CMXDFB16329,,,pickup,silver,al,32.59,-85.48,2021-04-23 11:41:07-05:00
+7311351407,auburn,33990.0,2020.0,jeep,wrangler sport suv 2d,good,,gas,9859.0,clean,other,1C4GJXAG9LW193038,4wd,,other,,al,32.59,-85.48,2021-04-23 10:10:54-05:00
+7311327726,auburn,29990.0,2012.0,toyota,tacoma double cab pickup,good,,gas,43182.0,clean,other,3TMLU4EN4CM085701,4wd,,pickup,white,al,32.59,-85.48,2021-04-23 09:30:51-05:00
+7311310782,auburn,37590.0,2019.0,ford,f150 supercrew cab xl,good,,gas,8663.0,clean,other,1FTEW1CP2KKC65268,,,pickup,,al,32.59,-85.48,2021-04-23 09:01:04-05:00
+7310905283,auburn,25990.0,2015.0,lexus,nx 300h sport utility 4d,good,,other,55783.0,clean,other,JTJBJRBZ8F2020836,,,hatchback,white,al,32.59,-85.48,2021-04-22 11:51:00-05:00
+7310848060,auburn,32990.0,2018.0,jaguar,e-pace p250 s sport,good,,other,26685.0,clean,other,SADFJ2FX1J1Z13468,,,other,white,al,32.59,-85.48,2021-04-22 10:21:14-05:00
+7310803539,auburn,28990.0,2020.0,buick,encore gx essence sport,good,,gas,21.0,clean,other,KL4MMGSL4LB128069,,,other,white,al,32.59,-85.48,2021-04-22 09:01:26-05:00
+7310798664,auburn,34990.0,2020.0,lexus,nx 300 sport utility 4d,good,,gas,1722.0,clean,other,JTJAARBZ1L2159357,fwd,,hatchback,black,al,32.59,-85.48,2021-04-22 08:51:28-05:00
+7310644616,auburn,3000.0,2004.0,chrysler,town & country,good,,gas,176144.0,clean,automatic,,fwd,mid-size,mini-van,silver,al,32.629409,-85.484447,2021-04-21 19:26:56-05:00
+7310383361,auburn,22590.0,2016.0,volvo,s60 t5 cross country,good,,gas,42755.0,clean,other,YV4612UMXG2000759,,,sedan,,al,32.59,-85.48,2021-04-21 11:30:50-05:00
+7310332383,auburn,36990.0,2019.0,volvo,s60 t6 inscription sedan,good,,gas,8141.0,clean,other,7JRA22TL6KG004114,,,sedan,white,al,32.59,-85.48,2021-04-21 10:11:01-05:00
+7310308166,auburn,31990.0,2020.0,volvo,s60 t5 momentum sedan 4d,good,,gas,16594.0,clean,other,7JR102FK7LG060315,fwd,,sedan,,al,32.59,-85.48,2021-04-21 09:30:56-05:00
+7310276274,auburn,28590.0,2019.0,volvo,s60 t5 momentum sedan 4d,good,,gas,18531.0,clean,other,7JR102FK4KG010003,fwd,,sedan,black,al,32.59,-85.48,2021-04-21 08:30:57-05:00
+7309876037,auburn,31990.0,2018.0,audi,q5 premium sport utility 4d,good,,gas,19179.0,clean,other,WA1ANAFY7J2102310,,,other,,al,32.59,-85.48,2021-04-20 11:51:17-05:00
+7309828117,auburn,19990.0,2015.0,infiniti,qx60 3.5 sport utility,good,,other,96003.0,clean,other,5N1AL0MM5FC519184,,,SUV,silver,al,32.59,-85.48,2021-04-20 10:41:08-05:00
+7309827921,auburn,29590.0,2017.0,lincoln,continental select sedan,good,,gas,35320.0,clean,other,1LN6L9TP6H5634048,,,sedan,black,al,32.59,-85.48,2021-04-20 10:40:55-05:00
+7309828053,auburn,29990.0,2018.0,alfa-romeo,romeo stelvio ti sport,good,,other,26978.0,clean,other,ZASFAKBN3J7B64774,,,hatchback,,al,32.59,-85.48,2021-04-20 10:41:04-05:00
+7309798041,auburn,2100.0,2006.0,subaru,impreza,fair,,gas,97000.0,clean,automatic,,,,hatchback,,al,32.5475,-85.4682,2021-04-20 09:55:48-05:00
+7309271279,auburn,15990.0,2016.0,,Scion iM Hatchback 4D,good,,gas,29652.0,clean,other,JTNKARJEXGJ517925,fwd,,hatchback,blue,al,32.59,-85.48,2021-04-19 10:51:13-05:00
+7309271051,auburn,20590.0,2013.0,acura,mdx sport utility 4d,good,,gas,77087.0,clean,other,2HNYD2H30DH510846,,,other,silver,al,32.59,-85.48,2021-04-19 10:50:57-05:00
+7309229548,auburn,29590.0,2018.0,audi,a6 2.0t premium sedan 4d,good,,gas,13035.0,clean,other,WAUC8AFC6JN041814,fwd,,sedan,,al,32.59,-85.48,2021-04-19 09:51:14-05:00
+7309192232,auburn,16590.0,2015.0,hyundai,sonata sport sedan 4d,good,,gas,26655.0,clean,other,5NPE34AF8FH021634,fwd,,sedan,white,al,32.59,-85.48,2021-04-19 08:51:14-05:00
+7309160821,auburn,12990.0,1968.0,volvo,,,,gas,99999.0,clean,manual,,,,,,al,32.6454,-85.3783,2021-04-19 07:46:40-05:00
+7308779719,auburn,33990.0,2017.0,ram,1500 crew cab tradesman,good,,gas,17033.0,clean,other,3C6RR7KT7HG794054,4wd,,pickup,blue,al,32.59,-85.48,2021-04-18 11:21:37-05:00
+7308779686,auburn,36590.0,2019.0,gmc,sierra 1500 limited double,good,,gas,14222.0,clean,other,2GTV2LECXK1123316,4wd,,pickup,blue,al,32.59,-85.48,2021-04-18 11:21:35-05:00
+7308745779,auburn,29590.0,2013.0,gmc,sierra 1500 extended cab slt,good,,gas,37888.0,clean,other,1GTR1WE01DZ407455,,,pickup,silver,al,32.59,-85.48,2021-04-18 10:20:58-05:00
+7308730136,auburn,40590.0,2019.0,ford,f250 super duty regular cab,good,,other,9313.0,clean,other,1FTBF2B65KEC91136,4wd,,pickup,white,al,32.59,-85.48,2021-04-18 09:50:48-05:00
+7308365829,auburn,33990.0,2018.0,jeep,wrangler unlimited willys,good,,gas,34636.0,clean,other,1C4BJWDG2JL806552,4wd,,other,white,al,32.59,-85.48,2021-04-17 13:11:25-05:00
+7308255063,auburn,43990.0,2019.0,jeep,wrangler unlimited sahara,good,,gas,4362.0,clean,other,1C4HJXEN4KW505794,4wd,,SUV,black,al,32.59,-85.48,2021-04-17 10:30:46-05:00
+7308217002,auburn,38990.0,2017.0,jeep,wrangler unlimited rubicon,good,,gas,20676.0,clean,other,1C4BJWFG3HL547853,4wd,,other,red,al,32.59,-85.48,2021-04-17 09:21:25-05:00
+7308216849,auburn,39590.0,2018.0,jeep,wrangler unlimited all new,good,,gas,21893.0,clean,other,1C4HJXEGXJW175675,4wd,,SUV,silver,al,32.59,-85.48,2021-04-17 09:21:10-05:00
+7307730503,auburn,9500.0,2003.0,chrysler,town & country,excellent,,gas,30376.0,clean,automatic,,fwd,mid-size,mini-van,blue,al,32.614209,-85.326357,2021-04-16 10:40:58-05:00
+7307218858,auburn,28590.0,2018.0,gmc,acadia sle-2 sport utility,good,,gas,20736.0,clean,other,1GKKNLLS2JZ178034,fwd,,SUV,white,al,32.59,-85.48,2021-04-15 11:00:40-05:00
+7307164168,auburn,16590.0,2013.0,lincoln,mkz sedan 4d,good,,gas,61087.0,clean,other,3LN6L2G99DR819673,fwd,,sedan,red,al,32.59,-85.48,2021-04-15 09:31:01-05:00
+7307164193,auburn,28990.0,2017.0,gmc,acadia slt-1 sport utility,good,,gas,18041.0,clean,other,1GKKNMLS2HZ305977,fwd,,SUV,,al,32.59,-85.48,2021-04-15 09:31:04-05:00
+7307142186,auburn,20590.0,2017.0,lincoln,mkz premiere sedan 4d,good,,gas,36436.0,clean,other,3LN6L5A97HR666209,fwd,,sedan,,al,32.59,-85.48,2021-04-15 08:50:52-05:00
+7306701617,auburn,26990.0,2015.0,lexus,nx 200t sport utility 4d,good,,gas,29738.0,clean,other,JTJYARBZ9F2013419,fwd,,hatchback,red,al,32.59,-85.48,2021-04-14 11:01:07-05:00
+7306676175,auburn,26990.0,2016.0,lexus,nx 200t sport utility 4d,good,,gas,31363.0,clean,other,JTJYARBZ5G2041512,fwd,,hatchback,white,al,32.59,-85.48,2021-04-14 10:21:10-05:00
+7306676124,auburn,22590.0,2020.0,buick,encore gx select sport,good,,other,5144.0,clean,other,KL4MMDSL8LB104338,,,SUV,red,al,32.59,-85.48,2021-04-14 10:21:06-05:00
+7306625443,auburn,35990.0,2018.0,jaguar,e-pace p250 se sport,good,,gas,8490.0,clean,other,SADFP2FX0J1Z05358,,,other,black,al,32.59,-85.48,2021-04-14 08:51:46-05:00
+7306407989,auburn,17500.0,2008.0,toyota,fj cruiser,good,,gas,201300.0,clean,manual,,4wd,full-size,offroad,black,al,32.6024,-85.4873,2021-04-13 17:05:44-05:00
+7306259907,auburn,6000.0,2007.0,mercedes-benz,e320 cdi,good,,diesel,124000.0,clean,automatic,,rwd,,sedan,blue,al,32.592,-85.5189,2021-04-13 12:54:00-05:00
+7306238443,auburn,25990.0,2018.0,volvo,s60 t5 inscription sedan,good,,diesel,22834.0,clean,other,LYV402TK9JB177497,,,sedan,,al,32.59,-85.48,2021-04-13 12:20:52-05:00
+7306198330,auburn,6800.0,2005.0,,blue bird bus,excellent,,diesel,180000.0,clean,automatic,,rwd,full-size,bus,yellow,al,32.8337,-85.1197,2021-04-13 11:20:25-05:00
+7306178510,auburn,36590.0,2019.0,volvo,s60 t6 r-design sedan 4d,good,,gas,7618.0,clean,other,7JRA22TM2KG013336,,,sedan,white,al,32.59,-85.48,2021-04-13 10:50:55-05:00
+7306147932,auburn,35990.0,2019.0,volvo,s60 t6 r-design sedan 4d,good,,other,15567.0,clean,other,7JRA22TM4KG006873,,,sedan,red,al,32.59,-85.48,2021-04-13 10:01:15-05:00
+7306095627,auburn,33590.0,2019.0,volvo,s60 t6 r-design sedan 4d,good,,gas,10742.0,clean,other,7JRA22TM6KG005594,,,sedan,silver,al,32.59,-85.48,2021-04-13 08:21:04-05:00
+7305666455,auburn,38990.0,2020.0,infiniti,qx60 luxe sport utility,good,,gas,5279.0,clean,other,5N1DL0MN9LC508268,fwd,,other,black,al,32.59,-85.48,2021-04-12 11:11:29-05:00
+7305631654,auburn,33990.0,2018.0,alfa-romeo,romeo stelvio ti sport suv,good,,gas,23753.0,clean,other,ZASFAKNN6J7B70368,,,hatchback,,al,32.59,-85.48,2021-04-12 10:21:03-05:00
+7305631581,auburn,27990.0,2017.0,lincoln,continental select sedan,good,,gas,19492.0,clean,automatic,1LN6L9TK4H5636420,,,sedan,,al,32.59,-85.48,2021-04-12 10:20:58-05:00
+7305578496,auburn,28590.0,2018.0,audi,q5 premium sport utility 4d,good,,gas,31033.0,clean,other,WA1ANAFY2J2198475,,,SUV,silver,al,32.59,-85.48,2021-04-12 08:51:46-05:00
+7305186870,auburn,18590.0,2018.0,hyundai,sonata sel sedan 4d,good,,gas,22075.0,clean,other,5NPE34AF7JH658815,fwd,,sedan,white,al,32.59,-85.48,2021-04-11 11:21:37-05:00
+7305150035,auburn,29990.0,2018.0,audi,a6 2.0t premium plus sedan,good,,other,24996.0,clean,automatic,WAUG8AFC8JN040987,,,sedan,silver,al,32.59,-85.48,2021-04-11 10:11:17-05:00
+7305150004,auburn,14990.0,2016.0,,Scion iM Hatchback 4D,good,,gas,65203.0,clean,other,JTNKARJE4GJ508198,fwd,,hatchback,red,al,32.59,-85.48,2021-04-11 10:11:14-05:00
+7305149985,auburn,39990.0,2020.0,acura,mdx sh-awd sport utility,good,,gas,1237.0,clean,other,5J8YD4H39LL041518,,,other,white,al,32.59,-85.48,2021-04-11 10:11:13-05:00
+7305082143,auburn,2500.0,1966.0,,1966 C-30 1 ton,good,,gas,47000.0,clean,manual,,rwd,full-size,pickup,brown,al,32.4169,-85.7094,2021-04-11 07:07:52-05:00
+7304785580,auburn,4000.0,2006.0,jeep,grand cherokee laredo,good,,gas,281000.0,clean,automatic,,rwd,mid-size,SUV,black,al,32.6099,-85.4808,2021-04-10 13:04:35-05:00
+7304685581,auburn,32990.0,2019.0,jeep,wrangler sport suv 2d,good,,other,1423.0,clean,other,1C4GJXAGXKW566358,4wd,,SUV,yellow,al,32.59,-85.48,2021-04-10 10:31:27-05:00
+7304685502,auburn,27590.0,2012.0,jeep,wrangler unlimited sport,good,,gas,52172.0,clean,other,1C4BJWDG5CL258372,4wd,,SUV,black,al,32.59,-85.48,2021-04-10 10:31:21-05:00
+7304646033,auburn,18590.0,2017.0,toyota,camry le sedan 4d,good,,gas,30223.0,clean,other,4T1BF1FK4HU421581,fwd,,sedan,silver,al,32.59,-85.48,2021-04-10 09:21:18-05:00
+7304645998,auburn,33590.0,2017.0,ram,1500 crew cab laramie pickup,good,,other,45464.0,clean,other,1C6RR6VT3HS551162,,,pickup,red,al,32.59,-85.48,2021-04-10 09:21:15-05:00
+7304184221,auburn,40990.0,2017.0,jeep,wrangler unlimited rubicon,good,,other,30092.0,clean,other,1C4BJWFG7HL558919,4wd,,other,black,al,32.59,-85.48,2021-04-09 10:51:35-05:00
+7304158673,auburn,33590.0,2017.0,jeep,wrangler unlimited sport,good,,gas,37919.0,clean,other,1C4BJWDG7HL689576,4wd,,SUV,black,al,32.59,-85.48,2021-04-09 10:11:20-05:00
+7304134738,auburn,31590.0,2017.0,jeep,wrangler unlimited sport,good,,gas,35391.0,clean,other,1C4BJWDG8HL671975,4wd,,SUV,black,al,32.59,-85.48,2021-04-09 09:31:05-05:00
+7304111898,auburn,30990.0,2017.0,jeep,wrangler unlimited sport,good,,gas,43039.0,clean,other,1C4BJWDG6HL650381,4wd,,SUV,silver,al,32.59,-85.48,2021-04-09 08:51:07-05:00
+7303661415,auburn,14590.0,2012.0,bmw,1 series 128i coupe 2d,good,,other,80465.0,clean,other,WBAUP9C53CVL91190,,,coupe,black,al,32.59,-85.48,2021-04-08 10:41:14-05:00
+7303661350,auburn,20590.0,2018.0,chrysler,300 limited sedan 4d,good,,gas,71021.0,clean,other,2C3CCAEG6JH123125,rwd,,sedan,black,al,32.59,-85.48,2021-04-08 10:41:10-05:00
+7303606749,auburn,19990.0,2020.0,mitsubishi,outlander sport es,good,,other,11103.0,clean,other,JA4AP3AU9LU013694,,,hatchback,orange,al,32.59,-85.48,2021-04-08 09:11:59-05:00
+7303606702,auburn,10990.0,2013.0,nissan,sentra s sedan 4d,good,,gas,81557.0,clean,other,3N1AB7AP2DL658501,fwd,,sedan,red,al,32.59,-85.48,2021-04-08 09:11:55-05:00
+7303236380,auburn,26990.0,2018.0,gmc,acadia sle-2 sport utility,good,,gas,26514.0,clean,other,1GKKNLLS5JZ181591,fwd,,SUV,,al,32.59,-85.48,2021-04-07 13:11:30-05:00
+7303130875,auburn,36590.0,2020.0,gmc,acadia denali sport utility,good,,gas,33026.0,clean,other,1GKKNXLS6LZ134810,,,SUV,black,al,32.59,-85.48,2021-04-07 10:31:15-05:00
+7303065930,auburn,30990.0,2020.0,gmc,acadia slt sport utility 4d,good,,gas,35200.0,clean,other,1GKKNULSXLZ132766,,,SUV,white,al,32.59,-85.48,2021-04-07 08:41:09-05:00
+7303065864,auburn,24590.0,2018.0,lincoln,mkz select sedan 4d,good,,gas,16081.0,clean,automatic,3LN6L5C91JR615484,fwd,,sedan,white,al,32.59,-85.48,2021-04-07 08:41:02-05:00
+7302642422,auburn,8990.0,2013.0,,smart fortwo Passion Hatchback,good,,gas,59072.0,clean,automatic,WMEEJ3BA2DK636540,rwd,,coupe,silver,al,32.59,-85.48,2021-04-06 11:21:37-05:00
+7302597055,auburn,23990.0,2015.0,lexus,nx 200t sport utility 4d,good,,other,48462.0,clean,other,JTJBARBZ6F2000472,,,hatchback,silver,al,32.59,-85.48,2021-04-06 10:11:29-05:00
+7302537601,auburn,25590.0,2020.0,buick,encore gx select sport,good,,gas,1113.0,clean,automatic,KL4MMDSL6LB104869,fwd,,SUV,red,al,32.59,-85.48,2021-04-06 08:24:55-05:00
+7302537532,auburn,52990.0,2020.0,jaguar,e-pace p300 r-dynamic se,good,,gas,79.0,clean,other,SADFL2GX2L1Z91107,,,other,white,al,32.59,-85.48,2021-04-06 08:24:50-05:00
+7302327214,auburn,19000.0,2017.0,subaru,forester,like new,,gas,22700.0,lien,automatic,,,,SUV,red,al,32.592,-85.5189,2021-04-05 17:06:46-05:00
+7302286548,auburn,28000.0,2018.0,acura,tlx,excellent,,gas,55000.0,clean,automatic,,fwd,compact,sedan,white,al,32.562007,-85.66967,2021-04-05 15:53:12-05:00
+7302108846,auburn,17590.0,2015.0,volvo,s60 t5 premier sedan 4d,good,,gas,63512.0,clean,automatic,YV1612TBXF1304224,,,sedan,blue,al,32.59,-85.48,2021-04-05 11:21:13-05:00
+7302062793,auburn,36590.0,2020.0,volvo,s60 t6 r-design sedan 4d,good,,gas,18506.0,clean,other,7JRA22TM7LG032143,,,sedan,blue,al,32.59,-85.48,2021-04-05 10:11:35-05:00
+7302043460,auburn,35990.0,2020.0,volvo,s60 t6 inscription sedan,good,,other,11878.0,clean,other,7JRA22TL7LG037835,,,sedan,blue,al,32.59,-85.48,2021-04-05 09:41:14-05:00
+7302000016,auburn,38590.0,2019.0,volvo,s60 t8 r-design sedan 4d,good,,gas,14054.0,clean,automatic,7JRBR0FM4KG013841,,,sedan,black,al,32.59,-85.48,2021-04-05 08:21:13-05:00
+7301673626,auburn,29590.0,2018.0,lincoln,continental select sedan,good,,other,33047.0,clean,automatic,1LN6L9TP1J5605689,,,sedan,white,al,32.59,-85.48,2021-04-04 10:51:15-05:00
+7301673609,auburn,32590.0,2018.0,alfa-romeo,romeo stelvio sport suv 4d,good,,other,14863.0,clean,other,ZASFAKPN0J7B80942,,,hatchback,blue,al,32.59,-85.48,2021-04-04 10:51:13-05:00
+7301647209,auburn,27590.0,2018.0,infiniti,qx60 3.5 sport utility,good,,gas,41119.0,clean,automatic,5N1DL0MM4JC527444,,,SUV,blue,al,32.59,-85.48,2021-04-04 09:41:32-05:00
+7301624602,auburn,38990.0,2020.0,audi,q5 45 tfsi premium plus,good,,gas,19067.0,clean,other,WA1BNAFYXL2013483,,,SUV,white,al,32.59,-85.48,2021-04-04 08:32:40-05:00
+7316878036,birmingham,21950.0,2012.0,toyota,tacoma 4x4,excellent,,gas,143060.0,clean,manual,,4wd,,truck,silver,al,33.384664,-86.737847,2021-05-04 14:11:28-05:00
+7316874816,birmingham,13950.0,2011.0,toyota,tacoma,good,,gas,151060.0,clean,automatic,,rwd,,truck,silver,al,33.384664,-86.737847,2021-05-04 14:06:06-05:00
+7316873897,birmingham,5900.0,2001.0,,F-350,,,diesel,200000.0,clean,automatic,,rwd,,,,al,33.2663,-86.902,2021-05-04 14:04:39-05:00
+7316872263,birmingham,12950.0,2005.0,bmw,z4,excellent,,gas,69586.0,clean,automatic,,rwd,,convertible,white,al,33.384664,-86.737847,2021-05-04 14:01:54-05:00
+7316871664,birmingham,18950.0,2010.0,ford,f150 lariat supercrew 4x4,good,,gas,151403.0,clean,automatic,,4wd,,pickup,black,al,33.384664,-86.737847,2021-05-04 14:01:05-05:00
+7316871204,birmingham,6995.0,2011.0,volkswagen,jetta sel,excellent,,gas,172752.0,clean,automatic,,fwd,,sedan,black,al,33.384664,-86.737847,2021-05-04 14:00:22-05:00
+7316870942,birmingham,12500.0,2008.0,ford,ranger xlt,excellent,,gas,141345.0,clean,automatic,,rwd,,truck,grey,al,33.384664,-86.737847,2021-05-04 13:59:55-05:00
+7316870516,birmingham,16950.0,2007.0,toyota,tacoma double cab,good,,gas,156792.0,clean,automatic,,rwd,,truck,white,al,33.384664,-86.737847,2021-05-04 13:59:13-05:00
+7316870143,birmingham,22950.0,2014.0,ford,f150 supercrew cab xlt,excellent,,gas,166380.0,clean,automatic,,4wd,full-size,truck,black,al,33.384664,-86.737847,2021-05-04 13:58:35-05:00
+7316869910,birmingham,12950.0,2011.0,honda,crv ex,excellent,,gas,87994.0,clean,automatic,,fwd,,SUV,silver,al,33.384664,-86.737847,2021-05-04 13:58:11-05:00
+7316869708,birmingham,12950.0,2007.0,mazda,mx-5 miata touring,excellent,,gas,90610.0,clean,automatic,,rwd,,convertible,black,al,33.384664,-86.737847,2021-05-04 13:57:50-05:00
+7316869215,birmingham,13950.0,2011.0,mazda,mx-5 miata grand touring,excellent,,gas,138235.0,clean,automatic,,rwd,,convertible,red,al,33.384664,-86.737847,2021-05-04 13:56:57-05:00
+7316868894,birmingham,19950.0,2009.0,porsche,boxster,excellent,,gas,80190.0,clean,automatic,,rwd,,convertible,red,al,33.384664,-86.737847,2021-05-04 13:56:24-05:00
+7316868562,birmingham,13950.0,2008.0,mazda,miata,excellent,,gas,86650.0,clean,manual,,rwd,,convertible,grey,al,33.384664,-86.737847,2021-05-04 13:55:52-05:00
+7316868220,birmingham,10950.0,2009.0,lexus,rx350,excellent,,gas,191955.0,clean,automatic,,4wd,full-size,SUV,white,al,33.384664,-86.737847,2021-05-04 13:55:17-05:00
+7316867506,birmingham,13950.0,2006.0,lexus,gx470,good,,gas,178790.0,clean,automatic,,4wd,full-size,SUV,,al,33.384664,-86.737847,2021-05-04 13:54:01-05:00
+7316853268,birmingham,1800.0,1998.0,toyota,rav4,good,,gas,240537.0,clean,manual,,,,,green,al,33.6035,-86.4668,2021-05-04 13:30:58-05:00
+7316852517,birmingham,21250.0,2002.0,ford,thunderbird,new,,gas,15996.0,clean,automatic,,fwd,compact,convertible,yellow,al,34.657607,-87.782814,2021-05-04 13:29:51-05:00
+7316846605,birmingham,4500.0,2008.0,ford,mustang,,,gas,187016.0,clean,automatic,1ZVHT80N885207297,rwd,,coupe,red,al,33.455361,-86.962474,2021-05-04 13:20:30-05:00
+7316788498,birmingham,39590.0,2020.0,chevrolet,silverado 1500 crew,good,,gas,19160.0,clean,other,3GCPWCED5LG130317,,,pickup,red,al,33.52,-86.79,2021-05-04 11:51:23-05:00
+7316788533,birmingham,26990.0,2017.0,nissan,titan single cab sv,good,,gas,41335.0,clean,other,1N6AA1R84HN570756,4wd,,pickup,red,al,33.52,-86.79,2021-05-04 11:51:26-05:00
+7316762099,birmingham,4299.0,2007.0,nissan,sentra,,,gas,189321.0,clean,automatic,3N1AB61EX7L640258,fwd,,sedan,silver,al,33.455361,-86.962474,2021-05-04 11:10:45-05:00
+7316735728,birmingham,3950.0,2008.0,kia,spectra ex,excellent,,gas,247377.0,clean,automatic,,,,sedan,,al,33.415861,-86.988407,2021-05-04 10:28:33-05:00
+7316734951,birmingham,5900.0,1998.0,ford,f150,excellent,,gas,214000.0,clean,automatic,,,full-size,truck,red,al,33.649773,-86.610105,2021-05-04 10:27:09-05:00
+7316725360,birmingham,33990.0,2013.0,,lac XT5 Crossover,,,gas,48784.0,clean,automatic,1GYKNERSXJZ160440,fwd,,SUV,black,al,33.669601,-86.817617,2021-05-04 10:11:04-05:00
+7316711193,birmingham,34995.0,2012.0,dodge,charger limousine,,,gas,41000.0,clean,automatic,,,,,,al,33.5884,-86.9597,2021-05-04 09:47:15-05:00
+7316707537,birmingham,3200.0,2005.0,ford,focus,good,,gas,189886.0,clean,automatic,,,,,,al,33.7677,-85.0133,2021-05-04 09:40:59-05:00
+7316702941,birmingham,3495.0,1999.0,ford,windstar,good,,gas,135448.0,clean,automatic,,,,,,al,33.7677,-85.0133,2021-05-04 09:32:20-05:00
+7316695553,birmingham,6500.0,2002.0,ford,sport trac,good,,gas,114775.0,clean,automatic,,,,,,al,33.7677,-85.0133,2021-05-04 09:18:53-05:00
+7316694878,birmingham,16988.0,2008.0,toyota,fj cruiser,,,gas,188099.0,clean,automatic,JTEBU11F580105856,4wd,,,,al,32.9229,-86.545,2021-05-04 09:17:40-05:00
+7316694884,birmingham,16988.0,2018.0,nissan,altima,,,gas,57517.0,clean,automatic,1N4AL3AP6JC119377,fwd,,,silver,al,32.9229,-86.545,2021-05-04 09:17:40-05:00
+7316694885,birmingham,26990.0,2018.0,nissan,frontier,,,gas,31814.0,clean,automatic,1N6AD0ER6JN756577,rwd,,,black,al,32.9229,-86.545,2021-05-04 09:17:40-05:00
+7316694874,birmingham,32186.0,2021.0,toyota,tacoma,,,gas,1443.0,clean,automatic,5TFAX5GN0MX194170,rwd,,,,al,32.9229,-86.545,2021-05-04 09:17:39-05:00
+7316691449,birmingham,16477.0,2015.0,buick,enclave,,,gas,103969.0,clean,automatic,5GAKRBKD5FJ308683,fwd,,,black,al,33.168322,-87.491902,2021-05-04 09:11:36-05:00
+7316691442,birmingham,53483.4827039001,2019.0,gmc,sierra 3500,,,gas,66368.0,clean,automatic,1GT42WEY6KF184860,4wd,,,white,al,33.168322,-87.491902,2021-05-04 09:11:35-05:00
+7316686116,birmingham,30990.0,2016.0,chevrolet,silverado 1500 double,good,,gas,58116.0,clean,other,1GCRCREH7GZ111975,,,pickup,silver,al,33.52,-86.79,2021-05-04 09:01:54-05:00
+7316678016,birmingham,6900.0,2009.0,honda,ridgeline,fair,,gas,198000.0,clean,automatic,,4wd,,,,al,33.13435,-86.619515,2021-05-04 08:46:06-05:00
+7316673788,birmingham,3750.0,1997.0,ford,f150,,,gas,150000.0,clean,automatic,,,,,,al,33.3224,-86.9657,2021-05-04 08:37:01-05:00
+7316644188,birmingham,2500.0,1976.0,chevrolet,malibu classic,,,gas,100.0,clean,automatic,,,,,,al,33.5179,-86.8372,2021-05-04 07:11:30-05:00
+7316643987,birmingham,3500.0,2003.0,toyota,camry,good,,gas,237000.0,clean,automatic,,,,,,al,33.5179,-86.8372,2021-05-04 07:10:46-05:00
+7316643810,birmingham,1300.0,1969.0,mercedes-benz,benz,,,gas,12774.0,clean,automatic,,,,,,al,33.521,-86.8066,2021-05-04 07:10:04-05:00
+7316622592,birmingham,25990.0,2016.0,bmw,5 series,,,gas,75123.0,clean,automatic,WBA5B3C58GG255986,,,sedan,black,al,33.669601,-86.817617,2021-05-04 04:50:27-05:00
+7316549537,birmingham,8000.0,2013.0,kia,optima,excellent,,gas,119000.0,rebuilt,automatic,5XXGN4A77DG230383,,,,white,al,36.1379,-86.741,2021-05-03 20:29:42-05:00
+7316544266,birmingham,32000.0,2008.0,chevrolet,silverado 2500,good,,diesel,109600.0,clean,automatic,,4wd,full-size,truck,white,al,34.0013,-86.9381,2021-05-03 20:13:42-05:00
+7316535686,birmingham,3399.0,2006.0,buick,lacrosse,,,gas,160218.0,clean,automatic,2G4WD582061211256,fwd,,sedan,blue,al,33.455361,-86.962474,2021-05-03 19:50:39-05:00
+7316482063,birmingham,4000.0,2002.0,toyota,echo,excellent,,gas,155000.0,clean,automatic,JTDBT123520243495,fwd,compact,sedan,blue,al,33.9135,-84.6859,2021-05-03 17:48:17-05:00
+7316478418,birmingham,3900.0,2009.0,hyundai,elantra,,,gas,162005.0,clean,automatic,KMHDU46D49U684737,rwd,,sedan,white,al,33.455361,-86.962474,2021-05-03 17:40:26-05:00
+7316471857,birmingham,3000.0,2004.0,chevrolet,blazer,good,,gas,131500.0,clean,automatic,,4wd,mid-size,SUV,white,al,33.5979,-86.3432,2021-05-03 17:26:24-05:00
+7316469500,birmingham,2800.0,2009.0,nissan,versa,,,gas,109000.0,rebuilt,automatic,,,,,,al,33.6053,-84.4813,2021-05-03 17:21:15-05:00
+7316429417,birmingham,2500.0,1995.0,bmw,525i,fair,,gas,110661.0,clean,automatic,WBAHD6322SGK86772,rwd,mid-size,sedan,white,al,33.3538,-86.8254,2021-05-03 16:03:27-05:00
+7316423933,birmingham,53000.0,2006.0,,Sterling Acterra,,,diesel,160322.0,clean,automatic,,,,,,al,28.0091,-82.5034,2021-05-03 15:54:00-05:00
+7316422333,birmingham,33590.0,2014.0,gmc,sierra 1500 crew cab slt,good,,gas,57923.0,clean,other,3GTP1VEC4EG551563,,,pickup,white,al,33.52,-86.79,2021-05-03 15:51:15-05:00
+7316419757,birmingham,12500.0,2008.0,gmc,yukon xl,excellent,,gas,177326.0,clean,automatic,,rwd,full-size,SUV,black,al,33.5554,-86.887,2021-05-03 15:46:48-05:00
+7316411064,birmingham,15990.0,2017.0,ford,c-max hybrid se wagon 4d,good,,hybrid,48195.0,clean,other,1FADP5AU1HL114567,fwd,,wagon,blue,al,33.52,-86.79,2021-05-03 15:32:03-05:00
+7316397515,birmingham,2500.0,2008.0,honda,accord,good,,gas,204561.0,clean,automatic,,fwd,full-size,sedan,silver,al,33.3813,-86.7046,2021-05-03 15:09:18-05:00
+7316396026,birmingham,20995.0,2011.0,chevrolet,silverado 1500 ltz crew cab 4wd,,,,137701.0,,automatic,3GCPKTE30BG264332,4wd,,pickup,,al,33.971956,-86.053098,2021-05-03 15:06:42-05:00
+7316395026,birmingham,25995.0,2015.0,chevrolet,silverado 1500 lt crew cab 4wd,,,,151681.0,,automatic,3GCUKREC2FG257362,4wd,,pickup,,al,33.971956,-86.053098,2021-05-03 15:05:09-05:00
+7316393935,birmingham,31995.0,2014.0,chevrolet,silverado 1500 2lt crew cab long box 4wd,,,,66738.0,,automatic,3GCUKREC8EG123888,4wd,,pickup,,al,33.971956,-86.053098,2021-05-03 15:03:33-05:00
+7316384231,birmingham,5500.0,1978.0,ford,f-150,good,,gas,239000.0,clean,automatic,,,full-size,truck,green,al,33.1248,-86.8622,2021-05-03 14:47:14-05:00
+7316383863,birmingham,29000.0,2005.0,ford,f750,,,diesel,77124.0,clean,automatic,,,,,,al,28.0091,-82.5034,2021-05-03 14:46:39-05:00
+7316368518,birmingham,27990.0,2012.0,gmc,sierra 2500 hd extended cab,good,,gas,68696.0,clean,other,1GT220CG8CZ231238,4wd,,pickup,black,al,33.52,-86.79,2021-05-03 14:21:01-05:00
+7316349679,birmingham,24990.0,2018.0,gmc,canyon extended cab pickup,good,,other,32329.0,clean,other,1GTH5BEA5J1215726,,,pickup,,al,33.52,-86.79,2021-05-03 13:51:24-05:00
+7316337545,birmingham,10990.0,2011.0,mercedes-benz,ml350,excellent,,gas,119172.0,clean,automatic,,4wd,,SUV,,al,33.5066,-86.7428,2021-05-03 13:32:23-05:00
+7316330293,birmingham,3300.0,1999.0,chrysler,300m,,,gas,162026.0,clean,automatic,2C3HE66G5XH565608,fwd,,sedan,,al,33.455361,-86.962474,2021-05-03 13:21:07-05:00
+7316328729,birmingham,27000.0,1954.0,ford,f100,,,gas,6000.0,clean,manual,,,,,,al,33.5363,-87.051,2021-05-03 13:18:33-05:00
+7316307800,birmingham,27995.0,2017.0,ford,f-150,,,gas,101000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-05-03 12:46:25-05:00
+7316282669,birmingham,8100.0,2011.0,ford,escape,excellent,,hybrid,140000.0,clean,automatic,,fwd,,SUV,white,al,33.5062,-86.8003,2021-05-03 12:08:20-05:00
+7316262914,birmingham,20000.0,1979.0,chevrolet,malibu,like new,,gas,1234.0,clean,automatic,,rwd,,,black,al,33.4653,-86.8082,2021-05-03 11:39:01-05:00
+7316244350,birmingham,3999.0,2003.0,infiniti,g35 sedan,,,gas,233830.0,clean,automatic,JNKCV51E23M327551,rwd,,sedan,,al,33.455361,-86.962474,2021-05-03 11:11:12-05:00
+7316229137,birmingham,23500.0,1970.0,chevrolet,monte carlo,excellent,,gas,18678.0,clean,automatic,,,,,,al,28.3648,-82.6757,2021-05-03 10:48:11-05:00
+7316213984,birmingham,5300.0,2009.0,jeep,grand cherokee laredo,excellent,,gas,178000.0,clean,automatic,,4wd,,,,al,33.2663,-86.902,2021-05-03 10:24:28-05:00
+7316206718,birmingham,45900.0,2017.0,,Maserati Levante,,,gas,36083.0,clean,automatic,ZN661XUA1HX210904,,,SUV,white,al,33.669601,-86.817617,2021-05-03 10:12:44-05:00
+7316187372,birmingham,5500.0,1974.0,mercedes-benz,1929 ssk replica,good,,gas,9999.0,clean,automatic,,rwd,mid-size,convertible,yellow,al,33.158449,-86.942271,2021-05-03 09:41:06-05:00
+7316170760,birmingham,3500.0,1996.0,chevrolet,tahoe,excellent,,gas,237000.0,clean,automatic,,4wd,full-size,offroad,black,al,33.3813,-86.7046,2021-05-03 09:10:52-05:00
+7316163074,birmingham,16902.0,2020.0,toyota,corolla,,,gas,11692.0,clean,automatic,5YFDPRAE6LP106166,fwd,,,black,al,32.9229,-86.545,2021-05-03 08:56:54-05:00
+7316163069,birmingham,12307.0,2018.0,kia,soul,,,gas,95056.0,clean,automatic,KNDJP3A58J7592011,fwd,,,red,al,32.9229,-86.545,2021-05-03 08:56:53-05:00
+7316163057,birmingham,37500.0,2018.0,ford,f-150,,,gas,30026.0,clean,automatic,1FTEW1EP0JFD83808,4wd,,,blue,al,32.9229,-86.545,2021-05-03 08:56:51-05:00
+7316163025,birmingham,21688.0,2020.0,nissan,kicks,,,gas,7575.0,clean,automatic,3N1CP5DV4LL500636,fwd,,,,al,32.9229,-86.545,2021-05-03 08:56:46-05:00
+7316160104,birmingham,29990.0,2016.0,chevrolet,colorado extended cab,good,,gas,17302.0,clean,other,1GCHTCE37G1186784,4wd,,pickup,red,al,33.52,-86.79,2021-05-03 08:51:13-05:00
+7316160083,birmingham,35590.0,2010.0,chevrolet,corvette convertible,good,,gas,31879.0,clean,other,1G1YC3DW6A5101146,rwd,,other,red,al,33.52,-86.79,2021-05-03 08:51:11-05:00
+7316159423,birmingham,18977.0,2017.0,kia,sorento,,,gas,70014.0,clean,automatic,5XYPH4A59HG319380,fwd,,,,al,33.168322,-87.491902,2021-05-03 08:49:56-05:00
+7316159405,birmingham,6877.0,2007.0,nissan,pathfinder,,,gas,155471.0,clean,automatic,5N1AR18U67C618936,rwd,,,,al,33.168322,-87.491902,2021-05-03 08:49:54-05:00
+7316156727,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-05-03 08:44:39-05:00
+7316142184,birmingham,12500.0,2015.0,volkswagen,passat tdi,excellent,,diesel,101000.0,clean,automatic,,,,,white,al,33.546749,-86.539801,2021-05-03 08:12:36-05:00
+7316100915,birmingham,27998.0,2008.0,porsche,cayman,,,gas,69505.0,clean,automatic,WP0AA29878U760792,rwd,,coupe,black,al,33.669601,-86.817617,2021-05-03 04:51:00-05:00
+7316065114,birmingham,6800.0,2004.0,mercedes-benz,clk320,good,,gas,116700.0,clean,automatic,,rwd,,convertible,silver,al,33.47621,-86.715994,2021-05-02 22:44:27-05:00
+7316031977,birmingham,45000.0,2017.0,chevrolet,silverado,excellent,,gas,92000.0,clean,automatic,,4wd,full-size,truck,red,al,33.1717,-86.2713,2021-05-02 20:31:16-05:00
+7316018962,birmingham,2550.0,2004.0,cadillac,srx,,,gas,224105.0,clean,automatic,1GYEE637740189703,rwd,,SUV,white,al,33.455361,-86.962474,2021-05-02 19:50:13-05:00
+7316014990,birmingham,12500.0,2015.0,ford,taurus,like new,,gas,90000.0,clean,automatic,,fwd,,,white,al,33.6035,-86.4668,2021-05-02 19:38:46-05:00
+7316005652,birmingham,3800.0,2011.0,nissan,altima,,,gas,155000.0,rebuilt,automatic,,,,,,al,33.4679,-84.4806,2021-05-02 19:11:44-05:00
+7315998032,birmingham,2500.0,1987.0,,1987 Saab 900 Turbo,fair,,gas,125000.0,clean,manual,,fwd,mid-size,coupe,silver,al,33.2932,-86.768,2021-05-02 18:49:52-05:00
+7315970659,birmingham,2975.0,2006.0,,Suzuki XL-7,,,gas,217353.0,clean,automatic,JS3TY92V164101599,rwd,,SUV,white,al,33.455361,-86.962474,2021-05-02 17:40:35-05:00
+7315958516,birmingham,7980.0,2013.0,bmw,x3,,,gas,156295.0,,manual,5UXWX9C54D0A21202,rwd,,SUV,white,al,33.209789,-86.783493,2021-05-02 17:10:33-05:00
+7315946617,birmingham,7800.0,2005.0,honda,accord ex-l,excellent,,gas,155000.0,clean,manual,,,,,,al,35.7173,-86.9048,2021-05-02 16:42:04-05:00
+7315946365,birmingham,9000.0,2008.0,mazda,miata mx-5,excellent,,gas,56700.0,clean,automatic,JM1NC25F570128735,rwd,compact,convertible,white,al,33.339133,-86.920052,2021-05-02 16:41:28-05:00
+7315941653,birmingham,5980.0,2005.0,cadillac,sts,,,gas,129448.0,,automatic,1G6DC67A350157025,rwd,,sedan,white,al,33.209789,-86.783493,2021-05-02 16:30:32-05:00
+7315938243,birmingham,13500.0,2000.0,chevrolet,corvette,like new,,gas,92000.0,clean,manual,,,mid-size,hatchback,black,al,33.6328,-86.6493,2021-05-02 16:22:19-05:00
+7315932100,birmingham,19950.0,1955.0,chevrolet,bel air,good,,gas,96867.0,clean,automatic,,rwd,full-size,sedan,green,al,34.6205,-86.551,2021-05-02 16:08:48-05:00
+7315923364,birmingham,5980.0,2005.0,acura,tl,,,gas,179721.0,,automatic,19UUA66295A053616,fwd,,sedan,silver,al,33.209789,-86.783493,2021-05-02 15:50:34-05:00
+7315914029,birmingham,2675.0,1996.0,toyota,camry,,,gas,164719.0,clean,automatic,4T1BG12K4TU920697,fwd,,sedan,green,al,33.455361,-86.962474,2021-05-02 15:30:30-05:00
+7315903985,birmingham,5980.0,2006.0,nissan,murano,,,gas,178388.0,,automatic,JN8AZ08T36W405014,fwd,,SUV,white,al,33.209789,-86.783493,2021-05-02 15:10:30-05:00
+7315892725,birmingham,34995.0,2018.0,ram,2500,,,diesel,211000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-05-02 14:48:28-05:00
+7315883471,birmingham,6980.0,2011.0,kia,sorento,,,gas,182321.0,,other,5XYKW4A20BG104807,rwd,,SUV,,al,33.209789,-86.783493,2021-05-02 14:30:28-05:00
+7315873690,birmingham,31990.0,2017.0,jeep,wrangler sport s utility 2d,good,,gas,891.0,clean,other,1C4AJWAG1HL698869,4wd,,other,white,al,33.52,-86.79,2021-05-02 14:11:09-05:00
+7315862871,birmingham,6980.0,2008.0,toyota,avalon,,,gas,158888.0,,automatic,4T1BK36B28U302953,fwd,,sedan,silver,al,33.209789,-86.783493,2021-05-02 13:50:28-05:00
+7315861135,birmingham,11500.0,2013.0,honda,odyssey ex,good,,gas,92000.0,clean,automatic,,,,van,silver,al,33.515444,-86.793624,2021-05-02 13:46:52-05:00
+7315847287,birmingham,2600.0,2000.0,buick,lesabre,,,gas,212061.0,clean,automatic,1G4HR54K6YU316195,fwd,,sedan,blue,al,33.455361,-86.962474,2021-05-02 13:20:24-05:00
+7315842139,birmingham,4980.0,2007.0,ford,edge,,,gas,178095.0,,automatic,2FMDK46C87BA54266,4wd,,sedan,white,al,33.209789,-86.783493,2021-05-02 13:10:53-05:00
+7315832990,birmingham,26995.0,2015.0,ford,f-350,,,diesel,247000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-05-02 12:53:51-05:00
+7315826530,birmingham,27990.0,2014.0,toyota,tacoma access cab pickup,good,,other,17805.0,clean,other,5TFTX4CN3EX042751,,,pickup,red,al,33.52,-86.79,2021-05-02 12:41:39-05:00
+7315826388,birmingham,32990.0,2017.0,jeep,wrangler unlimited sport,good,,gas,30041.0,clean,other,1C4BJWDG5HL705371,4wd,,other,silver,al,33.52,-86.79,2021-05-02 12:41:24-05:00
+7315822644,birmingham,34995.0,2018.0,ram,1500,,,gas,104000.0,clean,automatic,,rwd,,,,al,33.521,-86.8066,2021-05-02 12:34:27-05:00
+7315820454,birmingham,5980.0,2010.0,gmc,terrain,,,gas,208359.0,,manual,2CTALFEW0A6326745,rwd,,SUV,red,al,33.209789,-86.783493,2021-05-02 12:30:21-05:00
+7315819285,birmingham,4500.0,2014.0,ford,f250 xl,,,gas,250000.0,clean,automatic,,,,,,al,34.1761,-86.8298,2021-05-02 12:27:58-05:00
+7315799907,birmingham,5480.0,2013.0,chevrolet,captiva sport,,,gas,182711.0,,automatic,3GNFL3EK8DS506789,fwd,,SUV,grey,al,33.209789,-86.783493,2021-05-02 11:50:23-05:00
+7315785227,birmingham,16990.0,2016.0,kia,forte koup ex coupe 2d,good,,gas,17631.0,clean,other,KNAFX6A8XG5647822,fwd,,coupe,,al,33.52,-86.79,2021-05-02 11:21:02-05:00
+7315785215,birmingham,37590.0,2019.0,ford,f150 supercrew cab xl,good,,gas,8663.0,clean,other,1FTEW1CP2KKC65268,,,pickup,,al,33.52,-86.79,2021-05-02 11:21:00-05:00
+7315780240,birmingham,3975.0,2010.0,chevrolet,cobalt,,,gas,162455.0,clean,automatic,1G1AF5F59A7187839,fwd,,sedan,silver,al,33.455361,-86.962474,2021-05-02 11:11:12-05:00
+7315780175,birmingham,6480.0,2008.0,buick,enclave,,,gas,183858.0,,automatic,5GAER23768J133952,rwd,,SUV,,al,33.209789,-86.783493,2021-05-02 11:11:04-05:00
+7315759709,birmingham,22900.0,2013.0,dodge,grand caravan,,,gas,68228.0,clean,automatic,2C4RDGEG1DR649621,fwd,,,silver,al,33.925578,-84.836041,2021-05-02 10:28:47-05:00
+7315746793,birmingham,24997.0,2014.0,mercedes-benz,m-class,,,gas,82553.0,clean,automatic,4JGDA7DBXEA336979,,,SUV,blue,al,33.669601,-86.817617,2021-05-02 10:00:46-05:00
+7315741039,birmingham,6700.0,2011.0,nissan,murano,excellent,,gas,184000.0,clean,automatic,,,,,silver,al,33.120694,-86.493482,2021-05-02 09:47:28-05:00
+7315720016,birmingham,26500.0,2019.0,nissan,rogue sport,,,gas,9975.0,clean,automatic,JN1BJ1CR1KW311221,,,,red,al,32.9229,-86.545,2021-05-02 08:54:38-05:00
+7315720022,birmingham,27988.0,2020.0,nissan,altima,,,gas,15139.0,clean,automatic,1N4BL4FW4LC155761,,,,blue,al,32.9229,-86.545,2021-05-02 08:54:39-05:00
+7315719969,birmingham,20870.0,2019.0,infiniti,qx30,,,gas,29938.0,clean,automatic,SJKCH5CP1KA009165,fwd,,,red,al,32.9229,-86.545,2021-05-02 08:54:34-05:00
+7315719954,birmingham,26988.0,2018.0,nissan,pathfinder,,,gas,24274.0,clean,automatic,5N1DR2MM1JC613563,4wd,,,white,al,32.9229,-86.545,2021-05-02 08:54:32-05:00
+7315718861,birmingham,19990.0,2017.0,subaru,legacy 2.5i premium sedan,good,,gas,10309.0,clean,other,4S3BNAC6XH3051466,,,sedan,white,al,33.52,-86.79,2021-05-02 08:51:56-05:00
+7315717381,birmingham,19877.0,2011.0,ram,2500,,,diesel,183284.0,clean,automatic,3D7TP2CL9BG533799,,,,white,al,33.168322,-87.491902,2021-05-02 08:48:14-05:00
+7315717357,birmingham,11977.0,2015.0,gmc,terrain,,,gas,106591.0,clean,automatic,2GKALSEKXF6413341,fwd,,,silver,al,33.168322,-87.491902,2021-05-02 08:48:09-05:00
+7315683764,birmingham,29998.0,2014.0,mercedes-benz,cls,,,gas,57406.0,clean,automatic,,rwd,full-size,sedan,grey,al,33.455361,-86.737847,2021-05-02 06:45:49-05:00
+7315670261,birmingham,12895.0,1991.0,chevrolet,corvette,,,gas,43725.0,clean,automatic,1G1YY238XM5105316,rwd,,hatchback,,al,33.669601,-86.817617,2021-05-02 04:40:44-05:00
+7315607166,birmingham,3650.0,1999.0,jeep,grand cherokee,,,gas,151379.0,clean,automatic,1J4G258SXXC735664,rwd,,SUV,blue,al,33.455361,-86.962474,2021-05-01 20:30:10-05:00
+7315603628,birmingham,8500.0,2006.0,rover,,good,,gas,139445.0,clean,automatic,,4wd,full-size,SUV,white,al,33.3813,-86.7046,2021-05-01 20:17:02-05:00
+7315582673,birmingham,3299.0,2003.0,chevrolet,cavalier,,,gas,176354.0,clean,automatic,1G1JC12F837128347,fwd,,coupe,,al,33.455361,-86.962474,2021-05-01 19:10:39-05:00
+7315552491,birmingham,4499.0,2005.0,toyota,camry,,,gas,170687.0,clean,automatic,4T1BE32K55U090199,fwd,,sedan,blue,al,33.455361,-86.962474,2021-05-01 17:50:32-05:00
+7315536101,birmingham,5940.0,2011.0,kia,soul,,,gas,163385.0,,manual,KNDJT2A23B7712004,rwd,,wagon,white,al,33.209789,-86.783493,2021-05-01 17:10:34-05:00
+7315518205,birmingham,3999.0,2009.0,volvo,s60,,,gas,182005.0,clean,automatic,YV1RS592192724102,fwd,,sedan,silver,al,33.455361,-86.962474,2021-05-01 16:30:41-05:00
+7315518138,birmingham,8980.0,2011.0,jeep,grand cherokee,,,,173787.0,,manual,1J4RS4GG8BC644367,rwd,,SUV,silver,al,33.209789,-86.783493,2021-05-01 16:30:32-05:00
+7315506908,birmingham,4950.0,2001.0,toyota,4runner limited,,,gas,266000.0,clean,automatic,,rwd,,SUV,white,al,33.3967,-86.8346,2021-05-01 16:06:47-05:00
+7315498556,birmingham,4980.0,2010.0,chevrolet,traverse,,,gas,208122.0,,manual,1GNLVEED4AS107976,rwd,,SUV,silver,al,33.209789,-86.783493,2021-05-01 15:50:29-05:00
+7315477708,birmingham,4400.0,2006.0,buick,lacrosse,,,gas,124201.0,clean,automatic,2G4WC582961280594,fwd,,sedan,white,al,33.455361,-86.962474,2021-05-01 15:10:35-05:00
+7315477644,birmingham,8980.0,2010.0,dodge,charger,,,gas,207260.0,,automatic,2B3CA5CT3AH172325,rwd,,sedan,black,al,33.209789,-86.783493,2021-05-01 15:10:27-05:00
+7315472611,birmingham,33590.0,2014.0,toyota,tundra crewmax sr5 pickup,good,,other,55251.0,clean,other,5TFEY5F15EX169621,,,pickup,red,al,33.52,-86.79,2021-05-01 15:01:10-05:00
+7315472435,birmingham,39590.0,2020.0,ford,mustang gt premium coupe 2d,good,,gas,1419.0,clean,other,1FA6P8CF5L5136223,rwd,,coupe,white,al,33.52,-86.79,2021-05-01 15:00:57-05:00
+7315472446,birmingham,26590.0,2017.0,honda,pilot lx sport utility 4d,good,,gas,13836.0,clean,other,5FNYF5H14HB023578,,,other,blue,al,33.52,-86.79,2021-05-01 15:00:58-05:00
+7315467479,birmingham,21990.0,2018.0,buick,regal sportback preferred,good,,gas,4988.0,clean,other,W04GL6SX4J1075339,fwd,,sedan,white,al,33.52,-86.79,2021-05-01 14:51:25-05:00
+7315467324,birmingham,19990.0,2017.0,hyundai,sonata plug-in hybrid,good,,hybrid,29254.0,clean,manual,KMHE54L2XHA065127,fwd,,sedan,white,al,33.52,-86.79,2021-05-01 14:51:12-05:00
+7315467192,birmingham,30990.0,2019.0,ford,ranger supercrew xl pickup,good,,other,1834.0,clean,other,1FTER4EH3KLA31326,,,pickup,black,al,33.52,-86.79,2021-05-01 14:51:01-05:00
+7315455723,birmingham,6980.0,2006.0,nissan,pathfinder,,,gas,146779.0,,automatic,5N1AR18U66C639557,rwd,,SUV,silver,al,33.209789,-86.783493,2021-05-01 14:30:25-05:00
+7315432897,birmingham,4100.0,2010.0,hyundai,elantra touring,,,gas,130206.0,rebuilt,manual,KMHDC8AE1AU064894,fwd,,wagon,grey,al,33.455361,-86.962474,2021-05-01 13:50:33-05:00
+7315432820,birmingham,7980.0,2015.0,kia,forte,,,gas,121682.0,,automatic,KNAFX4A84F5265692,fwd,,sedan,black,al,33.209789,-86.783493,2021-05-01 13:50:24-05:00
+7315409578,birmingham,9980.0,2013.0,infiniti,jx35,,,gas,171226.0,,automatic,5N1AL0MN7DC303102,fwd,,SUV,white,al,33.209789,-86.783493,2021-05-01 13:11:06-05:00
+7315387122,birmingham,19500.0,2008.0,ram,3500,good,,diesel,161000.0,clean,manual,,4wd,full-size,truck,silver,al,33.493,-86.8,2021-05-01 12:34:13-05:00
+7315384686,birmingham,2300.0,1997.0,buick,lesabre,,,gas,201566.0,clean,automatic,1G4HR52KXVH453440,fwd,,sedan,green,al,33.455361,-86.962474,2021-05-01 12:30:31-05:00
+7315384602,birmingham,10980.0,2007.0,gmc,yukon xl denali,,,gas,181633.0,,automatic,1GKFK66867J219204,,,SUV,black,al,33.209789,-86.783493,2021-05-01 12:30:24-05:00
+7315377651,birmingham,15000.0,2009.0,toyota,tacoma 4x4,good,,gas,213800.0,clean,automatic,,4wd,mid-size,truck,silver,al,32.8355,-86.6425,2021-05-01 12:19:00-05:00
+7315366606,birmingham,14897.0,2012.0,jeep,grand cherokee,,,gas,112510.0,clean,other,1C4RJEAG7CC119745,rwd,,SUV,silver,al,34.2056,-86.85834,2021-05-01 12:01:29-05:00
+7315366439,birmingham,11400.0,2013.0,kia,sportage,,,gas,92986.0,clean,other,KNDPBCA2XD7460869,4wd,,SUV,blue,al,34.2056,-86.85834,2021-05-01 12:01:16-05:00
+7315359827,birmingham,10980.0,2012.0,ford,mustang,,,gas,159559.0,,manual,1ZVBP8AMXC5284648,rwd,,coupe,silver,al,33.209789,-86.783493,2021-05-01 11:50:17-05:00
+7315355524,birmingham,3500.0,1998.0,jeep,cherokee,,,gas,273000.0,clean,automatic,,4wd,,SUV,white,al,33.910639,-86.348897,2021-05-01 11:43:07-05:00
+7315354216,birmingham,8950.0,2011.0,ford,f-150,excellent,,gas,164000.0,clean,automatic,1FTMF1CM6BKD55331,fwd,full-size,truck,white,al,34.0378,-84.5038,2021-05-01 11:41:04-05:00
+7315349921,birmingham,4000.0,1972.0,mercedes-benz,benz,fair,,gas,88100.0,clean,automatic,11402312009097,rwd,full-size,coupe,silver,al,33.5409,-86.7495,2021-05-01 11:33:56-05:00
+7315345469,birmingham,50000.0,2019.0,toyota,tundra,like new,,gas,20010.0,clean,automatic,,4wd,full-size,truck,white,al,33.345723,-86.767445,2021-05-01 11:26:30-05:00
+7315336062,birmingham,3500.0,2009.0,hyundai,accent,,,gas,111387.0,rebuilt,automatic,KMHCN46C69U298613,fwd,,sedan,white,al,33.455361,-86.962474,2021-05-01 11:11:02-05:00
+7315335997,birmingham,7480.0,2012.0,chrysler,300,,,gas,187910.0,,automatic,2C3CCAAG8CH166356,rwd,,sedan,blue,al,33.209789,-86.783493,2021-05-01 11:10:56-05:00
+7315294251,birmingham,1200.0,2005.0,chevrolet,impala,fair,,gas,256806.0,clean,automatic,,fwd,mid-size,sedan,blue,al,33.4816,-86.859,2021-05-01 09:57:28-05:00
+7315329101,birmingham,8888.0,2005.0,nissan,altima 3.5 sl,excellent,,gas,53320.0,clean,automatic,,fwd,mid-size,sedan,brown,al,33.4188,-86.7867,2021-05-01 10:59:24-05:00
+7315296502,birmingham,26990.0,2016.0,toyota,tacoma,,,gas,102089.0,clean,automatic,3TMAZ5CN5GM007838,rwd,,pickup,grey,al,33.669601,-86.817617,2021-05-01 10:01:37-05:00
+7315262722,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-05-01 08:54:37-05:00
+7315259946,birmingham,53483.4827039001,2001.0,ferrari,360 modena,good,,gas,20187.0,clean,automatic,ZFFYT53A110125703,rwd,mid-size,convertible,red,al,34.586557,-83.761243,2021-05-01 08:48:02-05:00
+7315258127,birmingham,15277.0,2017.0,mini,cooper,,,gas,94893.0,clean,manual,WMWWG5C53H3A81340,fwd,,,silver,al,33.168322,-87.491902,2021-05-01 08:43:30-05:00
+7315258080,birmingham,17977.0,2012.0,toyota,4runner,,,gas,182263.0,clean,automatic,JTEBU5JR5C5092958,4wd,,,black,al,33.168322,-87.491902,2021-05-01 08:43:24-05:00
+7315253314,birmingham,12250.0,2007.0,toyota,4runner sport edition,,,gas,189000.0,clean,automatic,,,,,,al,34.1761,-86.8298,2021-05-01 08:31:44-05:00
+7315206704,birmingham,35495.0,2013.0,,Series,,,gas,14000.0,clean,automatic,3MW5R1J08L8B21625,rwd,,sedan,white,al,33.669601,-86.817617,2021-05-01 04:40:22-05:00
+7315177514,birmingham,16500.0,2011.0,ford,f250 super duty,excellent,,gas,201766.0,clean,automatic,,4wd,full-size,truck,white,al,33.8374,-86.2552,2021-04-30 23:28:56-05:00
+7315145734,birmingham,5800.0,2001.0,ford,crown vic,,,gas,105000.0,clean,automatic,,,,,,al,33.5363,-87.051,2021-04-30 21:03:31-05:00
+7315136222,birmingham,3999.0,2006.0,pontiac,grand prix,,,gas,207238.0,clean,automatic,2G2WP552061255472,fwd,,sedan,white,al,33.455361,-86.962474,2021-04-30 20:30:23-05:00
+7315125503,birmingham,6000.0,2011.0,acura,mdx,good,,gas,197331.0,clean,automatic,,,,SUV,black,al,33.7392,-86.7726,2021-04-30 19:56:50-05:00
+7315110575,birmingham,9400.0,2008.0,mercedes-benz,benz c350,good,,gas,129473.0,clean,automatic,WDDGF56X68F140907,rwd,full-size,sedan,silver,al,33.242941,-86.817312,2021-04-30 19:14:16-05:00
+7315109151,birmingham,3850.0,2003.0,dodge,durango,,,gas,215604.0,clean,automatic,1D4HR38N13F620886,rwd,,SUV,blue,al,33.455361,-86.962474,2021-04-30 19:10:19-05:00
+7315094967,birmingham,7900.0,2013.0,nissan,pathfinder,good,,gas,152400.0,clean,automatic,,fwd,mid-size,SUV,white,al,33.421,-86.783,2021-04-30 18:33:54-05:00
+7315075822,birmingham,4300.0,2012.0,kia,soul,,,gas,174053.0,clean,automatic,KNDJT2A56C7421511,fwd,,wagon,silver,al,33.455361,-86.962474,2021-04-30 17:50:17-05:00
+7315037003,birmingham,2800.0,2006.0,ford,taurus,,,gas,230108.0,clean,automatic,1FAFP53U56A238775,fwd,,sedan,white,al,33.455361,-86.962474,2021-04-30 16:30:46-05:00
+7315016146,birmingham,27995.0,2012.0,ford,f250 super duty,,,gas,47380.0,clean,automatic,1FDBF2A66CEC73016,,,,white,al,34.9506,-85.2432,2021-04-30 15:51:30-05:00
+7314992967,birmingham,3900.0,2010.0,chevrolet,cobalt,,,gas,162218.0,clean,automatic,1G1AD5F56A7158983,fwd,,sedan,silver,al,33.455361,-86.962474,2021-04-30 15:10:41-05:00
+7314967754,birmingham,7300.0,2007.0,lexus,rx350,good,,gas,181000.0,clean,automatic,2T2GK31U57C025466,fwd,mid-size,SUV,white,al,33.7299,-86.6451,2021-04-30 14:25:51-05:00
+7314956487,birmingham,53483.4827039001,2021.0,chevrolet,tahoe,good,,gas,19129.0,clean,automatic,1GNSKPKD7MR102321,4wd,full-size,SUV,grey,al,33.772519,-86.475191,2021-04-30 14:07:10-05:00
+7314956410,birmingham,28900.0,2017.0,audi,q7,good,,gas,94601.0,clean,automatic,WA1LAAF71HD007817,4wd,full-size,SUV,white,al,33.772519,-86.475191,2021-04-30 14:07:04-05:00
+7314956329,birmingham,17000.0,2019.0,chevrolet,trax,good,,gas,14898.0,clean,automatic,3GNCJNSB9KL333431,4wd,full-size,SUV,grey,al,33.772519,-86.475191,2021-04-30 14:06:56-05:00
+7314945978,birmingham,3350.0,2010.0,chevrolet,hhr,,,,177602.0,clean,automatic,3GNBABDB7AS559947,rwd,,SUV,red,al,33.455361,-86.962474,2021-04-30 13:50:33-05:00
+7314941829,birmingham,199.0,2017.0,dodge,charger,,,gas,21737.0,clean,automatic,,,,,,al,33.4816,-86.859,2021-04-30 13:43:43-05:00
+7314938392,birmingham,5950.0,2007.0,mitsubishi,eclipse,good,,gas,72000.0,clean,manual,4A3AK24F17E042681,fwd,compact,hatchback,black,al,33.353832,-86.866751,2021-04-30 13:38:11-05:00
+7314897630,birmingham,24590.0,2017.0,chevrolet,silverado 1500 regular,good,,gas,40784.0,clean,other,1GCNCNEH7HZ118773,,,pickup,white,al,33.52,-86.79,2021-04-30 12:31:10-05:00
+7314897221,birmingham,3999.0,2006.0,honda,accord sedan,,,gas,253076.0,clean,automatic,3HGCM56406G701183,fwd,,sedan,silver,al,33.455361,-86.962474,2021-04-30 12:30:32-05:00
+7314893113,birmingham,8900.0,2013.0,toyota,prius,excellent,,hybrid,142900.0,clean,automatic,JTDZN3EU6D3195340,fwd,mid-size,wagon,blue,al,33.9135,-84.6859,2021-04-30 12:23:41-05:00
+7314887217,birmingham,9900.0,2016.0,,scion ia,excellent,,gas,21000.0,clean,automatic,,fwd,compact,sedan,blue,al,33.8673,-84.7699,2021-04-30 12:14:01-05:00
+7314885567,birmingham,34590.0,2018.0,ford,f150 super cab xl pickup 4d,good,,gas,20856.0,clean,other,1FTEX1CBXJKD41626,,,pickup,white,al,33.52,-86.79,2021-04-30 12:11:13-05:00
+7314885483,birmingham,39990.0,2019.0,nissan,370z nismo coupe 2d,good,,gas,8373.0,clean,other,JN1AZ4EH8KM420880,rwd,,coupe,white,al,33.52,-86.79,2021-04-30 12:11:06-05:00
+7314885435,birmingham,30590.0,2016.0,toyota,tacoma double cab sr5,good,,other,30176.0,clean,other,3TMAZ5CN7GM019182,,,pickup,red,al,33.52,-86.79,2021-04-30 12:11:03-05:00
+7314879552,birmingham,11587.0,2013.0,ford,escape,,,gas,215046.0,clean,other,1FMCU0J92DUD22213,fwd,,SUV,black,al,34.2056,-86.85834,2021-04-30 12:01:40-05:00
+7314833347,birmingham,4000.0,2002.0,toyota,camry,like new,,gas,160000.0,clean,automatic,,fwd,full-size,sedan,white,al,33.6989,-84.7454,2021-04-30 10:47:40-05:00
+7314848183,birmingham,2999.0,2007.0,ford,taurus,,,gas,162029.0,clean,automatic,1FAFP56U47A197052,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-30 11:11:20-05:00
+7314847158,birmingham,10800.0,2013.0,toyota,camry,excellent,,hybrid,147000.0,clean,automatic,4T1BD1FK4DU076083,fwd,mid-size,sedan,grey,al,33.354047,-86.866493,2021-04-30 11:09:51-05:00
+7314831178,birmingham,5500.0,2008.0,nissan,altima,like new,,gas,150000.0,clean,automatic,,fwd,,sedan,white,al,33.6989,-84.7454,2021-04-30 10:44:07-05:00
+7314812134,birmingham,34500.0,2012.0,bmw,x6,,,gas,53723.0,clean,automatic,5YMGZ0C57CLK14442,,,,,al,33.669601,-86.817617,2021-04-30 10:11:19-05:00
+7314798728,birmingham,3200.0,1988.0,chevrolet,s10 pickup,,,gas,191000.0,rebuilt,automatic,,,,,,al,33.3224,-86.9657,2021-04-30 09:48:18-05:00
+7314779644,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-30 09:11:55-05:00
+7314769276,birmingham,19990.0,2020.0,nissan,versa,,,gas,6591.0,clean,automatic,3N1CN8FV7LL800790,fwd,,,black,al,32.9229,-86.545,2021-04-30 08:52:01-05:00
+7314769271,birmingham,26990.0,2020.0,nissan,frontier,,,gas,323.0,clean,automatic,1N6ED0CE8LN726078,rwd,,,red,al,32.9229,-86.545,2021-04-30 08:52:00-05:00
+7314769274,birmingham,31988.0,2019.0,nissan,murano,,,gas,15566.0,clean,automatic,5N1AZ2MJ9KN124875,fwd,,,blue,al,32.9229,-86.545,2021-04-30 08:52:01-05:00
+7314765945,birmingham,11977.0,2009.0,toyota,venza,,,gas,76662.0,clean,automatic,4T3BK11A39U008165,,,,red,al,33.168322,-87.491902,2021-04-30 08:45:18-05:00
+7314759369,birmingham,35990.0,2016.0,dodge,challenger r/t scat pack,good,,other,18955.0,clean,other,2C3CDZFJ5GH184898,rwd,,coupe,black,al,33.52,-86.79,2021-04-30 08:31:22-05:00
+7314759358,birmingham,34990.0,2018.0,ram,1500 quad cab big horn,good,,other,22064.0,clean,other,1C6RR7GG0JS247282,4wd,,pickup,silver,al,33.52,-86.79,2021-04-30 08:31:21-05:00
+7314756426,birmingham,38995.0,2012.0,ford,f-250 super duty,,,gas,9205.0,clean,automatic,1FD7W2B61CEC39375,4wd,,,white,al,34.9506,-85.2432,2021-04-30 08:24:40-05:00
+7314751649,birmingham,10500.0,2013.0,volkswagen,passat tdi sel,excellent,,diesel,91000.0,clean,automatic,,,,,black,al,33.546749,-86.539801,2021-04-30 08:13:49-05:00
+7314747301,birmingham,18250.0,2016.0,ford,explorer xlt,excellent,,gas,69000.0,clean,automatic,,,,,blue,al,33.546749,-86.539801,2021-04-30 08:03:08-05:00
+7314746017,birmingham,19900.0,2017.0,ford,explorer xlt,excellent,,gas,71000.0,clean,automatic,,,,,silver,al,33.544096,-86.534376,2021-04-30 08:00:20-05:00
+7314744435,birmingham,10500.0,2014.0,volkswagen,jetta tdi,excellent,,diesel,52000.0,clean,automatic,,,,,grey,al,33.546749,-86.539801,2021-04-30 07:55:43-05:00
+7314730546,birmingham,3500.0,1994.0,ford,f450,fair,,diesel,190000.0,clean,manual,,rwd,full-size,truck,white,al,33.170804,-86.28202,2021-04-30 07:08:12-05:00
+7314709451,birmingham,31990.0,2016.0,chevrolet,silverado 1500,,,,107597.0,clean,automatic,3GCUKREC3GG310264,4wd,,pickup,white,al,33.669601,-86.817617,2021-04-30 04:50:50-05:00
+7314668731,birmingham,6800.0,2005.0,,blue bird bus,excellent,,diesel,180000.0,clean,automatic,,rwd,full-size,bus,yellow,al,33.2473,-84.835,2021-04-29 22:29:32-05:00
+7314667373,birmingham,5500.0,1999.0,,blue bird bus,excellent,,diesel,220000.0,clean,automatic,,rwd,full-size,bus,yellow,al,33.2473,-84.835,2021-04-29 22:23:27-05:00
+7314664527,birmingham,36990.0,2018.0,toyota,4runner sr5 sport utility,good,,gas,21415.0,clean,other,JTEBU5JR4J5589139,4wd,,other,silver,al,33.52,-86.79,2021-04-29 22:11:15-05:00
+7314664514,birmingham,23590.0,2017.0,nissan,frontier king cab sv,good,,gas,37091.0,clean,other,1N6BD0CT1HN724133,fwd,,pickup,red,al,33.52,-86.79,2021-04-29 22:11:14-05:00
+7314664519,birmingham,17990.0,2013.0,subaru,xv crosstrek premium,good,,gas,57371.0,clean,other,JF2GPAVC1D2886375,,,hatchback,blue,al,33.52,-86.79,2021-04-29 22:11:14-05:00
+7314664521,birmingham,30990.0,2017.0,nissan,frontier crew cab pro-4x,good,,gas,31095.0,clean,other,1N6DD0EV9HN769618,4wd,,pickup,white,al,33.52,-86.79,2021-04-29 22:11:14-05:00
+7314664494,birmingham,21590.0,2017.0,buick,regal premium ii sedan 4d,good,,gas,14934.0,clean,other,2G4GR5GX4H9146936,fwd,,sedan,white,al,33.52,-86.79,2021-04-29 22:11:10-05:00
+7314664471,birmingham,21990.0,2019.0,toyota,camry l sedan 4d,good,,other,5607.0,clean,other,4T1B11HK4KU829484,,,sedan,red,al,33.52,-86.79,2021-04-29 22:11:07-05:00
+7314656633,birmingham,16000.0,2016.0,dodge,charger,like new,,gas,62000.0,clean,automatic,,rwd,full-size,sedan,silver,al,33.500813,-86.872046,2021-04-29 21:39:05-05:00
+7314654378,birmingham,1500.0,2005.0,toyota,solara,good,,gas,222100.0,clean,automatic,,fwd,full-size,sedan,silver,al,33.1098,-86.756,2021-04-29 21:29:59-05:00
+7314624461,birmingham,4500.0,2005.0,acura,mdx,,,gas,279000.0,clean,automatic,2HNYD18905H558010,,,SUV,blue,al,33.455361,-86.962474,2021-04-29 19:50:31-05:00
+7314603249,birmingham,33995.0,2016.0,chevrolet,silverado 1500,,,gas,115000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-04-29 18:54:51-05:00
+7314592793,birmingham,40000.0,2017.0,chevrolet,tahoe,like new,,gas,68000.0,clean,automatic,,rwd,full-size,SUV,silver,al,33.5066,-86.7428,2021-04-29 18:30:36-05:00
+7314590934,birmingham,39900.0,2015.0,lincoln,,,,gas,51.0,clean,automatic,,,,,,al,29.2833,-81.0882,2021-04-29 18:26:24-05:00
+7314589649,birmingham,10500.0,2008.0,infiniti,ex35,good,,gas,122904.0,clean,automatic,JNKAJ09E48M304922,rwd,full-size,wagon,black,al,33.242977,-86.817334,2021-04-29 18:23:12-05:00
+7314584193,birmingham,9500.0,2014.0,toyota,prius v hybrid,good,,gas,136128.0,clean,automatic,JTDZN3EU4E3324774,fwd,mid-size,hatchback,white,al,33.243067,-86.817398,2021-04-29 18:10:56-05:00
+7314583885,birmingham,12900.0,2014.0,nissan,rogue sv,good,,gas,120211.0,clean,automatic,5N1AT2MT4EC795289,fwd,full-size,SUV,red,al,33.242977,-86.817334,2021-04-29 18:10:10-05:00
+7314570604,birmingham,4275.0,2006.0,jeep,liberty,,,gas,174132.0,clean,automatic,1J8GL48K06W123802,4wd,,SUV,red,al,33.455361,-86.962474,2021-04-29 17:40:27-05:00
+7314565277,birmingham,3200.0,2006.0,chevrolet,trailblazer,good,,gas,178762.0,clean,automatic,,rwd,full-size,SUV,grey,al,33.7386,-86.4394,2021-04-29 17:29:03-05:00
+7314539852,birmingham,10000.0,2010.0,toyota,tundra,,,gas,180000.0,clean,automatic,,,,,,al,33.521,-86.8066,2021-04-29 16:35:45-05:00
+7314521202,birmingham,11995.0,2007.0,chevrolet,tahoe,,,gas,170865.0,clean,automatic,1GNFK13077J125921,4wd,,,silver,al,34.9506,-85.2432,2021-04-29 16:00:07-05:00
+7314505215,birmingham,3399.0,2006.0,buick,lacrosse,,,gas,160218.0,clean,automatic,2G4WD582061211256,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-29 15:30:13-05:00
+7314488940,birmingham,17995.0,2017.0,ram,promaster 1500 cargo van,,,gas,147064.0,clean,automatic,3C6TRVNGXHE538740,,,,white,al,34.9506,-85.2432,2021-04-29 15:01:11-05:00
+7314448560,birmingham,3850.0,2010.0,volkswagen,jetta,,,gas,178000.0,clean,automatic,,,,,,al,34.4965,-84.9345,2021-04-29 13:50:31-05:00
+7314431586,birmingham,3900.0,2009.0,hyundai,elantra,,,gas,162005.0,clean,automatic,KMHDU46D49U684737,rwd,,sedan,white,al,33.455361,-86.962474,2021-04-29 13:20:32-05:00
+7314409980,birmingham,6000.0,2004.0,subaru,baja,excellent,,gas,64000.0,clean,automatic,,4wd,,,,al,33.4653,-86.8082,2021-04-29 12:44:18-05:00
+7314384262,birmingham,15897.0,2018.0,chevrolet,malibu,,,gas,65950.0,clean,other,1G1ZB5ST9JF144448,fwd,,sedan,grey,al,34.2056,-86.85834,2021-04-29 12:01:49-05:00
+7314353155,birmingham,3300.0,1999.0,chrysler,300m,,,gas,162026.0,clean,automatic,2C3HE66G5XH565608,fwd,,sedan,,al,33.455361,-86.962474,2021-04-29 11:11:04-05:00
+7314348351,birmingham,26995.0,2015.0,ford,f-350,,,diesel,232000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-04-29 11:03:09-05:00
+7314334186,birmingham,6950.0,2011.0,volkswagen,jetta,excellent,,gas,116000.0,clean,automatic,3VWDZ7AJ9BM348478,fwd,full-size,sedan,silver,al,33.4951,-86.8059,2021-04-29 10:38:35-05:00
+7314331833,birmingham,29995.0,2013.0,chevrolet,silverado 2500hd,,,diesel,173000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-04-29 10:34:44-05:00
+7314318598,birmingham,22795.0,2015.0,mercedes-benz,c-class,,,gas,67870.0,clean,automatic,55SWF4KB4FU020761,,,sedan,silver,al,33.669601,-86.817617,2021-04-29 10:11:45-05:00
+7314312719,birmingham,8995.0,2005.0,nissan,altima 3.5 sl,excellent,,gas,53320.0,clean,automatic,,fwd,mid-size,sedan,brown,al,33.4188,-86.7867,2021-04-29 10:01:42-05:00
+7314302125,birmingham,1250.0,1988.0,ford,bronco ii,fair,,gas,90000.0,clean,manual,,4wd,,SUV,black,al,33.935213,-86.017456,2021-04-29 09:41:32-05:00
+7314297193,birmingham,1500.0,1988.0,,1988,good,,gas,89000.0,clean,manual,,4wd,,,,al,33.937207,-86.017799,2021-04-29 09:31:43-05:00
+7314293077,birmingham,48900.0,2018.0,chevrolet,silverado 2500 hd ltz,like new,,diesel,43034.0,rebuilt,automatic,1GC1KWEYXJF108821,4wd,full-size,truck,black,al,34.932873,-80.278416,2021-04-29 09:23:00-05:00
+7314278078,birmingham,9988.0,2014.0,kia,sorento lx,good,,gas,121259.0,clean,automatic,,fwd,compact,SUV,red,al,33.4188,-86.7867,2021-04-29 08:52:43-05:00
+7314277945,birmingham,24888.0,2019.0,ford,f150 regular cab xl,excellent,,gas,8176.0,clean,automatic,,rwd,full-size,pickup,white,al,33.4188,-86.7867,2021-04-29 08:52:28-05:00
+7314277738,birmingham,28490.0,2020.0,nissan,murano,,,gas,6154.0,clean,automatic,5N1AZ2AJ2LN101363,fwd,,,blue,al,32.9229,-86.545,2021-04-29 08:51:58-05:00
+7314277721,birmingham,31968.0,2020.0,infiniti,q50,,,gas,27441.0,clean,automatic,JN1EV7AR9LM251385,,,,white,al,32.9229,-86.545,2021-04-29 08:51:57-05:00
+7314277700,birmingham,21334.0,2021.0,toyota,corolla,,,gas,7277.0,clean,automatic,5YFS4MCE4MP059799,fwd,,,white,al,32.9229,-86.545,2021-04-29 08:51:55-05:00
+7314276424,birmingham,16888.0,2008.0,toyota,fj cruiser 4x4,good,,gas,188096.0,clean,automatic,,4wd,mid-size,SUV,yellow,al,32.889405,-86.623027,2021-04-29 08:49:19-05:00
+7314276144,birmingham,19888.0,2015.0,mercedes-benz,benz ml 450,excellent,,gas,111261.0,clean,automatic,,4wd,full-size,SUV,silver,al,32.9229,-86.545,2021-04-29 08:48:41-05:00
+7314275948,birmingham,31888.0,2015.0,gmc,1500 yukon slt,good,,gas,109947.0,clean,automatic,,rwd,full-size,SUV,white,al,33.3813,-86.7046,2021-04-29 08:48:16-05:00
+7314275443,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-29 08:47:14-05:00
+7314275143,birmingham,10997.0,2010.0,ford,explorer sport trac,,,gas,137906.0,clean,automatic,1FMEU5BE7AUA21787,4wd,,,,al,33.168322,-87.491902,2021-04-29 08:46:39-05:00
+7314264250,birmingham,29800.0,2019.0,chevrolet,silverado 1500,,,gas,39000.0,clean,automatic,,4wd,,,red,al,33.7606,-84.7477,2021-04-29 08:20:41-05:00
+7314241133,birmingham,1350.0,1999.0,,plymouth voyager,fair,,gas,200000.0,clean,automatic,,,,,,al,33.758741,-86.618614,2021-04-29 07:04:27-05:00
+7314222909,birmingham,50990.0,2017.0,mercedes-benz,s-class,,,gas,68643.0,clean,automatic,WDDUG8FB5HA318535,,,sedan,black,al,33.669601,-86.817617,2021-04-29 04:50:54-05:00
+7314194164,birmingham,9500.0,1968.0,pontiac,firebird,,,gas,175000.0,clean,automatic,,,,convertible,red,al,33.559,-86.815,2021-04-28 23:24:48-05:00
+7314166127,birmingham,1300.0,1969.0,mercedes-benz,benz,,,gas,12774.0,clean,automatic,,,,,,al,33.521,-86.8066,2021-04-28 21:17:16-05:00
+7314165149,birmingham,22500.0,1929.0,ford,,,,gas,9999999.0,clean,automatic,,,,,,al,33.6339,-86.5981,2021-04-28 21:13:37-05:00
+7314139034,birmingham,3999.0,2003.0,infiniti,g35 sedan,,,gas,233830.0,clean,automatic,JNKCV51E23M327551,rwd,,sedan,,al,33.455361,-86.962474,2021-04-28 19:50:27-05:00
+7314137416,birmingham,5900.0,2011.0,ford,fiesta se,,,gas,109000.0,clean,automatic,,,,,,al,34.015078,-84.608278,2021-04-28 19:45:48-05:00
+7314082833,birmingham,2800.0,2002.0,pontiac,grand am gt 1,good,,gas,128783.0,rebuilt,manual,,fwd,compact,,red,al,33.6582,-87.336,2021-04-28 17:32:43-05:00
+7314048587,birmingham,28995.0,2017.0,chevrolet,silverado 2500hd,,,gas,102000.0,clean,automatic,,rwd,,,,al,33.521,-86.8066,2021-04-28 16:20:06-05:00
+7314047007,birmingham,34950.0,2016.0,nissan,titan xd cummins platinum,,,diesel,158159.0,clean,automatic,,4wd,,pickup,,al,37.4011,-77.4615,2021-04-28 16:17:03-05:00
+7314044610,birmingham,53483.4827039001,2021.0,chevrolet,corvette stingray spor,,,gas,510.0,clean,automatic,,rwd,,coupe,orange,al,37.4011,-77.4615,2021-04-28 16:12:26-05:00
+7314042284,birmingham,29950.0,1998.0,pontiac,firebird trans am ws6,,,gas,16429.0,clean,automatic,,rwd,,hatchback,black,al,37.4011,-77.4615,2021-04-28 16:07:48-05:00
+7314039798,birmingham,39995.0,1999.0,dodge,viper rt 10 removable top,,,gas,15897.0,clean,manual,,rwd,,convertible,silver,al,37.4011,-77.4615,2021-04-28 16:03:10-05:00
+7314022305,birmingham,2550.0,2004.0,cadillac,srx,,,gas,224105.0,clean,automatic,1GYEE637740189703,rwd,,SUV,white,al,33.455361,-86.962474,2021-04-28 15:30:37-05:00
+7314015968,birmingham,8800.0,2007.0,gmc,denali,good,,gas,269000.0,clean,automatic,,4wd,,,,al,33.2663,-86.902,2021-04-28 15:18:55-05:00
+7313995856,birmingham,7500.0,1969.0,,oldsmobile cutlass,,,gas,80000.0,clean,automatic,,,,convertible,blue,al,33.559,-86.815,2021-04-28 14:44:06-05:00
+7313975544,birmingham,16990.0,2019.0,toyota,corolla,,,gas,44752.0,clean,automatic,5YFBURHE3KP889144,fwd,,sedan,,al,34.0025,-84.4633,2021-04-28 14:08:12-05:00
+7313975461,birmingham,12499.0,2012.0,toyota,camry,,,gas,64950.0,clean,automatic,4T1BF1FK4CU545293,fwd,,sedan,red,al,34.0025,-84.4633,2021-04-28 14:08:01-05:00
+7313975305,birmingham,13999.0,2018.0,kia,soul,,,gas,46848.0,clean,automatic,KNDJP3A54J7511716,fwd,,wagon,white,al,34.0025,-84.4633,2021-04-28 14:07:46-05:00
+7313975157,birmingham,28249.0,2016.0,toyota,tundra double cab,,,gas,78000.0,clean,automatic,5TFRW5F17GX212284,,,pickup,,al,34.0025,-84.4633,2021-04-28 14:07:31-05:00
+7313975008,birmingham,7999.0,2007.0,toyota,camry,,,gas,67650.0,clean,automatic,JTNBK46K173023939,fwd,,sedan,custom,al,34.0025,-84.4633,2021-04-28 14:07:16-05:00
+7313974428,birmingham,8799.0,2006.0,acura,tsx,,,gas,89375.0,clean,automatic,JH4CL96966C008897,fwd,,sedan,white,al,34.0025,-84.4633,2021-04-28 14:06:15-05:00
+7313974227,birmingham,19990.0,2017.0,nissan,pathfinder,,,gas,53950.0,clean,automatic,5N1DR2MN7HC663841,,,SUV,white,al,34.0025,-84.4633,2021-04-28 14:05:52-05:00
+7313946710,birmingham,2975.0,2006.0,,Suzuki XL-7,,,gas,217353.0,clean,automatic,JS3TY92V164101599,rwd,,SUV,white,al,33.455361,-86.962474,2021-04-28 13:20:43-05:00
+7313935156,birmingham,18800.0,2000.0,,INTERNATIONAL 4700 DUMP,,,diesel,193348.0,clean,automatic,,rwd,,,white,al,34.98174,-88.464403,2021-04-28 13:02:00-05:00
+7313922048,birmingham,19900.0,2011.0,ford,f250 service,,,gas,142268.0,clean,automatic,,4wd,,,white,al,34.982443,-88.464918,2021-04-28 12:40:40-05:00
+7313898024,birmingham,9990.0,2015.0,toyota,corolla le,excellent,,gas,125224.0,clean,automatic,,fwd,,sedan,,al,33.5066,-86.7428,2021-04-28 12:03:09-05:00
+7313897256,birmingham,29950.0,2014.0,gmc,sierra 1500,excellent,,gas,139029.0,clean,automatic,,4wd,full-size,truck,black,al,33.384664,-86.737847,2021-04-28 12:02:03-05:00
+7313896887,birmingham,9990.0,2009.0,lexus,rx350,excellent,,gas,163230.0,clean,automatic,,fwd,,SUV,,al,33.5066,-86.7428,2021-04-28 12:01:31-05:00
+7313896811,birmingham,45950.0,2014.0,gmc,sierra 2500hd denali,excellent,,diesel,154289.0,clean,automatic,,4wd,full-size,truck,black,al,33.384664,-86.737847,2021-04-28 12:01:24-05:00
+7313896765,birmingham,17897.0,2015.0,lincoln,mkz,,,gas,91067.0,clean,other,3LN6L2GK0FR610652,fwd,,sedan,white,al,34.2056,-86.85834,2021-04-28 12:01:20-05:00
+7313889508,birmingham,11500.0,2008.0,ford,f-250 super duty xl,good,,diesel,283356.0,clean,automatic,1FTSX20R48EC34753,rwd,full-size,pickup,white,al,33.242941,-86.817291,2021-04-28 11:50:08-05:00
+7313884888,birmingham,7990.0,2011.0,bmw,328i,excellent,,gas,123000.0,clean,automatic,,rwd,,sedan,,al,33.5066,-86.7428,2021-04-28 11:42:54-05:00
+7313876057,birmingham,9990.0,2009.0,bmw,x5,excellent,,gas,93659.0,clean,automatic,,4wd,,SUV,,al,33.5066,-86.7428,2021-04-28 11:29:18-05:00
+7313867413,birmingham,11990.0,2011.0,honda,crv ex-l,excellent,,gas,109000.0,clean,automatic,,fwd,,SUV,,al,33.5066,-86.7428,2021-04-28 11:15:55-05:00
+7313860113,birmingham,15990.0,2015.0,chevrolet,camaro,,,gas,53000.0,clean,automatic,2G1FB1E38F9300602,rwd,,other,black,al,34.0025,-84.4633,2021-04-28 11:04:43-05:00
+7313856690,birmingham,14700.0,2015.0,honda,cr-v ex-l,excellent,,gas,70672.0,salvage,automatic,2HKRM4H77FH677160,4wd,compact,SUV,brown,al,34.932217,-80.278473,2021-04-28 10:59:33-05:00
+7313833229,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-28 10:20:32-05:00
+7313827980,birmingham,11295.0,2014.0,chevrolet,sonic,,,gas,49019.0,clean,automatic,1G1JE6SB9E4237313,fwd,,hatchback,red,al,33.669601,-86.817617,2021-04-28 10:11:57-05:00
+7313808455,birmingham,4350.0,2015.0,,smart fortwo,good,,gas,69974.0,clean,automatic,,,compact,coupe,white,al,33.468,-87.0924,2021-04-28 09:36:51-05:00
+7313806066,birmingham,2450.0,2000.0,infiniti,qx4,good,,gas,246653.0,clean,automatic,,4wd,full-size,SUV,silver,al,33.468,-87.0924,2021-04-28 09:31:58-05:00
+7313801999,birmingham,12950.0,2013.0,lexus,ct200h hybrid,good,,gas,77000.0,clean,automatic,,fwd,,,black,al,33.6989,-84.7454,2021-04-28 09:24:13-05:00
+7313798038,birmingham,30488.0,2020.0,infiniti,q50,,,gas,29366.0,clean,automatic,JN1EV7AP7LM200689,rwd,,,black,al,32.9229,-86.545,2021-04-28 09:16:39-05:00
+7313798048,birmingham,17989.0,2018.0,toyota,camry,,,gas,120943.0,clean,automatic,4T1B11HK3JU537162,fwd,,,silver,al,32.9229,-86.545,2021-04-28 09:16:39-05:00
+7313798006,birmingham,22602.0,2021.0,toyota,corolla,,,gas,10883.0,clean,automatic,5YFP4MCE0MP062012,fwd,,,red,al,32.9229,-86.545,2021-04-28 09:16:36-05:00
+7313794897,birmingham,12977.0,2011.0,lexus,rx,,,gas,140994.0,clean,automatic,2T2BK1BA6BC090077,,,,,al,33.168322,-87.491902,2021-04-28 09:10:58-05:00
+7313781903,birmingham,12995.0,2008.0,ford,f150 xl,,,gas,93146.0,clean,automatic,1FTRF12V98KD94523,,,,green,al,34.9506,-85.2432,2021-04-28 08:44:19-05:00
+7313781430,birmingham,36995.0,2012.0,ford,f250 super duty 4x4,,,gas,41364.0,clean,automatic,1FD7X2B65CEC58024,4wd,,,silver,al,34.9506,-85.2432,2021-04-28 08:43:21-05:00
+7313781284,birmingham,31995.0,2017.0,ford,f350 super duty,,,gas,129638.0,clean,automatic,1FD8W3G69HEB28454,,,,white,al,34.9506,-85.2432,2021-04-28 08:43:05-05:00
+7313781180,birmingham,25995.0,2015.0,gmc,sierra 2500hd,,,gas,126690.0,clean,automatic,1GT21XEG0FZ537816,,,,red,al,34.9506,-85.2432,2021-04-28 08:42:50-05:00
+7313780314,birmingham,29990.0,2019.0,mazda,mx-5 miata grand touring,good,,gas,5247.0,clean,other,JM1NDAD77K0311175,rwd,,other,,al,33.52,-86.79,2021-04-28 08:41:06-05:00
+7313780913,birmingham,34995.0,2015.0,ford,f250 super duty 4x4,,,gas,84526.0,clean,automatic,1FD7X2B60FEB07855,4wd,,,white,al,34.9506,-85.2432,2021-04-28 08:42:17-05:00
+7313780759,birmingham,31995.0,2012.0,ford,f350 super duty,,,gas,24692.0,clean,automatic,1FDRF3G64CED01178,,,,white,al,34.9506,-85.2432,2021-04-28 08:41:59-05:00
+7313780652,birmingham,34995.0,2017.0,ford,f250 sd xlt,,,gas,138052.0,clean,automatic,1FT7W2B61HEE45601,4wd,,,white,al,34.9506,-85.2432,2021-04-28 08:41:44-05:00
+7313780216,birmingham,16590.0,2016.0,jeep,renegade sport suv 4d,good,,gas,35835.0,clean,other,ZACCJBAW9GPC62449,4wd,,other,red,al,33.52,-86.79,2021-04-28 08:40:56-05:00
+7313780453,birmingham,16995.0,2008.0,chevrolet,express 3500,,,gas,158114.0,clean,automatic,1GBJG31K281131930,,,,white,al,34.9506,-85.2432,2021-04-28 08:41:22-05:00
+7313780256,birmingham,25590.0,2017.0,jeep,grand cherokee laredo sport,good,,other,31315.0,clean,other,1C4RJFAG6HC633079,4wd,,SUV,silver,al,33.52,-86.79,2021-04-28 08:41:00-05:00
+7313779980,birmingham,12995.0,2016.0,chrysler,200,,,gas,72754.0,clean,automatic,1C3CCCBBXGN146315,,,,black,al,34.9506,-85.2432,2021-04-28 08:40:21-05:00
+7313779658,birmingham,27995.0,2017.0,nissan,nv2500 hd cargo,,,gas,48769.0,clean,automatic,1N6BF0KY6HN800985,,,,white,al,34.9506,-85.2432,2021-04-28 08:39:37-05:00
+7313779504,birmingham,24995.0,2012.0,ford,f250 xl super duty,,,gas,52377.0,clean,automatic,1FDBF2A68CEC73003,,,,grey,al,34.9506,-85.2432,2021-04-28 08:39:19-05:00
+7313779358,birmingham,28995.0,2012.0,ford,econoline commercial,,,gas,93923.0,clean,automatic,1FC3E3KL4CDB34837,,,,white,al,34.9506,-85.2432,2021-04-28 08:39:01-05:00
+7313779198,birmingham,27995.0,2012.0,ford,f350 super duty,,,gas,45822.0,clean,automatic,1FDRF3G65CEC39189,,,,white,al,34.9506,-85.2432,2021-04-28 08:38:40-05:00
+7313779015,birmingham,13995.0,2015.0,nissan,nv200,,,gas,86580.0,clean,automatic,3N6CM0KN6FK712103,,,,white,al,34.9506,-85.2432,2021-04-28 08:38:20-05:00
+7313778862,birmingham,32995.0,2012.0,ford,f250 super duty,,,gas,37473.0,clean,automatic,1FDBF2B63CEC57788,4wd,,,white,al,34.9506,-85.2432,2021-04-28 08:38:01-05:00
+7313778751,birmingham,4995.0,2005.0,ford,freestar ses,,,gas,121724.0,clean,automatic,2FMZA57605BA66741,,,,silver,al,34.9506,-85.2432,2021-04-28 08:37:45-05:00
+7313778627,birmingham,27995.0,2012.0,ford,f250 super duty,,,gas,26896.0,clean,automatic,1FDBF2A65CEC50925,,,,white,al,34.9506,-85.2432,2021-04-28 08:37:28-05:00
+7313778464,birmingham,24995.0,2012.0,ford,f-250 super duty,,,gas,40023.0,clean,automatic,1FDBF2A62CEC73000,,,,green,al,34.9506,-85.2432,2021-04-28 08:37:08-05:00
+7313778339,birmingham,36995.0,2013.0,chevrolet,silverado 3500hd,,,gas,58056.0,clean,automatic,1GB4CZCG7DF109634,,,,white,al,34.9506,-85.2432,2021-04-28 08:36:51-05:00
+7313778192,birmingham,36995.0,2017.0,chevrolet,silverado 2500hd,,,gas,43553.0,clean,automatic,1GC1KUEG9HF237025,4wd,,,white,al,34.9506,-85.2432,2021-04-28 08:36:32-05:00
+7313775964,birmingham,39590.0,2017.0,chevrolet,camaro ss coupe 2d,good,,gas,10496.0,clean,other,1G1FE1R71H0109878,rwd,,coupe,white,al,33.52,-86.79,2021-04-28 08:31:36-05:00
+7313775792,birmingham,26990.0,2016.0,ford,f150 regular cab xl pickup,good,,gas,14230.0,clean,other,1FTMF1CP3GKD62143,,,pickup,black,al,33.52,-86.79,2021-04-28 08:31:16-05:00
+7313775714,birmingham,36990.0,2015.0,chevrolet,tahoe lt sport utility,good,,other,51677.0,clean,other,1GNSCBKC8FR712092,,,other,black,al,33.52,-86.79,2021-04-28 08:31:09-05:00
+7313736542,birmingham,5500.0,2001.0,ford,e350 van,fair,,diesel,340000.0,clean,automatic,,fwd,,van,white,al,33.5283,-86.5748,2021-04-28 06:11:19-05:00
+7313728831,birmingham,1500.0,2011.0,ford,crown victoria,,,gas,123000.0,clean,automatic,,,,,,al,33.7213,-87.2658,2021-04-28 05:07:59-05:00
+7313727515,birmingham,25500.0,2015.0,jaguar,xj,,,,71114.0,clean,automatic,SAJWA1CZ7F8V80673,rwd,,sedan,black,al,33.669601,-86.817617,2021-04-28 04:50:44-05:00
+7313703595,birmingham,3500.0,1995.0,honda,civic del sol si,good,,gas,215000.0,clean,manual,,fwd,compact,convertible,red,al,33.3538,-86.8254,2021-04-27 23:53:41-05:00
+7313687738,birmingham,9900.0,2013.0,gmc,terrain,,,gas,148285.0,clean,automatic,,fwd,,,black,al,34.982021,-88.465261,2021-04-27 22:27:59-05:00
+7313682999,birmingham,20900.0,2017.0,ford,f150,,,gas,147124.0,clean,automatic,,4wd,,,white,al,34.982302,-88.46509,2021-04-27 22:08:07-05:00
+7313674968,birmingham,29900.0,2016.0,jeep,wrangler,,,gas,131091.0,clean,automatic,,4wd,,,white,al,34.98174,-88.464575,2021-04-27 21:37:23-05:00
+7313672942,birmingham,7200.0,2007.0,toyota,highlander,excellent,,gas,155490.0,clean,automatic,,fwd,,SUV,silver,al,33.407514,-86.748347,2021-04-27 21:29:56-05:00
+7313663160,birmingham,45300.0,2018.0,ram,3500 big horn,excellent,,diesel,34125.0,rebuilt,automatic,3C63R3LL4JG236634,4wd,full-size,truck,black,al,34.932873,-80.278416,2021-04-27 20:56:56-05:00
+7313642622,birmingham,3500.0,2006.0,ford,f-150,,,gas,246000.0,clean,automatic,,,,,,al,33.521,-86.8066,2021-04-27 19:55:10-05:00
+7313599275,birmingham,17500.0,2001.0,ram,3500,good,,diesel,178000.0,clean,manual,,4wd,full-size,truck,white,al,33.2283,-86.4928,2021-04-27 18:07:08-05:00
+7313594854,birmingham,5500.0,2010.0,hyundai,accent,good,,gas,114988.0,clean,automatic,KMHCM3AC4AU157340,fwd,mid-size,hatchback,blue,al,33.242977,-86.817334,2021-04-27 17:57:23-05:00
+7313589313,birmingham,18950.0,2009.0,jeep,wrangler,excellent,,gas,89687.5,clean,automatic,,4wd,,,,al,34.339168,-84.021823,2021-04-27 17:45:11-05:00
+7313588835,birmingham,6900.0,2008.0,ford,escape hev,good,,hybrid,103550.0,clean,automatic,1FMCU49HX8KD14817,fwd,mid-size,SUV,white,al,33.243013,-86.817355,2021-04-27 17:44:08-05:00
+7313588556,birmingham,10900.0,2010.0,honda,accord crosstour exl,good,,gas,97804.0,clean,automatic,5J6TF1H59AL003751,fwd,full-size,wagon,grey,al,33.243031,-86.817377,2021-04-27 17:43:33-05:00
+7313588273,birmingham,8900.0,2014.0,fiat,500l lounge,good,,gas,84778.0,clean,automatic,ZFBCFACH0EZ002677,fwd,mid-size,hatchback,red,al,33.243013,-86.817355,2021-04-27 17:42:56-05:00
+7313525257,birmingham,8900.0,2003.0,ford,f250 lariat,good,,diesel,247000.0,clean,automatic,,rwd,,truck,red,al,33.2932,-86.768,2021-04-27 15:35:45-05:00
+7313522212,birmingham,2675.0,1996.0,toyota,camry,,,gas,164719.0,clean,automatic,4T1BG12K4TU920697,fwd,,sedan,green,al,33.455361,-86.962474,2021-04-27 15:30:32-05:00
+7313512633,birmingham,29995.0,2016.0,ford,f-250,,,diesel,235000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-04-27 15:13:27-05:00
+7313510136,birmingham,22995.0,2012.0,ford,f-350,,,diesel,210000.0,clean,automatic,,4wd,,,,al,33.521,-86.8066,2021-04-27 15:09:11-05:00
+7313504676,birmingham,21800.0,2018.0,ford,f150,,,gas,143603.0,clean,automatic,,4wd,,,silver,al,34.982021,-88.464918,2021-04-27 14:59:52-05:00
+7313504333,birmingham,8980.0,2010.0,dodge,charger,,,gas,207000.0,clean,automatic,,,,,grey,al,33.209249,-86.784096,2021-04-27 14:59:12-05:00
+7313503957,birmingham,27900.0,2018.0,ford,f250,,,gas,159911.0,clean,automatic,,4wd,,,white,al,34.982021,-88.464746,2021-04-27 14:58:33-05:00
+7313502152,birmingham,7980.0,2012.0,volvo,s60,,,gas,110000.0,clean,automatic,,,,,,al,33.209967,-86.783066,2021-04-27 14:55:21-05:00
+7313501638,birmingham,22900.0,2016.0,ford,transit t250,,,gas,95900.0,clean,automatic,,rwd,,,white,al,34.982584,-88.464403,2021-04-27 14:54:26-05:00
+7313500101,birmingham,10980.0,2007.0,gmc,1500 yukon denali xl,,,gas,181000.0,clean,automatic,,,,,,al,33.20968,-86.783066,2021-04-27 14:51:37-05:00
+7313499039,birmingham,31500.0,2019.0,ford,f150,,,gas,106054.0,clean,automatic,,4wd,,,white,al,34.982302,-88.464918,2021-04-27 14:49:57-05:00
+7313496844,birmingham,8480.0,2012.0,chrysler,300,,,gas,187000.0,clean,automatic,,,,,,al,33.20968,-86.783581,2021-04-27 14:46:09-05:00
+7313494428,birmingham,9980.0,2008.0,infiniti,fx35,,,gas,171000.0,clean,automatic,,,,,,al,33.209537,-86.782894,2021-04-27 14:41:55-05:00
+7313489428,birmingham,7980.0,2015.0,kia,forte ex,,,gas,121000.0,clean,automatic,,,,,,al,33.209393,-86.782894,2021-04-27 14:33:36-05:00
+7313484951,birmingham,10980.0,2012.0,ford,mustang,,,gas,159000.0,clean,automatic,,,,,,al,33.209824,-86.783066,2021-04-27 14:25:56-05:00
+7313478091,birmingham,27990.0,2014.0,ram,2500 4x4,like new,,diesel,2222222.0,clean,automatic,,4wd,full-size,truck,white,al,34.188155,-86.851389,2021-04-27 14:14:34-05:00
+7313467803,birmingham,8500.0,2004.0,bmw,z4,excellent,,gas,116014.0,clean,automatic,4USBT33534LS51621,rwd,sub-compact,other,white,al,33.3538,-86.8254,2021-04-27 13:57:56-05:00
+7313451606,birmingham,36990.0,2016.0,gmc,sierra 2500 hd double cab,good,,gas,23190.0,clean,other,1GT22REG1GZ401351,4wd,,pickup,black,al,33.52,-86.79,2021-04-27 13:31:33-05:00
+7313451582,birmingham,24590.0,2013.0,gmc,sierra 1500 extended cab slt,good,,other,80318.0,clean,other,1GTR1WE07DZ143724,,,pickup,,al,33.52,-86.79,2021-04-27 13:31:31-05:00
+7313444620,birmingham,3650.0,2008.0,kia,rio,,,gas,115124.0,clean,automatic,KNADE123786319837,fwd,,sedan,silver,al,33.455361,-86.962474,2021-04-27 13:20:30-05:00
+7313427277,birmingham,36995.0,2017.0,chevrolet,silverado 2500hd,,,gas,43553.0,clean,automatic,1GC1KUEG9HF237025,4wd,,,white,al,34.9506,-85.2432,2021-04-27 12:52:32-05:00
+7313419020,birmingham,19888.0,2015.0,mercedes-benz,benz ml 450,excellent,,gas,111261.0,clean,automatic,,4wd,full-size,SUV,silver,al,32.9229,-86.545,2021-04-27 12:39:26-05:00
+7313418727,birmingham,31888.0,2015.0,gmc,1500 yukon slt,good,,gas,109947.0,clean,automatic,,rwd,full-size,SUV,white,al,33.3813,-86.7046,2021-04-27 12:38:59-05:00
+7313375333,birmingham,25990.0,2019.0,ram,1500 classic regular cab,good,,gas,12302.0,clean,other,3C6JR6DT3KG560649,,,pickup,white,al,33.52,-86.79,2021-04-27 11:31:23-05:00
+7313376590,birmingham,23888.0,2014.0,ram,1500 express,like new,,diesel,110789.0,clean,automatic,,rwd,full-size,pickup,silver,al,33.4188,-86.7867,2021-04-27 11:33:17-05:00
+7313375192,birmingham,25590.0,2015.0,gmc,sierra 1500 regular cab,good,,other,35290.0,clean,other,1GTN1TEH9FZ243281,,,pickup,white,al,33.52,-86.79,2021-04-27 11:31:12-05:00
+7313361936,birmingham,2600.0,2000.0,buick,lesabre,,,gas,212061.0,clean,automatic,1G4HR54K6YU316195,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-27 11:10:58-05:00
+7313346134,birmingham,3500.0,2008.0,acura,tl,good,,gas,242000.0,clean,automatic,,fwd,mid-size,sedan,grey,al,33.1934,-86.7944,2021-04-27 10:46:18-05:00
+7313343182,birmingham,27990.0,2020.0,ford,ranger supercab xl pickup,good,,gas,10688.0,clean,other,1FTER1EH1LLA36301,,,pickup,white,al,33.52,-86.79,2021-04-27 10:41:23-05:00
+7313325014,birmingham,32995.0,2013.0,,r XF,,,gas,22105.0,clean,automatic,SAJBD4FX6JCY57725,rwd,,sedan,white,al,33.669601,-86.817617,2021-04-27 10:10:59-05:00
+7313295607,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-27 09:17:37-05:00
+7313285659,birmingham,16888.0,2008.0,toyota,fj cruiser 4x4,good,,gas,188096.0,clean,automatic,,4wd,mid-size,SUV,yellow,al,32.889405,-86.623027,2021-04-27 08:58:19-05:00
+7313283007,birmingham,15874.0,2016.0,mazda,cx-5,,,gas,150694.0,clean,automatic,JM3KE2DY1G0814875,fwd,,,brown,al,32.9229,-86.545,2021-04-27 08:52:58-05:00
+7313282988,birmingham,40499.0,2020.0,toyota,tacoma,,,gas,9674.0,clean,automatic,3TMCZ5AN5LM357685,4wd,,,white,al,32.9229,-86.545,2021-04-27 08:52:57-05:00
+7313282991,birmingham,12558.0,2016.0,hyundai,elantra,,,gas,76381.0,clean,automatic,5NPDH4AE8GH737715,fwd,,,white,al,32.9229,-86.545,2021-04-27 08:52:57-05:00
+7313280464,birmingham,11977.0,2014.0,buick,verano,,,gas,54693.0,clean,automatic,1G4PR5SK8E4102383,fwd,,,silver,al,33.168322,-87.491902,2021-04-27 08:47:59-05:00
+7313272909,birmingham,27900.0,2014.0,chevrolet,silverado 3500hd,good,,diesel,170525.0,clean,automatic,1GB4KZC82EF172959,4wd,full-size,truck,white,al,34.46656,-85.35894,2021-04-27 08:31:46-05:00
+7313267024,birmingham,31590.0,2019.0,cadillac,xt4 sport suv 4d,good,,other,12102.0,clean,other,1GYFZER40KF121673,fwd,,hatchback,black,al,33.52,-86.79,2021-04-27 08:17:55-05:00
+7313260486,birmingham,4950.0,2002.0,acura,rl,excellent,,gas,201000.0,clean,automatic,,,,sedan,,al,33.415861,-86.988407,2021-04-27 08:01:03-05:00
+7313260158,birmingham,4650.0,2002.0,chevrolet,trailblazer,excellent,,gas,139000.0,clean,automatic,,,,SUV,,al,33.415861,-86.988407,2021-04-27 08:00:16-05:00
+7313259831,birmingham,3950.0,2003.0,honda,civic ex,excellent,,gas,236890.0,clean,automatic,,,,,,al,33.415861,-86.988407,2021-04-27 07:59:19-05:00
+7313253350,birmingham,7500.0,2012.0,chevrolet,silverado,excellent,,gas,212000.0,clean,automatic,,rwd,full-size,truck,white,al,33.293,-86.768,2021-04-27 07:38:08-05:00
+7313252981,birmingham,6000.0,2002.0,,2002 limited 4 runner,good,,gas,24222.0,clean,automatic,,rwd,,,green,al,33.6756,-86.409,2021-04-27 07:36:46-05:00
+7313224965,birmingham,21990.0,2015.0,mercedes-benz,glk,,,diesel,90508.0,clean,automatic,WDCGG0EB5FG411408,,,SUV,white,al,33.669601,-86.817617,2021-04-27 04:50:30-05:00
+7313219085,birmingham,9500.0,2013.0,hyundai,sonata,excellent,,gas,125000.0,clean,automatic,,fwd,mid-size,sedan,red,al,33.4662,-87.092,2021-04-27 03:17:15-05:00
+7313210683,birmingham,16900.0,2015.0,kia,optima,good,,gas,82999.0,clean,automatic,5XXGR4A65FG391393,fwd,,sedan,white,al,31.316064,-89.437114,2021-04-27 01:21:00-05:00
+7313210657,birmingham,19900.0,2011.0,cadillac,escalade,good,,gas,133257.0,clean,automatic,1GYS3DEF8BR175139,rwd,full-size,SUV,white,al,31.316064,-89.437114,2021-04-27 01:20:41-05:00
+7313210643,birmingham,19900.0,2019.0,hyundai,sonata,good,,gas,21872.0,clean,automatic,5NPE34AF0KH789800,fwd,,sedan,white,al,31.316064,-89.437114,2021-04-27 01:20:37-05:00
+7313210587,birmingham,18900.0,2019.0,nissan,altima,good,,gas,47421.0,clean,automatic,1N4BL4EV0KC188117,fwd,,sedan,grey,al,31.316064,-89.437114,2021-04-27 01:20:03-05:00
+7313175430,birmingham,22000.0,2013.0,rover,lr4 hse,good,,gas,119550.0,clean,automatic,SALAG2D47DA653099,4wd,,SUV,white,al,33.73676,-87.033691,2021-04-26 21:51:44-05:00
+7313167064,birmingham,1500.0,2004.0,chevrolet,colorado,fair,,gas,150000.0,missing,automatic,,rwd,,truck,black,al,33.6452,-86.9767,2021-04-26 21:20:19-05:00
+7313161057,birmingham,23500.0,2008.0,lexus,sc430,excellent,,gas,73500.0,clean,automatic,,rwd,,convertible,red,al,33.2317,-86.8727,2021-04-26 21:00:30-05:00
+7313156852,birmingham,23900.0,2006.0,,LBZ Duramax,,,diesel,195000.0,clean,automatic,,4wd,full-size,truck,red,al,33.611754,-85.828114,2021-04-26 20:46:53-05:00
+7313145810,birmingham,3250.0,1997.0,lincoln,town car,good,,gas,142000.0,clean,other,,rwd,,sedan,,al,33.245005,-86.49931,2021-04-26 20:12:37-05:00
+7313137419,birmingham,3450.0,1997.0,honda,accord sedan,,,gas,172295.0,clean,automatic,1HGCD5602VA199948,fwd,,sedan,black,al,33.455361,-86.962474,2021-04-26 19:50:22-05:00
+7313079270,birmingham,5000.0,2005.0,honda,element ex,good,,gas,182000.0,clean,automatic,,fwd,,SUV,red,al,34.0821,-87.0484,2021-04-26 17:36:57-05:00
+7313029336,birmingham,34900.0,2020.0,nissan,pathfinder,excellent,,gas,15400.0,clean,automatic,5N1DR2DN2LC622798,rwd,full-size,SUV,white,al,33.3538,-86.8254,2021-04-26 16:00:13-05:00
+7312985712,birmingham,36995.0,2013.0,chevrolet,silverado 3500hd,,,gas,58056.0,clean,automatic,1GB4CZCG7DF109634,,,,white,al,34.9506,-85.2432,2021-04-26 14:45:29-05:00
+7312938924,birmingham,34590.0,2016.0,chevrolet,silverado 1500 double,good,,gas,29499.0,clean,other,1GCVKREH6GZ228691,4wd,,pickup,silver,al,33.52,-86.79,2021-04-26 13:31:01-05:00
+7312932052,birmingham,3650.0,1999.0,jeep,grand cherokee,,,gas,151379.0,clean,automatic,1J4G258SXXC735664,rwd,,SUV,blue,al,33.455361,-86.962474,2021-04-26 13:20:33-05:00
+7312912319,birmingham,6900.0,2001.0,jeep,cherokee sport,excellent,,gas,144445.0,clean,automatic,1J4FT48S71L607084,rwd,full-size,SUV,white,al,33.6561,-87.1007,2021-04-26 12:50:46-05:00
+7312908147,birmingham,18000.0,2016.0,mazda,cx-5,excellent,,gas,33000.0,clean,automatic,,,,,,al,33.5283,-86.5748,2021-04-26 12:44:16-05:00
+7312892348,birmingham,27990.0,2017.0,chevrolet,colorado extended cab,good,,gas,22120.0,clean,other,1GCHSCEA7H1203280,,,pickup,,al,33.52,-86.79,2021-04-26 12:21:00-05:00
+7312879695,birmingham,26990.0,2008.0,ram,2500 mega cab 4x4,like new,,diesel,172000.0,clean,automatic,,4wd,full-size,truck,red,al,34.188155,-86.851389,2021-04-26 12:02:06-05:00
+7312876423,birmingham,17990.0,2018.0,ford,edge sel,like new,,gas,1111111.0,clean,automatic,,fwd,mid-size,SUV,blue,al,34.188155,-86.851389,2021-04-26 11:57:28-05:00
+7312874716,birmingham,11990.0,2011.0,audi,a3 tdi premium plus,like new,,diesel,70000.0,clean,automatic,,fwd,mid-size,sedan,black,al,34.188155,-86.851389,2021-04-26 11:54:57-05:00
+7312851442,birmingham,32990.0,2019.0,chevrolet,silverado 1500 ld,good,,other,6897.0,clean,other,2GCVKNEC8K1187169,,,pickup,black,al,33.52,-86.79,2021-04-26 11:21:07-05:00
+7312844294,birmingham,3299.0,2003.0,chevrolet,cavalier,,,gas,176354.0,clean,automatic,1G1JC12F837128347,fwd,,coupe,,al,33.455361,-86.962474,2021-04-26 11:10:58-05:00
+7312842481,birmingham,6500.0,2010.0,honda,accord coupe,like new,,gas,170000.0,clean,automatic,,fwd,,coupe,,al,33.6989,-84.7454,2021-04-26 11:08:28-05:00
+7312815416,birmingham,12500.0,2002.0,,2002   Corvette Convertible,good,,gas,87000.0,clean,automatic,,rwd,,convertible,blue,al,33.3813,-86.7046,2021-04-26 10:27:12-05:00
+7312807755,birmingham,16888.0,2008.0,toyota,fj cruiser 4x4,good,,gas,188096.0,clean,automatic,,4wd,mid-size,SUV,yellow,al,32.889405,-86.623027,2021-04-26 10:14:54-05:00
+7312805374,birmingham,31990.0,2013.0,toyota,tundra double cab pickup,good,,gas,55068.0,clean,other,5TFUY5F19DX303623,4wd,,pickup,,al,33.52,-86.79,2021-04-26 10:11:05-05:00
+7312806049,birmingham,25495.0,2017.0,mercedes-benz,c-class,,,gas,42056.0,clean,automatic,55SWF4KB8HU214437,,,sedan,black,al,33.669601,-86.817617,2021-04-26 10:12:09-05:00
+7312804562,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-26 10:09:52-05:00
+7312775073,birmingham,34990.0,2017.0,gmc,sierra 1500 double cab sle,good,,gas,31728.0,clean,other,1GTV2MECXHZ377968,4wd,,pickup,white,al,33.52,-86.79,2021-04-26 09:21:04-05:00
+7312760013,birmingham,36998.0,2019.0,nissan,murano,,,gas,15549.0,clean,automatic,5N1AZ2MJ2KN157877,fwd,,,black,al,32.9229,-86.545,2021-04-26 08:54:01-05:00
+7312759996,birmingham,37998.0,2020.0,nissan,maxima,,,gas,23783.0,clean,automatic,1N4AA6FV0LC373152,fwd,,,blue,al,32.9229,-86.545,2021-04-26 08:53:59-05:00
+7312759987,birmingham,25000.0,2019.0,nissan,rogue sport,,,gas,11285.0,clean,automatic,JN1BJ1CP2KW526184,fwd,,,silver,al,32.9229,-86.545,2021-04-26 08:53:58-05:00
+7312748821,birmingham,38590.0,2011.0,chevrolet,corvette grand sport,good,,gas,30237.0,clean,other,1G1YR3DW3B5102190,rwd,,other,red,al,33.52,-86.79,2021-04-26 08:31:43-05:00
+7312697721,birmingham,26990.0,2017.0,,Genesis G80,,,gas,74668.0,clean,automatic,KMHGN4JEXHU171758,rwd,,sedan,silver,al,33.669601,-86.817617,2021-04-26 04:50:38-05:00
+7312625760,birmingham,8700.0,1979.0,lincoln,town car,excellent,,gas,22964.0,clean,automatic,,rwd,full-size,sedan,grey,al,34.226884,-87.621717,2021-04-25 20:21:34-05:00
+7312615524,birmingham,3299.0,2002.0,ford,escape,,,gas,249302.0,clean,automatic,1FMCU03192KB03362,fwd,,,white,al,33.455361,-86.962474,2021-04-25 19:50:23-05:00
+7312600310,birmingham,3500.0,1996.0,chevrolet,tahoe,,,gas,237000.0,clean,automatic,,4wd,,,green,al,33.3813,-86.7046,2021-04-25 19:07:35-05:00
+7312578462,birmingham,8500.0,2011.0,toyota,camry,excellent,,gas,114500.0,clean,automatic,,fwd,full-size,sedan,blue,al,33.4653,-86.8082,2021-04-25 18:13:58-05:00
+7312563837,birmingham,3495.0,2008.0,chevrolet,malibu,,,gas,157305.0,clean,automatic,1G1ZK57738F235673,fwd,,sedan,,al,33.455361,-86.962474,2021-04-25 17:40:16-05:00
+7312550865,birmingham,5980.0,2010.0,ford,fusion,,,gas,178753.0,,manual,3FAHP0HA8AR254400,fwd,,sedan,red,al,33.209789,-86.783493,2021-04-25 17:10:15-05:00
+7312532755,birmingham,7480.0,2013.0,hyundai,sonata,,,gas,117271.0,,automatic,5NPEB4AC2DH527384,fwd,,sedan,blue,al,33.209789,-86.783493,2021-04-25 16:30:15-05:00
+7312514213,birmingham,8950.0,2011.0,ford,f-150,excellent,,gas,164000.0,clean,automatic,1FTMF1CM6BKD55331,fwd,full-size,truck,white,al,34.0378,-84.5038,2021-04-25 15:51:30-05:00
+7312513513,birmingham,5980.0,2013.0,jeep,patriot,,,gas,106290.0,,manual,1C4NJPBA7DD260203,fwd,,SUV,white,al,33.209789,-86.783493,2021-04-25 15:50:10-05:00
+7312503468,birmingham,4499.0,2005.0,toyota,camry,,,gas,170687.0,clean,automatic,4T1BE32K55U090199,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-25 15:30:08-05:00
+7312493365,birmingham,5980.0,2006.0,chrysler,300,,,gas,160566.0,,automatic,2C3KA63H96H518644,rwd,,sedan,white,al,33.209789,-86.783493,2021-04-25 15:10:39-05:00
+7312471541,birmingham,5980.0,2008.0,chevrolet,impala,,,,165596.0,,automatic,2G1WT58K989262310,fwd,,sedan,black,al,33.209789,-86.783493,2021-04-25 14:30:35-05:00
+7312448828,birmingham,6980.0,2008.0,mercedes-benz,c-class,,,gas,148095.0,,automatic,WDDGF54X38F132654,rwd,,sedan,black,al,33.209789,-86.783493,2021-04-25 13:50:33-05:00
+7312437455,birmingham,22990.0,2012.0,toyota,tacoma access cab pickup,good,,gas,37725.0,clean,other,5TFTX4CN6CX015282,,,pickup,white,al,33.52,-86.79,2021-04-25 13:30:52-05:00
+7312431442,birmingham,3450.0,2007.0,toyota,prius,,,,263198.0,clean,automatic,JTDKB20U773225963,fwd,,,grey,al,33.455361,-86.962474,2021-04-25 13:20:34-05:00
+7312425764,birmingham,5980.0,2005.0,nissan,xterra,,,gas,198576.0,,manual,5N1AN08W65C610629,,,SUV,silver,al,33.209789,-86.783493,2021-04-25 13:10:50-05:00
+7312402472,birmingham,7980.0,2008.0,nissan,titan,,,,200850.0,,automatic,1N6BA06A18N315813,rwd,,pickup,white,al,33.209789,-86.783493,2021-04-25 12:30:32-05:00
+7312387610,birmingham,2300.0,2008.0,chevrolet,hhr lt,good,,gas,165000.0,clean,automatic,,,,,black,al,27.466771,-82.745998,2021-04-25 12:03:49-05:00
+7312380245,birmingham,5480.0,2005.0,dodge,durango,,,gas,178667.0,,automatic,1D4HD48N95F540954,rwd,,SUV,,al,33.209789,-86.783493,2021-04-25 11:50:28-05:00
+7312370075,birmingham,36990.0,2017.0,ford,f150 supercrew cab xlt,good,,other,15443.0,clean,automatic,1FTEW1EG9HFC85502,4wd,,pickup,red,al,33.52,-86.79,2021-04-25 11:31:52-05:00
+7312370023,birmingham,26990.0,2014.0,chevrolet,silverado 1500 crew,good,,gas,63129.0,clean,automatic,3GCPCREH5EG437908,,,pickup,black,al,33.52,-86.79,2021-04-25 11:31:46-05:00
+7312369984,birmingham,29990.0,2017.0,jeep,wrangler sport suv 2d,good,,gas,28680.0,clean,other,1C4AJWAG4HL704941,4wd,,other,black,al,33.52,-86.79,2021-04-25 11:31:42-05:00
+7312369856,birmingham,24990.0,2017.0,audi,a4 ultra premium sedan 4d,good,,other,21314.0,clean,other,WAUGMAF48HN035545,fwd,,sedan,blue,al,33.52,-86.79,2021-04-25 11:31:31-05:00
+7312360257,birmingham,32500.0,2014.0,chevrolet,ss sedan,good,,gas,80000.0,clean,automatic,,rwd,full-size,sedan,black,al,33.8312,-87.2775,2021-04-25 11:14:12-05:00
+7312358654,birmingham,3999.0,2009.0,volvo,s60,,,gas,182005.0,clean,automatic,YV1RS592192724102,fwd,,,silver,al,33.455361,-86.962474,2021-04-25 11:11:12-05:00
+7312358579,birmingham,4380.0,2007.0,hyundai,entourage,,,gas,185852.0,,automatic,KNDMC233176024731,fwd,,van,blue,al,33.209789,-86.783493,2021-04-25 11:11:06-05:00
+7312322826,birmingham,33990.0,2016.0,chevrolet,silverado 1500,,,,117895.0,clean,automatic,3GCUKSEC9GG266780,4wd,,pickup,white,al,33.669601,-86.817617,2021-04-25 10:00:57-05:00
+7312317138,birmingham,6200.0,1984.0,gmc,sierra,fair,,gas,51000.0,clean,manual,,4wd,full-size,truck,white,al,33.7189,-86.8225,2021-04-25 09:48:35-05:00
+7312311372,birmingham,5999.0,2013.0,mazda,sx4 se,like new,,gas,91000.0,clean,automatic,,fwd,compact,sedan,red,al,34.19568,-87.441907,2021-04-25 09:35:42-05:00
+7312293002,birmingham,38500.0,2019.0,infiniti,q60,,,gas,17182.0,clean,automatic,JN1EV7EL3KM291434,,,,blue,al,32.9229,-86.545,2021-04-25 08:51:17-05:00
+7312292985,birmingham,26500.0,2019.0,nissan,altima,,,gas,13544.0,clean,automatic,1N4AL4FV2KC256492,fwd,,,,al,32.9229,-86.545,2021-04-25 08:51:15-05:00
+7312292959,birmingham,15988.0,2017.0,hyundai,veloster,,,gas,24546.0,clean,automatic,KMHTC6AD9HU323343,fwd,,,silver,al,32.9229,-86.545,2021-04-25 08:51:11-05:00
+7312291108,birmingham,17577.0,2019.0,hyundai,ioniq hybrid,,,gas,26723.0,clean,automatic,KMHC75LC5KU137700,fwd,,,black,al,33.168322,-87.491902,2021-04-25 08:46:24-05:00
+7312276807,birmingham,38990.0,2017.0,jeep,wrangler unlimited rubicon,good,,gas,20676.0,clean,other,1C4BJWFG3HL547853,4wd,,other,red,al,33.52,-86.79,2021-04-25 08:01:40-05:00
+7312246404,birmingham,29890.0,2013.0,,ai Santa Fe,,,gas,30934.0,clean,automatic,KM8SR4HF6JU283377,fwd,,SUV,white,al,33.669601,-86.817617,2021-04-25 04:40:35-05:00
+7312203221,birmingham,21998.0,2009.0,chevrolet,suburban,,,gas,92518.0,clean,automatic,,4wd,full-size,SUV,white,al,33.455361,-86.737847,2021-04-24 21:58:32-05:00
+7312181319,birmingham,4400.0,2006.0,buick,lacrosse,,,gas,124201.0,clean,automatic,2G4WC582961280594,fwd,,sedan,white,al,33.455361,-86.962474,2021-04-24 20:30:38-05:00
+7312174601,birmingham,13500.0,2013.0,infiniti,jx35,excellent,,gas,108829.0,clean,automatic,,fwd,,SUV,black,al,33.430095,-86.076611,2021-04-24 20:07:14-05:00
+7312156353,birmingham,4500.0,2011.0,ford,fusion,,,gas,167870.0,clean,automatic,3FAHP0HA3BR106978,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-24 19:10:43-05:00
+7312146497,birmingham,4500.0,2005.0,toyota,camry xle,like new,,gas,170000.0,clean,automatic,,fwd,full-size,sedan,white,al,33.6989,-84.7454,2021-04-24 18:44:09-05:00
+7312124399,birmingham,4100.0,2010.0,hyundai,elantra touring,,,gas,130206.0,rebuilt,manual,KMHDC8AE1AU064894,fwd,,wagon,grey,al,33.455361,-86.962474,2021-04-24 17:50:36-05:00
+7312106780,birmingham,5940.0,2009.0,mini,cooper hardtop 2 door,,,gas,149835.0,,manual,WMWMF33529TW72711,fwd,,coupe,red,al,33.209789,-86.783493,2021-04-24 17:10:32-05:00
+7312087895,birmingham,2300.0,1997.0,buick,lesabre,,,gas,201566.0,clean,automatic,1G4HR52KXVH453440,fwd,,sedan,green,al,33.455361,-86.962474,2021-04-24 16:30:32-05:00
+7312087840,birmingham,5970.0,2010.0,nissan,altima,,,gas,122584.0,,automatic,1N4AL2AP4AC166269,fwd,,sedan,grey,al,33.209789,-86.783493,2021-04-24 16:30:26-05:00
+7312067777,birmingham,5980.0,2006.0,honda,odyssey,,,gas,167440.0,,automatic,5FNRL38646B065811,fwd,,van,silver,al,33.209789,-86.783493,2021-04-24 15:50:24-05:00
+7312045928,birmingham,3500.0,2009.0,hyundai,accent,,,gas,111387.0,rebuilt,automatic,KMHCN46C69U298613,fwd,,sedan,white,al,33.455361,-86.962474,2021-04-24 15:10:27-05:00
+7312045874,birmingham,6980.0,2006.0,nissan,pathfinder,,,gas,146779.0,,automatic,5N1AR18U66C639557,rwd,,SUV,silver,al,33.209789,-86.783493,2021-04-24 15:10:21-05:00
+7312034925,birmingham,33990.0,2018.0,ford,mustang gt coupe 2d,good,,gas,23720.0,clean,other,1FA6P8CF2J5107386,rwd,,coupe,blue,al,33.52,-86.79,2021-04-24 14:51:08-05:00
+7312022758,birmingham,6380.0,2013.0,kia,optima,,,gas,193254.0,,automatic,5XXGM4A72DG210111,fwd,,sedan,silver,al,33.209789,-86.783493,2021-04-24 14:30:16-05:00
+7311998455,birmingham,3999.0,2006.0,pontiac,grand prix,,,gas,207238.0,clean,automatic,2G2WP552061255472,fwd,,sedan,white,al,33.455361,-86.962474,2021-04-24 13:50:19-05:00
+7311998372,birmingham,3980.0,2013.0,kia,rio,,,gas,0.0,,manual,KNADM4A30D6171594,fwd,,sedan,white,al,33.209789,-86.783493,2021-04-24 13:50:11-05:00
+7311974064,birmingham,4980.0,2001.0,ford,crown victoria,,,gas,106554.0,,automatic,2FAFP74W21X106133,rwd,,sedan,,al,33.209789,-86.783493,2021-04-24 13:11:19-05:00
+7311964953,birmingham,16937.0,2011.0,,FordE450,,,gas,27000.0,clean,automatic,,,,,,al,33.5242,-84.359,2021-04-24 12:57:32-05:00
+7311954636,birmingham,26590.0,2020.0,honda,civic si coupe 2d,good,,gas,9954.0,clean,other,2HGFC3A51LH751302,fwd,,coupe,silver,al,33.52,-86.79,2021-04-24 12:41:11-05:00
+7311948211,birmingham,4250.0,2007.0,chrysler,pt cruiser,,,gas,94093.0,clean,automatic,3A8FY68B77T582695,fwd,,sedan,red,al,33.455361,-86.962474,2021-04-24 12:30:47-05:00
+7311948105,birmingham,10980.0,2012.0,ford,f-150,,,,178802.0,,automatic,1FTEX1EM6CKD17180,4wd,,pickup,silver,al,33.209789,-86.783493,2021-04-24 12:30:38-05:00
+7311941668,birmingham,6400.0,2006.0,lexus,es 330,like new,,gas,130000.0,clean,automatic,,fwd,,sedan,,al,33.6989,-84.7454,2021-04-24 12:20:45-05:00
+7311929595,birmingham,8897.0,2014.0,kia,sorento,,,gas,189392.0,clean,other,5XYKT3A67EG508097,fwd,,SUV,silver,al,34.2056,-86.85834,2021-04-24 12:02:13-05:00
+7311929440,birmingham,18897.0,2016.0,kia,optima,,,gas,73330.0,clean,other,5XXGU4L36GG114514,fwd,,sedan,silver,al,34.2056,-86.85834,2021-04-24 12:02:01-05:00
+7311921771,birmingham,7980.0,2013.0,bmw,x3,,,gas,156295.0,,manual,5UXWX9C54D0A21202,rwd,,SUV,white,al,33.209789,-86.783493,2021-04-24 11:50:33-05:00
+7311910342,birmingham,10500.0,2011.0,chevrolet,suburban z71,,,gas,225000.0,clean,automatic,,4wd,,,,al,33.926582,-87.28728,2021-04-24 11:32:50-05:00
+7311896607,birmingham,3500.0,2006.0,ford,freestyle,,,gas,214775.0,clean,automatic,1FMZK02146GA31559,fwd,,SUV,blue,al,33.455361,-86.962474,2021-04-24 11:11:44-05:00
+7311896509,birmingham,4980.0,2005.0,cadillac,sts,,,gas,129448.0,,automatic,1G6DC67A350157025,rwd,,sedan,white,al,33.209789,-86.783493,2021-04-24 11:11:36-05:00
+7311865995,birmingham,29590.0,2017.0,ford,expedition xlt sport,good,,gas,70760.0,clean,other,1FMJU1JT1HEA52352,4wd,,SUV,blue,al,33.52,-86.79,2021-04-24 10:21:06-05:00
+7311865935,birmingham,31990.0,2017.0,ram,1500 crew cab big horn,good,,gas,35921.0,clean,other,3C6RR6LT6HG542059,,,pickup,white,al,33.52,-86.79,2021-04-24 10:21:01-05:00
+7311865885,birmingham,33990.0,2017.0,ford,mustang gt coupe 2d,good,,gas,9788.0,clean,other,1FA6P8CF7H5319470,rwd,,coupe,black,al,33.52,-86.79,2021-04-24 10:20:58-05:00
+7311854375,birmingham,26495.0,2013.0,,des-Benz CLA,,,gas,42455.0,clean,automatic,WDDSJ4GB1JN582155,,,sedan,white,al,33.669601,-86.817617,2021-04-24 10:01:21-05:00
+7311853912,birmingham,34997.0,2016.0,ford,super duty f-250 srw,excellent,,gas,122000.0,clean,automatic,1FT7W2B62GED23604,4wd,,pickup,,al,35.839799,-86.386926,2021-04-24 10:00:43-05:00
+7311853752,birmingham,52997.0,2017.0,rover,sport,excellent,,gas,58947.0,clean,automatic,SALWV2FV9HA178577,4wd,,SUV,,al,35.839799,-86.386926,2021-04-24 10:00:30-05:00
+7311853633,birmingham,32997.0,2008.0,,HUMMER H2,excellent,,gas,143504.0,clean,automatic,5GRGN23868H106669,4wd,,SUV,black,al,35.839799,-86.386926,2021-04-24 10:00:18-05:00
+7311853485,birmingham,16997.0,2003.0,,HUMMER H2,excellent,,gas,161865.0,clean,automatic,5GRGN23U13H109565,4wd,,SUV,,al,35.839799,-86.386926,2021-04-24 10:00:07-05:00
+7311842608,birmingham,1350.0,1999.0,,plymouth voyager,fair,,gas,200000.0,clean,automatic,,,,,,al,33.758741,-86.618614,2021-04-24 09:40:18-05:00
+7311831354,birmingham,31888.0,2015.0,gmc,1500 yukon slt,good,,gas,109947.0,clean,automatic,,rwd,full-size,SUV,white,al,33.3813,-86.7046,2021-04-24 09:18:25-05:00
+7311831162,birmingham,19888.0,2015.0,mercedes-benz,benz ml 450,excellent,,gas,111261.0,clean,automatic,,4wd,full-size,SUV,silver,al,32.9229,-86.545,2021-04-24 09:18:01-05:00
+7311830732,birmingham,24888.0,2019.0,ford,f150 regular cab xl,excellent,,gas,8176.0,clean,automatic,,rwd,full-size,pickup,white,al,33.4188,-86.7867,2021-04-24 09:17:08-05:00
+7311830338,birmingham,9988.0,2014.0,kia,sorento lx,good,,gas,121259.0,clean,automatic,,fwd,compact,SUV,red,al,33.4188,-86.7867,2021-04-24 09:16:19-05:00
+7311820426,birmingham,1500.0,2006.0,infiniti,m35,,,gas,261000.0,clean,automatic,,,,,,al,33.5179,-86.8372,2021-04-24 08:56:42-05:00
+7311820085,birmingham,3500.0,2003.0,toyota,camry,good,,gas,237000.0,clean,automatic,,,,,,al,33.5179,-86.8372,2021-04-24 08:55:58-05:00
+7311819537,birmingham,12654.0,2014.0,chevrolet,traverse,,,gas,106986.0,clean,automatic,1GNKRFED6EJ110332,fwd,,,,al,32.9229,-86.545,2021-04-24 08:54:48-05:00
+7311819507,birmingham,40888.0,2020.0,jeep,gladiator,,,gas,19069.0,clean,automatic,1C6HJTAGXLL119987,4wd,,,black,al,32.9229,-86.545,2021-04-24 08:54:44-05:00
+7311819495,birmingham,33988.0,2019.0,nissan,frontier,,,gas,11939.0,clean,automatic,1N6AD0EV7KN878847,4wd,,,red,al,32.9229,-86.545,2021-04-24 08:54:43-05:00
+7311818155,birmingham,12999.0,2014.0,dodge,charger,good,,gas,137000.0,clean,automatic,,rwd,full-size,sedan,black,al,33.7217,-84.3339,2021-04-24 08:52:02-05:00
+7311815807,birmingham,10977.0,2011.0,lexus,is,,,gas,121428.0,clean,automatic,JTHBF5C27B5139791,rwd,,,white,al,33.168322,-87.491902,2021-04-24 08:47:01-05:00
+7311808677,birmingham,14475.0,2011.0,ford,ranger,excellent,,gas,142842.0,clean,manual,1FTLR4FE4BPB04482,4wd,,pickup,,al,35.839799,-86.386926,2021-04-24 08:30:14-05:00
+7311807054,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-24 08:25:48-05:00
+7311795393,birmingham,12000.0,1991.0,chevrolet,,like new,,gas,40000.0,clean,automatic,,,,,grey,al,33.847,-87.4372,2021-04-24 07:52:05-05:00
+7311789391,birmingham,35590.0,2018.0,ram,1500 crew cab big horn,good,,other,22805.0,clean,other,1C6RR7LG2JS220638,4wd,,pickup,black,al,33.52,-86.79,2021-04-24 07:31:33-05:00
+7311762128,birmingham,29875.0,2013.0,,a Camry,,,gas,46947.0,clean,automatic,4T1B61HKXKU236990,fwd,,sedan,white,al,33.669601,-86.817617,2021-04-24 04:40:50-05:00
+7311717018,birmingham,27400.0,2001.0,lexus,lx 470,,,gas,169000.0,clean,automatic,,4wd,,SUV,brown,al,33.455361,-86.737847,2021-04-23 22:12:07-05:00
+7311701063,birmingham,37900.0,2020.0,chevrolet,silverado 1500,like new,,gas,5622.0,clean,automatic,3GCPWAEF0LG200571,rwd,full-size,truck,white,al,36.4641,-86.65828,2021-04-23 21:11:03-05:00
+7311701072,birmingham,31900.0,2019.0,ford,transit,like new,,gas,29497.0,clean,automatic,1FTYR1ZM0KKA42423,rwd,mid-size,van,white,al,36.4641,-86.65828,2021-04-23 21:11:04-05:00
+7311701076,birmingham,11500.0,2013.0,chevrolet,express,excellent,,gas,228699.0,clean,automatic,1GCWGFBA2D1127377,rwd,full-size,van,white,al,36.4641,-86.65828,2021-04-23 21:11:04-05:00
+7311701079,birmingham,32900.0,2019.0,ford,transit,like new,,gas,6735.0,clean,automatic,1FTYR1YM7KKA86825,rwd,full-size,van,white,al,36.4641,-86.65828,2021-04-23 21:11:04-05:00
+7311701059,birmingham,31500.0,2019.0,gmc,savana,like new,,gas,24585.0,clean,automatic,1GTW7AFG9K1222985,rwd,full-size,van,white,al,36.4641,-86.65828,2021-04-23 21:11:03-05:00
+7311701051,birmingham,29900.0,2019.0,ford,f-150,like new,,gas,23004.0,clean,automatic,1FTMF1C59KKD08613,rwd,full-size,truck,white,al,36.4641,-86.65828,2021-04-23 21:11:02-05:00
+7311701056,birmingham,9500.0,2014.0,ford,transit connect,excellent,,gas,219581.0,clean,automatic,NM0LS7F7XE1147431,fwd,full-size,van,white,al,36.4641,-86.65828,2021-04-23 21:11:02-05:00
+7311700844,birmingham,17200.0,2014.0,ford,transit connect,excellent,,gas,45026.0,clean,automatic,NM0LS7E71E1167911,fwd,full-size,van,white,al,36.4641,-86.65828,2021-04-23 21:10:17-05:00
+7311700838,birmingham,23900.0,2017.0,ford,transit 150,excellent,,gas,108482.0,clean,automatic,1FTYE1YM0HKB37781,rwd,full-size,van,white,al,36.4641,-86.65828,2021-04-23 21:10:15-05:00
+7311700841,birmingham,22300.0,2017.0,ford,transit 150,excellent,,gas,113617.0,clean,automatic,1FTYE1YM5HKA63032,rwd,full-size,van,white,al,36.4641,-86.65828,2021-04-23 21:10:16-05:00
+7311688589,birmingham,3999.0,2001.0,ford,f-150,,,gas,228680.0,clean,automatic,1FTZX17291NB87100,rwd,,,,al,33.455361,-86.962474,2021-04-23 20:30:17-05:00
+7311685592,birmingham,3730.0,1987.0,,1987 Saab 900 Turbo,fair,,gas,125000.0,clean,manual,,fwd,mid-size,coupe,silver,al,33.2932,-86.768,2021-04-23 20:20:34-05:00
+7311682760,birmingham,37500.0,2020.0,infiniti,qx 50 luxe,like new,,gas,4230.0,clean,manual,,fwd,full-size,SUV,white,al,33.2932,-86.768,2021-04-23 20:11:11-05:00
+7311669902,birmingham,29800.0,2016.0,ram,1500,excellent,,gas,43000.0,clean,automatic,,4wd,,,silver,al,33.737131,-84.697998,2021-04-23 19:35:36-05:00
+7311660317,birmingham,3850.0,2003.0,dodge,durango,,,gas,215604.0,clean,automatic,1D4HR38N13F620886,rwd,,SUV,blue,al,33.455361,-86.962474,2021-04-23 19:10:43-05:00
+7311626892,birmingham,4300.0,2012.0,kia,soul,,,gas,174053.0,clean,automatic,KNDJT2A56C7421511,fwd,,wagon,silver,al,33.455361,-86.962474,2021-04-23 17:50:40-05:00
+7311599994,birmingham,1100.0,2000.0,chevrolet,impala,,,gas,187000.0,clean,automatic,,fwd,,,white,al,33.667896,-86.419401,2021-04-23 16:54:26-05:00
+7311592689,birmingham,5000.0,2006.0,jeep,liberty,,,diesel,194000.0,clean,automatic,,,,SUV,,al,34.0929,-86.5686,2021-04-23 16:40:33-05:00
+7311587502,birmingham,2800.0,2006.0,ford,taurus,,,gas,230108.0,clean,automatic,1FAFP53U56A238775,fwd,,sedan,white,al,33.455361,-86.962474,2021-04-23 16:30:41-05:00
+7311576995,birmingham,5980.0,2005.0,nissan,xterra,,,gas,198000.0,clean,automatic,,,,,,al,33.20968,-86.782894,2021-04-23 16:10:57-05:00
+7311576590,birmingham,6980.0,2010.0,nissan,pathfinder,,,gas,186000.0,clean,automatic,,,,,,al,33.209824,-86.783066,2021-04-23 16:10:14-05:00
+7311576006,birmingham,7980.0,2008.0,nissan,titan,,,gas,200000.0,clean,automatic,,,,,,al,33.209249,-86.782894,2021-04-23 16:09:06-05:00
+7311575559,birmingham,6980.0,2008.0,mercedes-benz,benz c300,,,gas,148000.0,clean,automatic,,,,,,al,33.209537,-86.783581,2021-04-23 16:08:15-05:00
+7311575288,birmingham,6480.0,2011.0,kia,sorento,,,gas,182000.0,clean,automatic,,,,,,al,33.209537,-86.782894,2021-04-23 16:07:48-05:00
+7311574610,birmingham,8990.0,2011.0,jeep,grand cherokee laredo,,,gas,173000.0,clean,automatic,,,,,,al,33.20968,-86.783409,2021-04-23 16:06:40-05:00
+7311574157,birmingham,7480.0,2013.0,hyundai,sonata gls,,,gas,117000.0,clean,automatic,,,,,,al,33.209824,-86.782894,2021-04-23 16:05:47-05:00
+7311568626,birmingham,13750.0,2013.0,ford,e350,good,,gas,136850.0,clean,automatic,,,,,,al,33.9259,-86.4741,2021-04-23 15:56:01-05:00
+7311541915,birmingham,4450.0,2004.0,cadillac,srx,,,gas,144850.0,clean,automatic,1GYDE637940132303,rwd,,SUV,white,al,33.455361,-86.962474,2021-04-23 15:10:30-05:00
+7311538928,birmingham,14500.0,2015.0,honda,crosstour ex-l,excellent,,gas,60201.0,rebuilt,automatic,,,,hatchback,silver,al,33.9602,-83.5893,2021-04-23 15:05:30-05:00
+7311516191,birmingham,27995.0,2012.0,ford,f250 super duty,,,gas,26896.0,clean,automatic,1FDBF2A65CEC50925,,,,white,al,34.9506,-85.2432,2021-04-23 14:26:28-05:00
+7311505593,birmingham,1800.0,2007.0,nissan,pathfinder,fair,,gas,147000.0,clean,automatic,,fwd,mid-size,SUV,grey,al,33.6493,-86.7057,2021-04-23 14:09:11-05:00
+7311493882,birmingham,3999.0,2006.0,honda,accord sedan,,,gas,253076.0,clean,automatic,3HGCM56406G701183,fwd,,sedan,silver,al,33.455361,-86.962474,2021-04-23 13:50:28-05:00
+7311491693,birmingham,199.0,2017.0,dodge,charger,,,gas,21737.0,clean,automatic,,,,,,al,33.4816,-86.859,2021-04-23 13:46:52-05:00
+7311475127,birmingham,22590.0,2013.0,ford,f150 super cab xl pickup 4d,good,,other,14169.0,clean,other,1FTEX1CMXDFB16329,,,pickup,silver,al,33.52,-86.79,2021-04-23 13:21:00-05:00
+7311452208,birmingham,14950.0,2007.0,jeep,wrangler,excellent,,gas,89687.5,clean,automatic,,,,,silver,al,34.339168,-84.021823,2021-04-23 12:45:58-05:00
+7311448939,birmingham,24990.0,2012.0,chevrolet,silverado 1500 regular,good,,gas,26460.0,clean,other,1GCNCSE01CZ116728,,,pickup,red,al,33.52,-86.79,2021-04-23 12:40:53-05:00
+7311448429,birmingham,24995.0,2012.0,ford,f-250 super duty,,,gas,40023.0,clean,automatic,1FDBF2A62CEC73000,,,,green,al,34.9506,-85.2432,2021-04-23 12:40:10-05:00
+7311441919,birmingham,2999.0,2007.0,ford,taurus,,,gas,162029.0,clean,automatic,1FAFP56U47A197052,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-23 12:30:21-05:00
+7311423002,birmingham,15897.0,2018.0,chevrolet,malibu,,,gas,50153.0,clean,other,1G1ZB5ST6JF260156,fwd,,sedan,silver,al,34.2056,-86.85834,2021-04-23 12:02:04-05:00
+7311422771,birmingham,16700.0,2013.0,ford,f-150,,,gas,180917.0,clean,other,1FTFW1EF6DKD13303,4wd,,truck,,al,34.2056,-86.85834,2021-04-23 12:01:46-05:00
+7311421846,birmingham,6900.0,2010.0,mazda,3i,good,,gas,165255.0,rebuilt,automatic,JM1BL1SFXA1196709,fwd,mid-size,sedan,grey,al,33.243013,-86.81742,2021-04-23 12:00:32-05:00
+7311417807,birmingham,8500.0,2008.0,jeep,commander sport,good,,gas,198000.0,clean,automatic,JM1BL1SFXA1196709,rwd,full-size,SUV,black,al,33.243031,-86.817398,2021-04-23 11:54:12-05:00
+7311411301,birmingham,16900.0,2015.0,ram,1500 slt,good,,gas,97563.0,clean,automatic,1C6RR6GG6FS645954,rwd,full-size,pickup,silver,al,33.242995,-86.817398,2021-04-23 11:44:06-05:00
+7311395664,birmingham,21590.0,2016.0,ram,1500 regular cab tradesman,good,,gas,35391.0,clean,other,3C6JR6AG7GG225053,,,pickup,black,al,33.52,-86.79,2021-04-23 11:20:48-05:00
+7311390113,birmingham,24990.0,2007.0,ford,super duty f-450 drw,good,,gas,46463.0,clean,automatic,1FDXF46Y47EB23553,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:12:24-05:00
+7311389760,birmingham,33990.0,2016.0,chevrolet,express commercial cutaway,good,,gas,12398.0,clean,automatic,1GB3GSCG1G1125174,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:11:52-05:00
+7311389428,birmingham,4500.0,2005.0,acura,mdx,,,gas,279000.0,clean,automatic,2HNYD18905H558010,,,SUV,blue,al,33.455361,-86.962474,2021-04-23 11:11:25-05:00
+7311389371,birmingham,20990.0,2006.0,chevrolet,express cargo van,good,,diesel,134296.0,clean,automatic,1GCHG35U961223233,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:11:20-05:00
+7311388955,birmingham,25990.0,2016.0,,Isuzu NPR HD GAS REG,good,,gas,172373.0,clean,automatic,54DC4W1C3GS808110,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:10:48-05:00
+7311388578,birmingham,27990.0,2008.0,ford,econoline cargo van,good,,gas,83459.0,clean,automatic,1FTSE34L58DB30943,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:10:17-05:00
+7311388215,birmingham,43990.0,2016.0,chevrolet,4500 lcf gas,good,,gas,45542.0,clean,automatic,54DCDW1B9GS811777,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:09:45-05:00
+7311387863,birmingham,33990.0,2014.0,ford,super duty f-550 drw,good,,diesel,136250.0,clean,automatic,1FDUF5HT3EEB73528,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:09:13-05:00
+7311387508,birmingham,22990.0,2010.0,ford,econoline commercial cutaway,good,,gas,121911.0,clean,automatic,1FDXE4FSXADA69011,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:08:41-05:00
+7311387137,birmingham,24990.0,2017.0,gmc,savana commercial cutaway,good,,gas,136965.0,clean,automatic,1GD07RFF7H1143170,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:08:10-05:00
+7311386812,birmingham,24990.0,2009.0,chevrolet,3500 lcf gas,good,,gas,72789.0,clean,automatic,4KBB4W1N39J802032,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:07:38-05:00
+7311386461,birmingham,33990.0,2007.0,,Hino 268,good,,diesel,161693.0,clean,automatic,5PVNE8JV972S50609,rwd,full-size,truck,red,al,40.468785,-74.281707,2021-04-23 11:07:06-05:00
+7311386071,birmingham,25990.0,2006.0,chevrolet,express cargo van,good,,gas,73360.0,clean,automatic,1GCHG39U761205453,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:06:34-05:00
+7311385712,birmingham,16990.0,2004.0,ford,super duty f-250,good,,gas,213563.0,clean,automatic,1FTNW21L44EA70621,4wd,,,black,al,40.468785,-74.281707,2021-04-23 11:06:02-05:00
+7311385335,birmingham,29990.0,2011.0,ford,super duty f-450 drw,good,,diesel,137481.0,clean,automatic,1FD0X4HT9BEC31739,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:05:31-05:00
+7311384972,birmingham,29990.0,2012.0,,International TerraStar,good,,diesel,39013.0,clean,automatic,1HTJSSKK5CJ062097,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:04:58-05:00
+7311384865,birmingham,42990.0,2008.0,chevrolet,cc4500,good,,diesel,67159.0,clean,automatic,1GBE4E1998F408675,rwd,mid-size,,red,al,40.468785,-74.281707,2021-04-23 11:04:50-05:00
+7311384822,birmingham,33990.0,2007.0,chevrolet,cc4500,good,,gas,77581.0,clean,automatic,1GBE4C1G37F426428,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:04:47-05:00
+7311384826,birmingham,21990.0,2005.0,ford,econoline commercial cutaway,good,,gas,45554.0,clean,automatic,1FDWE35L75HA87173,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:04:47-05:00
+7311384837,birmingham,29990.0,2015.0,ford,super duty f-250 srw,good,,diesel,169564.0,clean,automatic,1FT7W2BT0FEC56912,4wd,,,white,al,40.468785,-74.281707,2021-04-23 11:04:48-05:00
+7311384869,birmingham,49990.0,2015.0,ford,super duty f-550 drw,good,,diesel,152701.0,clean,automatic,1FD0X5HT6FEC65813,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:04:51-05:00
+7311384791,birmingham,26990.0,1998.0,mitsubishi,fuso fh211,good,,diesel,166302.0,clean,manual,JW6CCH1G0WL002823,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:04:45-05:00
+7311384757,birmingham,29990.0,2008.0,chevrolet,express commercial cutaway,good,,diesel,65073.0,clean,automatic,1GBJG316781199191,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:04:42-05:00
+7311384750,birmingham,34990.0,2015.0,ford,transit cutaway,good,,gas,100058.0,clean,automatic,1FDNR5PM2FKA12967,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:04:41-05:00
+7311384779,birmingham,53483.4827039001,2017.0,,Freightliner M2 106 Medium Duty,good,,diesel,28400.0,clean,automatic,3ALACWDTXHDJG7052,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:04:44-05:00
+7311384526,birmingham,26990.0,2016.0,chevrolet,express commercial cutaway,good,,gas,75734.0,clean,automatic,1GB3GSCG5G1118910,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:04:25-05:00
+7311384137,birmingham,27490.0,2006.0,mitsubishi,fuso fe145,good,,diesel,96626.0,clean,automatic,JL6BBE1S86K001871,rwd,full-size,truck,green,al,40.468785,-74.281707,2021-04-23 11:03:53-05:00
+7311383740,birmingham,22990.0,2004.0,gmc,tc5500,good,,diesel,119091.0,clean,automatic,1GDE5C1244F515767,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:03:21-05:00
+7311383554,birmingham,28490.0,2008.0,mitsubishi,fuso fe145,good,,diesel,70643.0,clean,automatic,JL6BBE1S88K002084,rwd,full-size,truck,green,al,40.468785,-74.281707,2021-04-23 11:03:06-05:00
+7311383535,birmingham,33990.0,2012.0,ford,super duty f-250 srw,good,,diesel,49678.0,clean,automatic,1FTBF2BT2CEA75283,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:03:04-05:00
+7311383474,birmingham,20990.0,2008.0,ford,super duty f-350 srw,good,,gas,97626.0,clean,automatic,1FDWX31598ED44440,4wd,,,white,al,40.468785,-74.281707,2021-04-23 11:03:00-05:00
+7311383464,birmingham,25990.0,2011.0,ford,econoline commercial cutaway,good,,gas,105371.0,clean,automatic,1FDSE3FL6BDB36251,rwd,,,blue,al,40.468785,-74.281707,2021-04-23 11:02:59-05:00
+7311383441,birmingham,39990.0,2016.0,,Blue Bird All American,good,,diesel,65368.0,clean,automatic,1BAKDCPA3GF313137,rwd,,bus,white,al,40.468785,-74.281707,2021-04-23 11:02:58-05:00
+7311383445,birmingham,46990.0,2016.0,ram,4500,good,,diesel,17619.0,clean,automatic,3C7WRKCLXGG253742,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:58-05:00
+7311383424,birmingham,37990.0,2012.0,ford,super duty f-550 drw,good,,diesel,108061.0,clean,automatic,1FD0W5GT5CEC01732,rwd,,,black,al,40.468785,-74.281707,2021-04-23 11:02:56-05:00
+7311383423,birmingham,44990.0,2012.0,ford,super duty f-550 drw,good,,diesel,52307.0,clean,automatic,1FDUF5HT3CEA93689,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:56-05:00
+7311383466,birmingham,35990.0,2016.0,ford,super duty f-550 drw,good,,diesel,161669.0,clean,automatic,1FD0W5HT7GEC45588,4wd,,,white,al,40.468785,-74.281707,2021-04-23 11:02:59-05:00
+7311383408,birmingham,44990.0,2015.0,ram,5500,good,,diesel,80733.0,clean,automatic,3C7WRNFL3FG705901,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:55-05:00
+7311383405,birmingham,21990.0,2008.0,ford,super duty f-350 srw,good,,gas,72658.0,clean,automatic,1FDWX31578ED44436,4wd,,,white,al,40.468785,-74.281707,2021-04-23 11:02:55-05:00
+7311383400,birmingham,34990.0,2018.0,,Isuzu NPR HD GAS CREW,good,,gas,23.0,clean,automatic,54DC4J185JS808272,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:02:54-05:00
+7311383356,birmingham,30990.0,2014.0,ford,econoline commercial cutaway,good,,gas,98123.0,clean,automatic,1FDXE4FS6EDA78102,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:02:51-05:00
+7311383337,birmingham,26990.0,2015.0,,Isuzu NPR,good,,diesel,102863.0,clean,automatic,JALB4W175F7400016,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:49-05:00
+7311383342,birmingham,16990.0,2008.0,ford,super duty f-350 srw,good,,gas,147476.0,clean,automatic,1FDWW31568ED44446,4wd,,,white,al,40.468785,-74.281707,2021-04-23 11:02:49-05:00
+7311383322,birmingham,20990.0,2010.0,ram,2500,good,,gas,121850.0,clean,automatic,3D7LT2ET8AG132512,4wd,full-size,truck,black,al,40.468785,-74.281707,2021-04-23 11:02:48-05:00
+7311383338,birmingham,26990.0,2008.0,chevrolet,cc4500,good,,gas,100921.0,clean,automatic,1GBE4C3G38F402998,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:49-05:00
+7311383297,birmingham,52990.0,2014.0,ford,super duty f-550 drw,good,,diesel,15886.0,clean,automatic,1FDUF5HT8EEB30478,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:46-05:00
+7311383276,birmingham,53483.4827039001,2016.0,ford,super duty f-550 drw,good,,diesel,40193.0,clean,automatic,1FDUF5HTXGEB57135,4wd,,,red,al,40.468785,-74.281707,2021-04-23 11:02:45-05:00
+7311383252,birmingham,35990.0,2014.0,ford,super duty f-450 drw,good,,gas,42213.0,clean,automatic,1FDUF4HY0EEB43392,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:43-05:00
+7311383209,birmingham,27990.0,2011.0,ford,f-750,good,,diesel,123622.0,clean,automatic,3FRXF7FL5BV557295,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:02:40-05:00
+7311382278,birmingham,49990.0,2015.0,,Hino 268,good,,diesel,203867.0,clean,automatic,5PVNE8JP7F4S51018,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:01:09-05:00
+7311382048,birmingham,29990.0,2012.0,toyota,tacoma double cab pickup,good,,gas,43182.0,clean,other,3TMLU4EN4CM085701,4wd,,pickup,white,al,33.52,-86.79,2021-04-23 11:00:43-05:00
+7311381866,birmingham,33990.0,2007.0,,Hino 268,good,,diesel,161693.0,clean,automatic,5PVNE8JV972S50609,rwd,full-size,truck,red,al,40.468785,-74.281707,2021-04-23 11:00:20-05:00
+7311381850,birmingham,27490.0,2006.0,mitsubishi,fuso fe145,good,,diesel,96626.0,clean,automatic,JL6BBE1S86K001871,rwd,full-size,truck,green,al,40.468785,-74.281707,2021-04-23 11:00:18-05:00
+7311381844,birmingham,26990.0,2015.0,,Isuzu NPR,good,,diesel,102863.0,clean,automatic,JALB4W175F7400016,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:17-05:00
+7311381827,birmingham,16990.0,2004.0,ford,super duty f-250,good,,gas,213563.0,clean,automatic,1FTNW21L44EA70621,4wd,,,black,al,40.468785,-74.281707,2021-04-23 11:00:14-05:00
+7311381824,birmingham,49990.0,2015.0,,Hino 268,good,,diesel,203867.0,clean,automatic,5PVNE8JP7F4S51018,rwd,,,white,al,40.468785,-74.281707,2021-04-23 11:00:14-05:00
+7311381767,birmingham,33990.0,2014.0,ford,super duty f-550 drw,good,,diesel,136250.0,clean,automatic,1FDUF5HT3EEB73528,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:08-05:00
+7311381723,birmingham,24990.0,2009.0,chevrolet,3500 lcf gas,good,,gas,72789.0,clean,automatic,4KBB4W1N39J802032,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:05-05:00
+7311381694,birmingham,25990.0,2006.0,chevrolet,express cargo van,good,,gas,73360.0,clean,automatic,1GCHG39U761205453,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:02-05:00
+7311381686,birmingham,24990.0,2017.0,gmc,savana commercial cutaway,good,,gas,136965.0,clean,automatic,1GD07RFF7H1143170,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:01-05:00
+7311381687,birmingham,29990.0,2011.0,ford,super duty f-450 drw,good,,diesel,137481.0,clean,automatic,1FD0X4HT9BEC31739,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:01-05:00
+7311381690,birmingham,24990.0,2007.0,ford,super duty f-450 drw,good,,gas,46463.0,clean,automatic,1FDXF46Y47EB23553,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:01-05:00
+7311381692,birmingham,22990.0,2010.0,ford,econoline commercial cutaway,good,,gas,121911.0,clean,automatic,1FDXE4FSXADA69011,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 11:00:01-05:00
+7311381659,birmingham,20990.0,2006.0,chevrolet,express cargo van,good,,diesel,134296.0,clean,automatic,1GCHG35U961223233,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:59:58-05:00
+7311381664,birmingham,33990.0,2016.0,chevrolet,express commercial cutaway,good,,gas,12398.0,clean,automatic,1GB3GSCG1G1125174,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:59:58-05:00
+7311381633,birmingham,29990.0,2012.0,,International TerraStar,good,,diesel,39013.0,clean,automatic,1HTJSSKK5CJ062097,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:59:56-05:00
+7311381484,birmingham,25990.0,2016.0,,Isuzu NPR HD GAS REG,good,,gas,172373.0,clean,automatic,54DC4W1C3GS808110,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:59:38-05:00
+7311381460,birmingham,22990.0,2004.0,gmc,tc5500,good,,diesel,119091.0,clean,automatic,1GDE5C1244F515767,rwd,,,white,al,40.468785,-74.281707,2021-04-23 10:59:36-05:00
+7311381454,birmingham,26990.0,2016.0,chevrolet,express commercial cutaway,good,,gas,75734.0,clean,automatic,1GB3GSCG5G1118910,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:59:35-05:00
+7311381423,birmingham,43990.0,2016.0,chevrolet,4500 lcf gas,good,,gas,45542.0,clean,automatic,54DCDW1B9GS811777,rwd,,,white,al,40.468785,-74.281707,2021-04-23 10:59:31-05:00
+7311381424,birmingham,27990.0,2008.0,ford,econoline cargo van,good,,gas,83459.0,clean,automatic,1FTSE34L58DB30943,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:59:31-05:00
+7311380857,birmingham,29990.0,2008.0,,Workhorse W42,good,,gas,60386.0,clean,automatic,5B4HPD28X83430899,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:58:30-05:00
+7311380317,birmingham,14990.0,2012.0,ford,econoline,good,,gas,67820.0,clean,automatic,1FDXE4FL1CDA39522,rwd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:57:43-05:00
+7311380284,birmingham,32990.0,2011.0,chevrolet,silverado 3500hd,good,,gas,22076.0,clean,automatic,1GB3CZCGXBF220025,rwd,,,black,al,40.468785,-74.281707,2021-04-23 10:57:40-05:00
+7311380183,birmingham,53483.4827039001,2017.0,ford,super duty f-550 drw,good,,diesel,31337.0,clean,automatic,1FD0X5HTXHEB33429,4wd,full-size,truck,white,al,40.468785,-74.281707,2021-04-23 10:57:30-05:00
+7311380128,birmingham,31990.0,2006.0,ford,super duty f-550 drw,good,,diesel,59429.0,clean,automatic,1FDAW57P46ED02529,4wd,full-size,truck,red,al,40.468785,-74.281707,2021-04-23 10:57:23-05:00
+7311371151,birmingham,20888.0,2015.0,mercedes-benz,benz ml 450,excellent,,gas,111261.0,clean,automatic,,4wd,full-size,SUV,silver,al,32.9229,-86.545,2021-04-23 10:43:09-05:00
+7311367867,birmingham,31888.0,2015.0,gmc,1500 yukon slt,good,,gas,109947.0,clean,automatic,,rwd,full-size,SUV,white,al,33.3813,-86.7046,2021-04-23 10:37:46-05:00
+7311365259,birmingham,10888.0,2014.0,kia,sorento lx,good,,gas,121259.0,clean,automatic,,fwd,compact,SUV,red,al,33.4188,-86.7867,2021-04-23 10:33:23-05:00
+7311360610,birmingham,26900.0,2019.0,ford,f150 regular cab xl,excellent,,gas,8176.0,clean,automatic,,rwd,full-size,pickup,white,al,33.4188,-86.7867,2021-04-23 10:26:14-05:00
+7311351910,birmingham,49895.0,2013.0,,he Macan,,,gas,26985.0,clean,automatic,WP1AA2A56JLB10699,,,SUV,white,al,33.669601,-86.817617,2021-04-23 10:11:39-05:00
+7311350665,birmingham,6950.0,1994.0,jeep,wrangler,excellent,,gas,160000.0,clean,manual,,4wd,full-size,,green,al,33.6081,-86.6302,2021-04-23 10:09:43-05:00
+7311346662,birmingham,40888.0,2020.0,jeep,gladiator,like new,,gas,27955.0,clean,automatic,,4wd,mid-size,SUV,black,al,32.9229,-86.545,2021-04-23 10:03:07-05:00
+7311345301,birmingham,14995.0,2007.0,jeep,wrangler unlimited sahara,good,,gas,163169.0,clean,automatic,,4wd,mid-size,SUV,black,al,32.9229,-86.545,2021-04-23 10:01:10-05:00
+7311339049,birmingham,32990.0,2011.0,bmw,z4 sdrive35is roadster 2d,good,,other,45858.0,clean,other,WBALM1C55BE393513,rwd,,other,red,al,33.52,-86.79,2021-04-23 09:50:54-05:00
+7311332954,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-23 09:40:12-05:00
+7311319559,birmingham,19997.0,2009.0,dodge,challenger,excellent,,gas,83491.0,clean,automatic,2B3LJ74WX9H538989,rwd,,coupe,,al,35.839799,-86.386926,2021-04-23 09:16:26-05:00
+7311319413,birmingham,16589.0,2018.0,ford,fusion,excellent,,gas,84867.0,clean,automatic,3FA6P0K91JR283792,fwd,,sedan,,al,35.839799,-86.386926,2021-04-23 09:16:11-05:00
+7311319201,birmingham,21500.0,2013.0,jeep,wrangler,excellent,,gas,78270.0,clean,manual,1C4AJWAG3DL547834,4wd,mid-size,convertible,,al,35.839799,-86.386926,2021-04-23 09:15:51-05:00
+7311319080,birmingham,23997.0,2017.0,infiniti,qx70,excellent,,gas,84416.0,clean,automatic,JN8CS1MU4HM140460,rwd,,SUV,,al,35.839799,-86.386926,2021-04-23 09:15:39-05:00
+7311318941,birmingham,22510.0,2015.0,mercedes-benz,m-class,excellent,,gas,74909.0,clean,automatic,4JGDA5HB4FA498476,4wd,,SUV,,al,35.839799,-86.386926,2021-04-23 09:15:26-05:00
+7311318807,birmingham,47997.0,2018.0,lexus,gx,excellent,,gas,50144.0,clean,automatic,JTJJM7FX8J5193232,4wd,,SUV,,al,35.839799,-86.386926,2021-04-23 09:15:14-05:00
+7311306355,birmingham,14988.0,2007.0,jeep,wrangler,,,gas,163169.0,clean,automatic,1J4GA59137L196006,4wd,,,black,al,32.9229,-86.545,2021-04-23 08:52:53-05:00
+7311306359,birmingham,30292.0,2017.0,toyota,tacoma,,,gas,48697.0,clean,automatic,5TFAZ5CN5HX043072,rwd,,,,al,32.9229,-86.545,2021-04-23 08:52:53-05:00
+7311306345,birmingham,18444.0,2015.0,lincoln,mkc,,,gas,68953.0,clean,automatic,5LMTJ2AH3FUJ33050,,,,black,al,32.9229,-86.545,2021-04-23 08:52:52-05:00
+7311306329,birmingham,26991.0,2019.0,nissan,frontier,,,gas,12357.0,clean,automatic,1N6DD0ER0KN766844,rwd,,,white,al,32.9229,-86.545,2021-04-23 08:52:51-05:00
+7311302496,birmingham,1977.0,2003.0,mitsubishi,lancer,,,gas,238757.0,clean,manual,JA3AJ26E03U008630,fwd,,,,al,33.168322,-87.491902,2021-04-23 08:45:39-05:00
+7311269291,birmingham,31990.0,2018.0,ram,1500 quad cab harvest pickup,good,,gas,27426.0,clean,other,1C6RR7GG8JS247420,4wd,,pickup,white,al,33.52,-86.79,2021-04-23 07:21:11-05:00
+7311244435,birmingham,8990.0,2008.0,ford,edge,,,gas,152772.0,clean,automatic,2FMDK49C78BA98563,4wd,,sedan,white,al,33.669601,-86.817617,2021-04-23 04:50:40-05:00
+7311235901,birmingham,10000.0,2015.0,chrysler,200,like new,,gas,73381.0,clean,automatic,,fwd,,sedan,white,al,33.2897,-86.7969,2021-04-23 02:47:19-05:00
+7311184072,birmingham,4000.0,2014.0,chevrolet,sonic lt,like new,,gas,135000.0,clean,manual,,fwd,compact,sedan,silver,al,33.6493,-86.7057,2021-04-22 21:12:53-05:00
+7311166779,birmingham,8500.0,2015.0,nissan,altima 2.5 s,excellent,,gas,100000.0,clean,automatic,1N4AL3AP5FN898640,fwd,full-size,sedan,white,al,33.2932,-86.768,2021-04-22 20:16:27-05:00
+7311161608,birmingham,10000.0,1994.0,ford,f150,good,,gas,76572.0,clean,automatic,1FTEF15N1RNA56088,rwd,,,white,al,33.4653,-86.8082,2021-04-22 20:01:10-05:00
+7311157912,birmingham,1900.0,2005.0,ford,focus,,,gas,204621.0,clean,automatic,1FAFP34N35W152250,fwd,,,red,al,33.455361,-86.962474,2021-04-22 19:50:18-05:00
+7311117755,birmingham,17875.0,1995.0,chevrolet,corvette,,,gas,85970.0,clean,automatic,1G1YY32P7S5114521,,,convertible,green,al,27.907158,-82.787506,2021-04-22 18:11:09-05:00
+7311111854,birmingham,2595.0,2003.0,ford,f-150,excellent,,gas,149055.0,clean,automatic,,4wd,full-size,pickup,red,al,33.5062,-86.8003,2021-04-22 17:58:44-05:00
+7311081786,birmingham,5980.0,2006.0,chevrolet,impala lt,,,gas,165000.0,clean,automatic,,,,,,al,33.209393,-86.783237,2021-04-22 16:53:27-05:00
+7311081118,birmingham,6980.0,2008.0,toyota,avalon,,,gas,158000.0,clean,automatic,,,,,,al,33.20968,-86.783581,2021-04-22 16:52:09-05:00
+7311080665,birmingham,7280.0,2014.0,nissan,altima,,,gas,135000.0,clean,automatic,,,,,,al,33.209824,-86.783409,2021-04-22 16:51:12-05:00
+7311080360,birmingham,5980.0,2013.0,mini,cooper s,,,gas,149000.0,clean,automatic,,,,,,al,33.209537,-86.783409,2021-04-22 16:50:34-05:00
+7311080132,birmingham,6980.0,2013.0,kia,optima ex,,,gas,193000.0,clean,automatic,,,,,,al,33.209393,-86.782894,2021-04-22 16:50:06-05:00
+7311079888,birmingham,5980.0,2013.0,jeep,patriot,,,gas,106000.0,clean,automatic,,,,,,al,33.209795,-86.782551,2021-04-22 16:49:35-05:00
+7311043058,birmingham,500.0,2021.0,,SPECIAL FINANCE PROGRAM 2020,fair,,other,1400.0,clean,other,,,full-size,bus,green,al,32.9229,-86.545,2021-04-22 15:40:11-05:00
+7311042920,birmingham,40888.0,2020.0,jeep,gladiator,like new,,gas,27955.0,clean,automatic,,4wd,mid-size,SUV,black,al,32.9229,-86.545,2021-04-22 15:39:57-05:00
+7311033661,birmingham,14888.0,2007.0,jeep,wrangler unlimited sahara,good,,gas,163169.0,clean,automatic,,4wd,mid-size,SUV,black,al,32.9229,-86.545,2021-04-22 15:23:11-05:00
+7310967777,birmingham,22990.0,2017.0,infiniti,qx50 sport utility 4d,good,,other,21297.0,clean,other,JN1BJ0RP2HM382528,,,hatchback,black,al,33.52,-86.79,2021-04-22 13:30:36-05:00
+7310961550,birmingham,4425.0,2004.0,honda,accord sedan,,,gas,192275.0,clean,automatic,1HGCM56694A166593,fwd,,sedan,black,al,33.455361,-86.962474,2021-04-22 13:20:26-05:00
+7310946321,birmingham,24995.0,2006.0,,HUMMER H2 Lifted 4x4,,,gas,130066.0,clean,automatic,,4wd,,SUV,blue,al,37.4011,-77.4615,2021-04-22 12:56:04-05:00
+7310943268,birmingham,33950.0,2011.0,ford,f-250 super duty lariat cre,,,other,171524.0,clean,automatic,,4wd,,pickup,,al,37.4011,-77.4615,2021-04-22 12:51:11-05:00
+7310940303,birmingham,8950.0,2011.0,ford,e-series cargo e350 super d,,,other,180502.0,clean,automatic,,rwd,,van,white,al,37.4011,-77.4615,2021-04-22 12:46:29-05:00
+7310937354,birmingham,53483.4827039001,2012.0,ford,f750 four car hauler rollba,,,diesel,267001.0,clean,automatic,,,,,white,al,37.4011,-77.4615,2021-04-22 12:41:47-05:00
+7310934354,birmingham,41995.0,2017.0,ford,f-350 superduty dually 4x4,,,other,280463.0,clean,automatic,,4wd,,pickup,white,al,37.4011,-77.4615,2021-04-22 12:36:54-05:00
+7310928510,birmingham,53483.4827039001,2019.0,ford,f550 super duty rollback/wr,,,gas,88140.0,clean,automatic,,,,,silver,al,37.4011,-77.4615,2021-04-22 12:27:50-05:00
+7310925722,birmingham,9995.0,1986.0,ford,f-150 regular cab short bed,,,gas,46789.0,clean,automatic,,rwd,,pickup,red,al,37.4011,-77.4615,2021-04-22 12:23:18-05:00
+7310924243,birmingham,25590.0,2017.0,infiniti,q70 3.7 sedan 4d,good,,other,66632.0,clean,other,JN1BY1APXHM740651,rwd,,sedan,blue,al,33.52,-86.79,2021-04-22 12:20:50-05:00
+7310922777,birmingham,3995.0,1989.0,dodge,dakota regular cab long be,,,gas,101958.0,clean,automatic,,rwd,,pickup,grey,al,37.4011,-77.4615,2021-04-22 12:18:31-05:00
+7310912188,birmingham,15897.0,2016.0,ford,transit connect wagon,,,gas,71097.0,clean,other,NM0GS9F74G1243703,fwd,,van,yellow,al,34.2056,-86.85834,2021-04-22 12:01:59-05:00
+7310912043,birmingham,12897.0,2016.0,buick,encore,,,gas,83501.0,clean,other,KL4CJASBXGB557960,fwd,,SUV,black,al,34.2056,-86.85834,2021-04-22 12:01:48-05:00
+7310890361,birmingham,6950.0,1998.0,ford,f150 xlt,excellent,,gas,206000.0,clean,automatic,,rwd,full-size,truck,green,al,33.468,-87.0924,2021-04-22 11:28:20-05:00
+7310878803,birmingham,3450.0,2006.0,toyota,corolla,,,gas,206058.0,clean,automatic,2T1BR32E36C706726,fwd,,sedan,red,al,33.455361,-86.962474,2021-04-22 11:11:08-05:00
+7310866053,birmingham,32590.0,2013.0,lexus,ls 460 sedan 4d,good,,gas,30384.0,clean,other,JTHBL5EF1D5123341,rwd,,sedan,,al,33.52,-86.79,2021-04-22 10:51:01-05:00
+7310866001,birmingham,23590.0,2018.0,mitsubishi,outlander phev gt,good,,other,48933.0,clean,other,JA4J24A58JZ011951,4wd,,other,white,al,33.52,-86.79,2021-04-22 10:50:58-05:00
+7310842680,birmingham,45990.0,2013.0,,des-Benz E-Class,,,gas,38165.0,clean,automatic,WDD1J6GBXJF015072,,,coupe,red,al,33.669601,-86.817617,2021-04-22 10:12:01-05:00
+7310824428,birmingham,33590.0,2017.0,cadillac,xt5 platinum sport,good,,gas,28891.0,clean,other,1GYKNFRS1HZ312573,,,other,black,al,33.52,-86.79,2021-04-22 09:41:12-05:00
+7310810497,birmingham,39888.0,2019.0,honda,civic type r,like new,,gas,9528.0,clean,manual,SHHFK8G79KU202456,,,hatchback,,al,32.9229,-86.545,2021-04-22 09:14:56-05:00
+7310810445,birmingham,16902.0,2020.0,toyota,corolla,,,gas,11692.0,clean,automatic,5YFDPRAE6LP106166,fwd,,,black,al,32.9229,-86.545,2021-04-22 09:14:51-05:00
+7310797034,birmingham,18877.0,2017.0,toyota,camry,,,gas,52822.0,clean,automatic,4T1BF1FK5HU280679,fwd,,,silver,al,33.168322,-87.491902,2021-04-22 08:48:13-05:00
+7310774612,birmingham,31590.0,2017.0,lexus,rx 350 sport utility 4d,good,,gas,28185.0,clean,other,2T2ZZMCAXHC078839,fwd,,SUV,silver,al,33.52,-86.79,2021-04-22 07:56:49-05:00
+7310757953,birmingham,5500.0,2006.0,cadillac,cts,excellent,,gas,111111.0,clean,other,,,,,grey,al,34.0516,-86.7848,2021-04-22 06:57:45-05:00
+7310754731,birmingham,2700.0,2004.0,nissan,maxima,good,,gas,200000.0,clean,automatic,,fwd,full-size,sedan,white,al,33.6954,-84.2489,2021-04-22 06:42:46-05:00
+7310739471,birmingham,22990.0,2014.0,lexus,is 250,,,gas,72526.0,clean,automatic,JTHCF1D25E5004261,,,sedan,white,al,33.669601,-86.817617,2021-04-22 04:50:45-05:00
+7310721238,birmingham,1500.0,2002.0,honda,accord,,,gas,168000.0,clean,automatic,,,,,,al,33.409,-86.9475,2021-04-22 00:53:45-05:00
+7310691206,birmingham,20000.0,2010.0,toyota,4runner limited,excellent,,gas,113750.0,clean,automatic,,fwd,mid-size,SUV,silver,al,33.384383,-86.738906,2021-04-21 21:59:35-05:00
+7310683747,birmingham,21500.0,2015.0,lexus,rx350,excellent,,gas,73000.0,clean,automatic,,,,,,al,33.544096,-86.534376,2021-04-21 21:30:17-05:00
+7310652910,birmingham,2999.0,2005.0,ford,taurus,,,gas,226797.0,clean,automatic,1FAFP56U35A285359,fwd,,sedan,white,al,33.455361,-86.962474,2021-04-21 19:50:27-05:00
+7310629921,birmingham,2900.0,1999.0,lexus,gs400,good,,gas,378000.0,clean,automatic,,,full-size,sedan,white,al,33.1934,-86.7944,2021-04-21 18:49:15-05:00
+7310558401,birmingham,4380.0,2007.0,hyundai,entourage,,,gas,185000.0,clean,automatic,,,,,,al,33.209393,-86.783237,2021-04-21 16:17:25-05:00
+7310556938,birmingham,5980.0,2006.0,honda,odyssey exl,,,gas,167000.0,clean,automatic,,,,,,al,33.209393,-86.783409,2021-04-21 16:14:42-05:00
+7310556661,birmingham,5980.0,2010.0,gmc,terrain slt,,,gas,208000.0,clean,automatic,,,,,,al,33.209938,-86.783323,2021-04-21 16:14:11-05:00
+7310554816,birmingham,5980.0,2009.0,ford,fusion se,,,gas,178000.0,clean,automatic,,,,,,al,33.209824,-86.783237,2021-04-21 16:10:49-05:00
+7310553897,birmingham,5480.0,2013.0,chevrolet,captiva,,,gas,182000.0,clean,automatic,,,,,,al,33.209537,-86.783237,2021-04-21 16:09:09-05:00
+7310543009,birmingham,5980.0,2006.0,chrysler,300c,,,gas,160000.0,clean,automatic,,,,,,al,33.20968,-86.783581,2021-04-21 15:49:45-05:00
+7310542824,birmingham,5980.0,2008.0,cadillac,srx,,,gas,189000.0,clean,automatic,,,,,,al,33.209249,-86.783581,2021-04-21 15:49:22-05:00
+7310542584,birmingham,6480.0,2008.0,buick,enclave cxl,,,gas,183000.0,clean,automatic,,,,,,al,33.20968,-86.783066,2021-04-21 15:48:55-05:00
+7310542361,birmingham,5980.0,2005.0,acura,tl,,,gas,179000.0,clean,automatic,,,,,,al,33.209967,-86.783409,2021-04-21 15:48:28-05:00
+7310532358,birmingham,3399.0,2006.0,buick,lacrosse,,,gas,160218.0,clean,automatic,2G4WD582061211256,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-21 15:30:44-05:00
+7310511908,birmingham,10750.0,2006.0,toyota,tacoma,good,,gas,223160.0,clean,automatic,,rwd,mid-size,pickup,red,al,33.366202,-86.940651,2021-04-21 14:55:30-05:00
+7310484790,birmingham,10980.0,2012.0,ford,f150,,,gas,178000.0,clean,automatic,,,,,,al,33.209249,-86.783409,2021-04-21 14:10:40-05:00
+7310478952,birmingham,6480.0,2012.0,nissan,altima,,,gas,145000.0,clean,automatic,,,,,,al,33.209824,-86.783409,2021-04-21 14:01:28-05:00
+7310473595,birmingham,7980.0,2008.0,bmw,x5,,,gas,157000.0,clean,automatic,,,,,,al,33.209537,-86.782894,2021-04-21 13:52:28-05:00
+7310470630,birmingham,4980.0,2001.0,ford,crown victoria,,,gas,106000.0,clean,automatic,,,,,,al,33.209393,-86.783066,2021-04-21 13:47:42-05:00
+7310468027,birmingham,5980.0,2009.0,cadillac,sts v6,,,gas,129000.0,clean,automatic,,,,,,al,33.209651,-86.783237,2021-04-21 13:43:14-05:00
+7310466561,birmingham,199.0,2017.0,dodge,charger,,,gas,21737.0,clean,automatic,,,,,,al,33.4816,-86.859,2021-04-21 13:40:48-05:00
+7310463147,birmingham,7980.0,2013.0,bmw,x3,,,gas,156000.0,clean,automatic,,,,,,al,33.209537,-86.783066,2021-04-21 13:35:01-05:00
+7310459061,birmingham,6950.0,2011.0,nissan,quest,,,gas,54443.0,rebuilt,automatic,,,,,,al,36.0725,-86.724,2021-04-21 13:28:42-05:00
+7310453788,birmingham,3650.0,2008.0,kia,rio,,,gas,115124.0,clean,automatic,KNADE123786319837,fwd,,sedan,silver,al,33.455361,-86.962474,2021-04-21 13:20:34-05:00
+7310447967,birmingham,15590.0,2016.0,,Scion iM Hatchback 4D,good,,other,64923.0,clean,other,JTNKARJE6GJ504489,fwd,,hatchback,blue,al,33.52,-86.79,2021-04-21 13:11:27-05:00
+7310434701,birmingham,24990.0,2014.0,acura,mdx sh-awd sport utility,good,,gas,52396.0,clean,automatic,5FRYD4H81EB042046,,,SUV,silver,al,33.52,-86.79,2021-04-21 12:50:40-05:00
+7310413137,birmingham,1700.0,2002.0,buick,lesabre,good,,gas,171690.0,clean,automatic,,,,sedan,,al,33.6328,-86.6493,2021-04-21 12:16:04-05:00
+7310403124,birmingham,16897.0,2018.0,hyundai,elantra,,,gas,71224.0,clean,other,5NPD84LFXJH396699,fwd,,sedan,black,al,34.2056,-86.85834,2021-04-21 12:01:11-05:00
+7310402877,birmingham,27897.0,2013.0,chevrolet,silverado 1500,,,gas,55033.0,clean,other,3GCPCTE09DG226555,rwd,,truck,red,al,34.2056,-86.85834,2021-04-21 12:00:52-05:00
+7310370273,birmingham,2600.0,2000.0,buick,lesabre,,,gas,212061.0,clean,automatic,1G4HR54K6YU316195,fwd,,,blue,al,33.455361,-86.962474,2021-04-21 11:11:00-05:00
+7310357656,birmingham,23990.0,2014.0,acura,mdx sh-awd sport utility,good,,gas,62390.0,clean,other,5FRYD4H45EB042564,,,SUV,,al,33.52,-86.79,2021-04-21 10:51:43-05:00
+7310358587,birmingham,21790.0,2016.0,chevrolet,silverado 1500 lt,good,,gas,100662.0,clean,automatic,,rwd,full-size,pickup,white,al,33.9382,-84.5403,2021-04-21 10:53:11-05:00
+7310357627,birmingham,38590.0,2019.0,acura,mdx sh-awd w/technology,good,,other,14906.0,clean,other,5J8YD4H52KL002706,,,other,white,al,33.52,-86.79,2021-04-21 10:51:40-05:00
+7310332701,birmingham,36990.0,2013.0,,des-Benz E-Class,,,gas,30967.0,clean,other,WDDZF4JB7JA379223,rwd,,sedan,silver,al,33.669601,-86.817617,2021-04-21 10:11:29-05:00
+7310325951,birmingham,39590.0,2019.0,acura,mdx sh-awd w/technology,good,,gas,8919.0,clean,other,5J8YD4H50KL008682,,,other,,al,33.52,-86.79,2021-04-21 10:01:10-05:00
+7310297272,birmingham,2700.0,2004.0,nissan,maxima,good,,gas,200000.0,clean,automatic,,fwd,full-size,sedan,white,al,33.6954,-84.2489,2021-04-21 09:11:17-05:00
+7310288297,birmingham,24958.0,2020.0,toyota,camry,,,gas,4862.0,clean,automatic,4T1G11AK6LU987956,fwd,,,white,al,32.9229,-86.545,2021-04-21 08:54:55-05:00
+7310288277,birmingham,27958.0,2020.0,nissan,altima,,,gas,6333.0,clean,automatic,1N4AL4FV1LN304196,fwd,,,red,al,32.9229,-86.545,2021-04-21 08:54:53-05:00
+7310288279,birmingham,23161.0,2019.0,chrysler,300,,,gas,23461.0,clean,automatic,2C3CCAAG5KH589958,rwd,,,red,al,32.9229,-86.545,2021-04-21 08:54:53-05:00
+7310284575,birmingham,15977.0,2016.0,jeep,cherokee,,,gas,48322.0,clean,automatic,1C4PJMCB2GW152594,4wd,,,,al,33.168322,-87.491902,2021-04-21 08:47:58-05:00
+7310253814,birmingham,32990.0,2018.0,acura,mdx sh-awd w/technology,good,,gas,31967.0,clean,other,5J8YD4H59JL010087,,,SUV,brown,al,33.52,-86.79,2021-04-21 07:31:38-05:00
+7310225162,birmingham,29890.0,2017.0,infiniti,qx70,,,gas,32913.0,clean,automatic,JN8CS1MW5HM411107,,,SUV,black,al,33.669601,-86.817617,2021-04-21 04:50:52-05:00
+7310160004,birmingham,19900.0,2014.0,toyota,4runner 4wd,excellent,,gas,231000.0,clean,automatic,JTEBU5JR0E5184790,4wd,full-size,,silver,al,33.6493,-86.7057,2021-04-20 21:01:20-05:00
+7310136927,birmingham,3299.0,2002.0,ford,escape,,,gas,249302.0,clean,automatic,1FMCU03192KB03362,fwd,,,white,al,33.455361,-86.962474,2021-04-20 19:50:36-05:00
+7310082211,birmingham,3495.0,2008.0,chevrolet,malibu,,,gas,157305.0,clean,automatic,1G1ZK57738F235673,fwd,,sedan,,al,33.455361,-86.962474,2021-04-20 17:40:27-05:00
+7310034215,birmingham,18990.0,2010.0,ford,econoline cargo van,good,,gas,32988.0,clean,automatic,1FTNE2EW3ADA14050,rwd,mid-size,van,white,al,40.468785,-74.281707,2021-04-20 16:02:05-05:00
+7310016314,birmingham,4499.0,2005.0,toyota,camry,,,gas,170687.0,clean,automatic,4T1BE32K55U090199,fwd,,sedan,blue,al,33.455361,-86.962474,2021-04-20 15:30:20-05:00
+7309980084,birmingham,32995.0,2012.0,ford,f250 super duty,,,gas,37473.0,clean,automatic,1FDBF2B63CEC57788,4wd,,,white,al,34.9506,-85.2432,2021-04-20 14:27:44-05:00
+7309972050,birmingham,14900.0,2011.0,mercedes-benz,benz s550,,,gas,113907.0,rebuilt,automatic,,,,,,al,36.0725,-86.724,2021-04-20 14:14:29-05:00
+7309953468,birmingham,15900.0,2017.0,nissan,frontier sv,good,,gas,28650.0,rebuilt,automatic,1N6BD0CT2HN739952,rwd,full-size,truck,white,al,33.243013,-86.817355,2021-04-20 13:44:59-05:00
+7309953039,birmingham,13900.0,2013.0,honda,cr-v lx,good,,gas,86933.0,clean,automatic,5J6RM3H3XDL038359,fwd,full-size,SUV,blue,al,33.242995,-86.817291,2021-04-20 13:44:19-05:00
+7309951979,birmingham,9800.0,2008.0,mazda,cx-9 touring,good,,gas,138266.0,clean,automatic,JM3TB28A380158898,fwd,full-size,SUV,white,al,33.242959,-86.817355,2021-04-20 13:42:36-05:00
+7309951024,birmingham,7000.0,2004.0,jaguar,xjr s,good,,gas,135185.0,clean,automatic,SAJWA73B44TG16628,rwd,full-size,sedan,red,al,33.243013,-86.817355,2021-04-20 13:41:00-05:00
+7309911243,birmingham,17590.0,2015.0,kia,soul ! wagon 4d,good,,gas,25491.0,clean,other,KNDJX3A59F7772430,fwd,,wagon,green,al,33.52,-86.79,2021-04-20 12:41:06-05:00
+7309911166,birmingham,33990.0,2019.0,acura,rdx sh-awd sport utility,good,,gas,11902.0,clean,other,5J8TC2H30KL041519,,,SUV,red,al,33.52,-86.79,2021-04-20 12:40:59-05:00
+7309902142,birmingham,19850.0,2013.0,bmw,750li,good,,gas,90822.0,clean,other,WBAYE8C58DD132025,,,sedan,black,al,33.513909,-86.786162,2021-04-20 12:28:29-05:00
+7309902021,birmingham,11850.0,2008.0,rover,,good,,gas,111254.0,clean,other,SALMF13428A268857,,full-size,SUV,black,al,33.513909,-86.786162,2021-04-20 12:28:14-05:00
+7309893460,birmingham,15900.0,2005.0,,Kenworth T300,good,,diesel,360000.0,clean,manual,,,,,white,al,34.2098,-86.752,2021-04-20 12:15:43-05:00
+7309889032,birmingham,4995.0,2005.0,ford,freestar ses,,,gas,121724.0,clean,automatic,2FMZA57605BA66741,,,,silver,al,34.9506,-85.2432,2021-04-20 12:09:25-05:00
+7309875648,birmingham,26000.0,1973.0,chevrolet,k5 blazer,,,gas,67013.0,clean,automatic,,,,,,al,33.4653,-86.8082,2021-04-20 11:50:48-05:00
+7309868933,birmingham,33990.0,2020.0,alfa-romeo,romeo giulia sedan 4d,good,,gas,9711.0,clean,other,ZARFAMAN1L7630118,rwd,,sedan,white,al,33.52,-86.79,2021-04-20 11:40:57-05:00
+7309868912,birmingham,16990.0,2018.0,hyundai,sonata se sedan 4d,good,,gas,31871.0,clean,other,5NPE24AF5JH692092,fwd,,sedan,red,al,33.52,-86.79,2021-04-20 11:40:55-05:00
+7309848224,birmingham,3800.0,2000.0,toyota,camry,,,gas,164814.0,clean,automatic,4T1BG22K9YU991195,fwd,,sedan,,al,33.455361,-86.962474,2021-04-20 11:11:03-05:00
+7309840433,birmingham,11500.0,2011.0,bmw,328i,excellent,,gas,126000.0,clean,automatic,,rwd,mid-size,sedan,black,al,33.102442,-86.740751,2021-04-20 10:59:25-05:00
+7309807810,birmingham,28990.0,2013.0,,CX-5,,,gas,9193.0,clean,automatic,JM3KFADM2K0531978,fwd,,SUV,white,al,33.669601,-86.817617,2021-04-20 10:10:51-05:00
+7309795344,birmingham,53483.4827039001,2018.0,cadillac,escalade esv platinum,good,,other,58874.0,clean,automatic,1GYS4KKJXJR155824,4wd,,other,black,al,33.52,-86.79,2021-04-20 09:51:11-05:00
+7309760873,birmingham,12307.0,2018.0,kia,soul,,,gas,95056.0,clean,automatic,KNDJP3A58J7592011,fwd,,,red,al,32.9229,-86.545,2021-04-20 08:51:38-05:00
+7309760815,birmingham,20989.0,2019.0,toyota,camry,,,gas,43464.0,clean,automatic,4T1B11HK7KU716273,fwd,,,white,al,32.9229,-86.545,2021-04-20 08:51:33-05:00
+7309760796,birmingham,15108.0,2016.0,honda,cr-v,,,gas,92347.0,clean,automatic,2HKRM3H31GH561218,fwd,,,,al,32.9229,-86.545,2021-04-20 08:51:30-05:00
+7309757877,birmingham,14577.0,2011.0,nissan,titan,,,gas,156380.0,clean,automatic,1N6BA0ECXBN317229,4wd,,,white,al,33.168322,-87.491902,2021-04-20 08:46:02-05:00
+7309757858,birmingham,19477.0,2015.0,jeep,grand cherokee,,,gas,108819.0,clean,automatic,1C4RJECG9FC719149,,,,black,al,33.168322,-87.491902,2021-04-20 08:46:00-05:00
+7309733736,birmingham,35990.0,2018.0,mercedes-benz,e-class e 300,good,,gas,8211.0,clean,automatic,WDDZF4JB5JA329436,rwd,,sedan,blue,al,33.52,-86.79,2021-04-20 07:54:29-05:00
+7309729237,birmingham,16969.0,2013.0,,,,,,89687.5,,,,,,,,,33.455361,-86.737847,
